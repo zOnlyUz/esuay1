@@ -1,0 +1,3041 @@
+{
+  "formats": 1,
+  "gameversion": "A4D8EC488407271C",
+  "skins": {
+    "version": "A4D8EC488407271C",
+    "549b06bb-4704-25ce-19d5-c9b70b10de19": {
+      "uuid": "549b06bb-4704-25ce-19d5-c9b70b10de19",
+      "name": "Glitchpop Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/549b06bb-4704-25ce-19d5-c9b70b10de19/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "5f86ac54-46b0-806f-f200-dd89fbcd7cb9": {
+      "uuid": "5f86ac54-46b0-806f-f200-dd89fbcd7cb9",
+      "name": "Nitro Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5f86ac54-46b0-806f-f200-dd89fbcd7cb9/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "49292f21-4f5e-0a1a-3671-54b7ca8fe65a": {
+      "uuid": "49292f21-4f5e-0a1a-3671-54b7ca8fe65a",
+      "name": "dot EXE Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/49292f21-4f5e-0a1a-3671-54b7ca8fe65a/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "ef564ec3-497c-3038-543e-eb94bbe46437": {
+      "uuid": "ef564ec3-497c-3038-543e-eb94bbe46437",
+      "name": "Prime//2.0 Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ef564ec3-497c-3038-543e-eb94bbe46437/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "7e323e82-44b6-1711-2028-10af32c632d5": {
+      "uuid": "7e323e82-44b6-1711-2028-10af32c632d5",
+      "name": "Prism III Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7e323e82-44b6-1711-2028-10af32c632d5/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "c59442a5-4b74-792c-d996-71a5fb340625": {
+      "uuid": "c59442a5-4b74-792c-d996-71a5fb340625",
+      "name": "Smite Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c59442a5-4b74-792c-d996-71a5fb340625/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "1bfea917-4262-37ba-3a76-04b937f2d0be": {
+      "uuid": "1bfea917-4262-37ba-3a76-04b937f2d0be",
+      "name": "Sensation Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1bfea917-4262-37ba-3a76-04b937f2d0be/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "162beb92-4ab7-4383-da51-4b94ba90bd5d": {
+      "uuid": "162beb92-4ab7-4383-da51-4b94ba90bd5d",
+      "name": "Lightwave Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/162beb92-4ab7-4383-da51-4b94ba90bd5d/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "15a5516d-412f-2db0-6bb3-3cbe40a2355f": {
+      "uuid": "15a5516d-412f-2db0-6bb3-3cbe40a2355f",
+      "name": "Schema Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/15a5516d-412f-2db0-6bb3-3cbe40a2355f/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "e1a05cb4-4ac5-b15a-e86e-bab0f7e093ad": {
+      "uuid": "e1a05cb4-4ac5-b15a-e86e-bab0f7e093ad",
+      "name": "Lycan's Bane Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e1a05cb4-4ac5-b15a-e86e-bab0f7e093ad/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "d91fb318-4e40-b4c9-8c0b-bb9da28bac55": {
+      "uuid": "d91fb318-4e40-b4c9-8c0b-bb9da28bac55",
+      "name": "Standard Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d91fb318-4e40-b4c9-8c0b-bb9da28bac55/displayicon.png",
+      "tier": null
+    },
+    "657b3476-4919-7b4b-be54-aeaedad999e6": {
+      "uuid": "657b3476-4919-7b4b-be54-aeaedad999e6",
+      "name": "Aerosol Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/657b3476-4919-7b4b-be54-aeaedad999e6/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "5123ed96-48de-aeab-eaea-2b8ea689f5a2": {
+      "uuid": "5123ed96-48de-aeab-eaea-2b8ea689f5a2",
+      "name": "BlastX Odin",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5123ed96-48de-aeab-eaea-2b8ea689f5a2/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "1203a0b8-4044-a7de-1751-87b30b9574e8": {
+      "uuid": "1203a0b8-4044-a7de-1751-87b30b9574e8",
+      "name": "VALORANT GO! Vol. 2 Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1203a0b8-4044-a7de-1751-87b30b9574e8/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "a2045403-40f7-2926-f955-028b6867c79a": {
+      "uuid": "a2045403-40f7-2926-f955-028b6867c79a",
+      "name": "Aristocrat Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a2045403-40f7-2926-f955-028b6867c79a/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "433e7f5e-4aaa-940e-4003-99bc0df92c17": {
+      "uuid": "433e7f5e-4aaa-940e-4003-99bc0df92c17",
+      "name": "Endeavour Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/433e7f5e-4aaa-940e-4003-99bc0df92c17/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "7d3c0ac4-42ce-7111-2c86-43be3d2e86a7": {
+      "uuid": "7d3c0ac4-42ce-7111-2c86-43be3d2e86a7",
+      "name": "Nebula Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7d3c0ac4-42ce-7111-2c86-43be3d2e86a7/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "642ee168-4f9e-1f5f-be72-01b3a41ac086": {
+      "uuid": "642ee168-4f9e-1f5f-be72-01b3a41ac086",
+      "name": "Singularity Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/642ee168-4f9e-1f5f-be72-01b3a41ac086/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "bad7ae62-4f6a-8974-ab73-7ba6405ca898": {
+      "uuid": "bad7ae62-4f6a-8974-ab73-7ba6405ca898",
+      "name": "Rush Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/bad7ae62-4f6a-8974-ab73-7ba6405ca898/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "65bb772a-41f2-8b25-a1af-75a79d596203": {
+      "uuid": "65bb772a-41f2-8b25-a1af-75a79d596203",
+      "name": "Hivemind Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/65bb772a-41f2-8b25-a1af-75a79d596203/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "6df8b470-4248-e29d-2879-bd840ed224c1": {
+      "uuid": "6df8b470-4248-e29d-2879-bd840ed224c1",
+      "name": "Infantry Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6df8b470-4248-e29d-2879-bd840ed224c1/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "6916019f-405f-b5f1-d2c6-2d8e4c27cf17": {
+      "uuid": "6916019f-405f-b5f1-d2c6-2d8e4c27cf17",
+      "name": "Goldwing Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6916019f-405f-b5f1-d2c6-2d8e4c27cf17/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "81694ace-47b3-3d95-9b88-59983d351471": {
+      "uuid": "81694ace-47b3-3d95-9b88-59983d351471",
+      "name": "Outpost Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/81694ace-47b3-3d95-9b88-59983d351471/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "29be6d9e-48b2-1229-4f7d-4da1c20deda9": {
+      "uuid": "29be6d9e-48b2-1229-4f7d-4da1c20deda9",
+      "name": "Prism Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/29be6d9e-48b2-1229-4f7d-4da1c20deda9/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "0dc1eefc-4b8f-e4c5-0c71-d680abcf73e7": {
+      "uuid": "0dc1eefc-4b8f-e4c5-0c71-d680abcf73e7",
+      "name": "Nunca Olvidados Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0dc1eefc-4b8f-e4c5-0c71-d680abcf73e7/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "46048768-4499-72f7-820b-7cbe1d4ad844": {
+      "uuid": "46048768-4499-72f7-820b-7cbe1d4ad844",
+      "name": "Celestial Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/46048768-4499-72f7-820b-7cbe1d4ad844/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "857ad950-486a-d199-7bf2-7092aaf88ae2": {
+      "uuid": "857ad950-486a-d199-7bf2-7092aaf88ae2",
+      "name": "Magepunk Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/857ad950-486a-d199-7bf2-7092aaf88ae2/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "792656ff-445c-fa7f-301a-8490f638b168": {
+      "uuid": "792656ff-445c-fa7f-301a-8490f638b168",
+      "name": "Minima Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/792656ff-445c-fa7f-301a-8490f638b168/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "9b61f5ca-4aa2-8557-37b2-a1b05f30c678": {
+      "uuid": "9b61f5ca-4aa2-8557-37b2-a1b05f30c678",
+      "name": "POLYfrog Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9b61f5ca-4aa2-8557-37b2-a1b05f30c678/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "75e66837-47b4-0aec-cf8e-8b96f3af7d6b": {
+      "uuid": "75e66837-47b4-0aec-cf8e-8b96f3af7d6b",
+      "name": "Divine Swine Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/75e66837-47b4-0aec-cf8e-8b96f3af7d6b/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "3ee60a8a-4736-5a6d-3713-00a05402481d": {
+      "uuid": "3ee60a8a-4736-5a6d-3713-00a05402481d",
+      "name": "Jigsaw Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3ee60a8a-4736-5a6d-3713-00a05402481d/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "9fbe39c6-42d7-b1db-9048-f0951ce2ff94": {
+      "uuid": "9fbe39c6-42d7-b1db-9048-f0951ce2ff94",
+      "name": "Sakura Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9fbe39c6-42d7-b1db-9048-f0951ce2ff94/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "f8295d0b-4378-f4ff-342d-178f6d86ac88": {
+      "uuid": "f8295d0b-4378-f4ff-342d-178f6d86ac88",
+      "name": "Snowfall Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f8295d0b-4378-f4ff-342d-178f6d86ac88/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "0ddbdf8c-43b0-e2f1-94f8-d6be9d2a2110": {
+      "uuid": "0ddbdf8c-43b0-e2f1-94f8-d6be9d2a2110",
+      "name": "Sentinels of Light Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0ddbdf8c-43b0-e2f1-94f8-d6be9d2a2110/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "0f5f60f4-4c94-e4b2-ceab-e2b4e8b41784": {
+      "uuid": "0f5f60f4-4c94-e4b2-ceab-e2b4e8b41784",
+      "name": "Standard Ares",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0f5f60f4-4c94-e4b2-ceab-e2b4e8b41784/displayicon.png",
+      "tier": null
+    },
+    "4e435234-49a2-1444-4640-908692c855b8": {
+      "uuid": "4e435234-49a2-1444-4640-908692c855b8",
+      "name": "RGX 11z Pro Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4e435234-49a2-1444-4640-908692c855b8/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "23de6607-4647-bccd-8863-3da2720e4152": {
+      "uuid": "23de6607-4647-bccd-8863-3da2720e4152",
+      "name": "VALORANT GO! Vol. 2 Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/23de6607-4647-bccd-8863-3da2720e4152/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "9ff1a0e6-4f74-0e6d-9117-de8683db4eb5": {
+      "uuid": "9ff1a0e6-4f74-0e6d-9117-de8683db4eb5",
+      "name": "Aristocrat Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9ff1a0e6-4f74-0e6d-9117-de8683db4eb5/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "c4422d16-4cb1-75d5-fd18-dda0bb05f46b": {
+      "uuid": "c4422d16-4cb1-75d5-fd18-dda0bb05f46b",
+      "name": "Gaia's Vengeance Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c4422d16-4cb1-75d5-fd18-dda0bb05f46b/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "44ffb8d4-4f48-9456-0463-a6bc1e6ecede": {
+      "uuid": "44ffb8d4-4f48-9456-0463-a6bc1e6ecede",
+      "name": "Endeavour Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/44ffb8d4-4f48-9456-0463-a6bc1e6ecede/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "9f51da57-4623-415a-6313-f49588297d0e": {
+      "uuid": "9f51da57-4623-415a-6313-f49588297d0e",
+      "name": "Champions 2021 Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9f51da57-4623-415a-6313-f49588297d0e/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "1969e379-40ae-b28a-6fb3-819873a24fb9": {
+      "uuid": "1969e379-40ae-b28a-6fb3-819873a24fb9",
+      "name": "Origin Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1969e379-40ae-b28a-6fb3-819873a24fb9/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "7e44fc1b-44fa-cdda-8491-f8a5bca1cfa3": {
+      "uuid": "7e44fc1b-44fa-cdda-8491-f8a5bca1cfa3",
+      "name": "Glitchpop Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7e44fc1b-44fa-cdda-8491-f8a5bca1cfa3/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "b3d3ff38-4202-20d8-2f41-c783477e5636": {
+      "uuid": "b3d3ff38-4202-20d8-2f41-c783477e5636",
+      "name": "Elderflame Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b3d3ff38-4202-20d8-2f41-c783477e5636/displayicon.png",
+      "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
+    },
+    "f910a11a-40ab-d799-3782-c58674f7ada0": {
+      "uuid": "f910a11a-40ab-d799-3782-c58674f7ada0",
+      "name": "Nitro Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f910a11a-40ab-d799-3782-c58674f7ada0/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "7383ca56-490a-f9f5-f126-5ea0dcd4a242": {
+      "uuid": "7383ca56-490a-f9f5-f126-5ea0dcd4a242",
+      "name": "Hivemind Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7383ca56-490a-f9f5-f126-5ea0dcd4a242/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "851b390a-4852-66bd-8b72-4f96f0919710": {
+      "uuid": "851b390a-4852-66bd-8b72-4f96f0919710",
+      "name": "Forsaken Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/851b390a-4852-66bd-8b72-4f96f0919710/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "258f4b78-4286-a93b-309a-0bada49c06e1": {
+      "uuid": "258f4b78-4286-a93b-309a-0bada49c06e1",
+      "name": "Team Ace Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/258f4b78-4286-a93b-309a-0bada49c06e1/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "3d1bc8e8-4759-148c-7775-5a96e8c975fd": {
+      "uuid": "3d1bc8e8-4759-148c-7775-5a96e8c975fd",
+      "name": "Ruin Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3d1bc8e8-4759-148c-7775-5a96e8c975fd/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "c9ee9a00-453d-a358-8501-3ebb7ca3765e": {
+      "uuid": "c9ee9a00-453d-a358-8501-3ebb7ca3765e",
+      "name": "dot EXE Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c9ee9a00-453d-a358-8501-3ebb7ca3765e/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "26eee656-4f8d-bdd3-e4fe-ae9e808a3408": {
+      "uuid": "26eee656-4f8d-bdd3-e4fe-ae9e808a3408",
+      "name": "Horizon Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/26eee656-4f8d-bdd3-e4fe-ae9e808a3408/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "c9678d8c-4327-f397-b0ec-dca3c3d6fb15": {
+      "uuid": "c9678d8c-4327-f397-b0ec-dca3c3d6fb15",
+      "name": "Prime Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c9678d8c-4327-f397-b0ec-dca3c3d6fb15/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "fbfc273b-4c12-961a-a4fb-978b43be81a9": {
+      "uuid": "fbfc273b-4c12-961a-a4fb-978b43be81a9",
+      "name": "Avalanche Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fbfc273b-4c12-961a-a4fb-978b43be81a9/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "d0c07243-4afa-decc-7c5b-4b994f1321ee": {
+      "uuid": "d0c07243-4afa-decc-7c5b-4b994f1321ee",
+      "name": "Prism II Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d0c07243-4afa-decc-7c5b-4b994f1321ee/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "5c21371e-46e1-a0b2-2e49-728281cfaaed": {
+      "uuid": "5c21371e-46e1-a0b2-2e49-728281cfaaed",
+      "name": "K/TAC Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5c21371e-46e1-a0b2-2e49-728281cfaaed/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "a2a15c4e-4102-41bd-102d-378dec6cee7f": {
+      "uuid": "a2a15c4e-4102-41bd-102d-378dec6cee7f",
+      "name": "Nunca Olvidados Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a2a15c4e-4102-41bd-102d-378dec6cee7f/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "1878bbc9-409e-66b4-346b-c3997a54df57": {
+      "uuid": "1878bbc9-409e-66b4-346b-c3997a54df57",
+      "name": "Luxe Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1878bbc9-409e-66b4-346b-c3997a54df57/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "9d501eec-4084-5d44-32ef-6e8ed5b0ed49": {
+      "uuid": "9d501eec-4084-5d44-32ef-6e8ed5b0ed49",
+      "name": "Silvanus Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9d501eec-4084-5d44-32ef-6e8ed5b0ed49/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "f4bfff96-487a-cf9e-08cc-d590d962c4e6": {
+      "uuid": "f4bfff96-487a-cf9e-08cc-d590d962c4e6",
+      "name": "Sensation Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f4bfff96-487a-cf9e-08cc-d590d962c4e6/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "3aeef60b-48fb-02aa-31b1-068aeb351213": {
+      "uuid": "3aeef60b-48fb-02aa-31b1-068aeb351213",
+      "name": "Sakura Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3aeef60b-48fb-02aa-31b1-068aeb351213/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "76c30002-4884-8193-dcf6-93a00b10bc15": {
+      "uuid": "76c30002-4884-8193-dcf6-93a00b10bc15",
+      "name": "Schema Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/76c30002-4884-8193-dcf6-93a00b10bc15/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "f158e7d9-4404-1e88-747e-bf98da9a744b": {
+      "uuid": "f158e7d9-4404-1e88-747e-bf98da9a744b",
+      "name": "Lycan's Bane Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f158e7d9-4404-1e88-747e-bf98da9a744b/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "968efd06-4549-65f4-9fb1-3f90d612e428": {
+      "uuid": "968efd06-4549-65f4-9fb1-3f90d612e428",
+      "name": "Sentinels of Light Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/968efd06-4549-65f4-9fb1-3f90d612e428/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "ba42fe63-457a-78ce-4499-47950a698129": {
+      "uuid": "ba42fe63-457a-78ce-4499-47950a698129",
+      "name": "Reaver Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ba42fe63-457a-78ce-4499-47950a698129/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "1d2e2fd5-4fef-61f2-a4ec-92819d16fcf2": {
+      "uuid": "1d2e2fd5-4fef-61f2-a4ec-92819d16fcf2",
+      "name": "Tethered Realms Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1d2e2fd5-4fef-61f2-a4ec-92819d16fcf2/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "8017a235-48d8-9f2a-42c2-7a865157c587": {
+      "uuid": "8017a235-48d8-9f2a-42c2-7a865157c587",
+      "name": "Cavalier Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/8017a235-48d8-9f2a-42c2-7a865157c587/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "1ab72e66-4da3-33a0-164f-908113e075a4": {
+      "uuid": "1ab72e66-4da3-33a0-164f-908113e075a4",
+      "name": "Standard Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1ab72e66-4da3-33a0-164f-908113e075a4/displayicon.png",
+      "tier": null
+    },
+    "bd1b4801-4bf2-1444-82ce-3ca3636159d4": {
+      "uuid": "bd1b4801-4bf2-1444-82ce-3ca3636159d4",
+      "name": "Depths Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/bd1b4801-4bf2-1444-82ce-3ca3636159d4/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "94cf6dd4-42c5-f70e-1652-dca05fa42ad6": {
+      "uuid": "94cf6dd4-42c5-f70e-1652-dca05fa42ad6",
+      "name": "Ego Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/94cf6dd4-42c5-f70e-1652-dca05fa42ad6/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "a6d41f01-4b8b-444d-b9da-3eaaf3d7e262": {
+      "uuid": "a6d41f01-4b8b-444d-b9da-3eaaf3d7e262",
+      "name": "Wasteland Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a6d41f01-4b8b-444d-b9da-3eaaf3d7e262/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "496b0096-4000-c1fc-102d-70a8b769d0d1": {
+      "uuid": "496b0096-4000-c1fc-102d-70a8b769d0d1",
+      "name": "Winterwunderland Vandal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/496b0096-4000-c1fc-102d-70a8b769d0d1/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "3bf9d39f-46b4-ba23-e079-488d799b9416": {
+      "uuid": "3bf9d39f-46b4-ba23-e079-488d799b9416",
+      "name": "Aristocrat Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3bf9d39f-46b4-ba23-e079-488d799b9416/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "38dbcca0-493d-70eb-ef89-d281f33efc94": {
+      "uuid": "38dbcca0-493d-70eb-ef89-d281f33efc94",
+      "name": "Endeavour Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/38dbcca0-493d-70eb-ef89-d281f33efc94/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "43854c54-4263-571c-9be6-52b6d50d3190": {
+      "uuid": "43854c54-4263-571c-9be6-52b6d50d3190",
+      "name": "Spectrum Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/43854c54-4263-571c-9be6-52b6d50d3190/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "842dbe37-4bc7-95b3-26d7-a0af65615d5e": {
+      "uuid": "842dbe37-4bc7-95b3-26d7-a0af65615d5e",
+      "name": "Striker Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/842dbe37-4bc7-95b3-26d7-a0af65615d5e/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "89b68205-4fe5-2434-a731-e5a734bd4a7a": {
+      "uuid": "89b68205-4fe5-2434-a731-e5a734bd4a7a",
+      "name": "Undercity Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/89b68205-4fe5-2434-a731-e5a734bd4a7a/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "4a5ad8cd-4684-a47c-b393-ce9c6760d21a": {
+      "uuid": "4a5ad8cd-4684-a47c-b393-ce9c6760d21a",
+      "name": "Glitchpop Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4a5ad8cd-4684-a47c-b393-ce9c6760d21a/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "8e032580-414f-7ab4-7efb-f6ac7d2bc2f1": {
+      "uuid": "8e032580-414f-7ab4-7efb-f6ac7d2bc2f1",
+      "name": "Rush Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/8e032580-414f-7ab4-7efb-f6ac7d2bc2f1/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "7561a8e0-4cc4-8644-a88b-48a88790b36f": {
+      "uuid": "7561a8e0-4cc4-8644-a88b-48a88790b36f",
+      "name": "Velocity Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7561a8e0-4cc4-8644-a88b-48a88790b36f/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "079f6046-49c3-72e3-bcfa-a5b6d01910dc": {
+      "uuid": "079f6046-49c3-72e3-bcfa-a5b6d01910dc",
+      "name": "Horizon Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/079f6046-49c3-72e3-bcfa-a5b6d01910dc/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "ddf3064f-4c05-d0fb-2f62-f8be055cb934": {
+      "uuid": "ddf3064f-4c05-d0fb-2f62-f8be055cb934",
+      "name": "K/TAC Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ddf3064f-4c05-d0fb-2f62-f8be055cb934/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "49fc11b3-40a9-29ff-a701-63a6f59e2a0f": {
+      "uuid": "49fc11b3-40a9-29ff-a701-63a6f59e2a0f",
+      "name": "Couture Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/49fc11b3-40a9-29ff-a701-63a6f59e2a0f/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "47815b56-43d7-1312-8b3e-5da445f71e31": {
+      "uuid": "47815b56-43d7-1312-8b3e-5da445f71e31",
+      "name": "Nunca Olvidados Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/47815b56-43d7-1312-8b3e-5da445f71e31/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "c5711665-4126-fa98-510f-5f8c82f52911": {
+      "uuid": "c5711665-4126-fa98-510f-5f8c82f52911",
+      "name": "Genesis Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c5711665-4126-fa98-510f-5f8c82f52911/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "0fce64bd-42c9-1755-8c67-e3a8cdd49de7": {
+      "uuid": "0fce64bd-42c9-1755-8c67-e3a8cdd49de7",
+      "name": "POLYfox Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0fce64bd-42c9-1755-8c67-e3a8cdd49de7/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "544ddf0f-42c6-e410-c9db-fc8b3b2c84d4": {
+      "uuid": "544ddf0f-42c6-e410-c9db-fc8b3b2c84d4",
+      "name": "Protocol 781-A Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/544ddf0f-42c6-e410-c9db-fc8b3b2c84d4/displayicon.png",
+      "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
+    },
+    "5fc3c5e8-470e-7683-b594-6580d5e3d624": {
+      "uuid": "5fc3c5e8-470e-7683-b594-6580d5e3d624",
+      "name": "Infinity Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5fc3c5e8-470e-7683-b594-6580d5e3d624/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "c8e6ac70-48ef-9d96-d964-a88e8890b885": {
+      "uuid": "c8e6ac70-48ef-9d96-d964-a88e8890b885",
+      "name": "Standard Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c8e6ac70-48ef-9d96-d964-a88e8890b885/displayicon.png",
+      "tier": null
+    },
+    "84f8d0f4-4442-5892-6a20-8f83e65a5e96": {
+      "uuid": "84f8d0f4-4442-5892-6a20-8f83e65a5e96",
+      "name": "Convex Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/84f8d0f4-4442-5892-6a20-8f83e65a5e96/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "6f86d77a-43c6-17b5-312f-87bf159076d9": {
+      "uuid": "6f86d77a-43c6-17b5-312f-87bf159076d9",
+      "name": "Depths Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6f86d77a-43c6-17b5-312f-87bf159076d9/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "0edd85d1-4589-385a-e5e2-84a55ae9860d": {
+      "uuid": "0edd85d1-4589-385a-e5e2-84a55ae9860d",
+      "name": "Varnish Bulldog",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0edd85d1-4589-385a-e5e2-84a55ae9860d/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "30423af3-42f9-d0ba-dee5-0b93704b39c8": {
+      "uuid": "30423af3-42f9-d0ba-dee5-0b93704b39c8",
+      "name": "VALORANT GO! Vol. 1 Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/30423af3-42f9-d0ba-dee5-0b93704b39c8/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "82db01d1-4192-167b-9f53-78ba374c39ac": {
+      "uuid": "82db01d1-4192-167b-9f53-78ba374c39ac",
+      "name": "Spectrum Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/82db01d1-4192-167b-9f53-78ba374c39ac/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "52c3bbf6-491f-fef1-faa9-e19df06a687c": {
+      "uuid": "52c3bbf6-491f-fef1-faa9-e19df06a687c",
+      "name": "Radiant Crisis 001 Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/52c3bbf6-491f-fef1-faa9-e19df06a687c/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "40308b30-4689-9713-52fb-6f8a3534213f": {
+      "uuid": "40308b30-4689-9713-52fb-6f8a3534213f",
+      "name": "Nebula Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/40308b30-4689-9713-52fb-6f8a3534213f/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "bbc68d13-42b8-6f2c-d5b2-e79c291677c5": {
+      "uuid": "bbc68d13-42b8-6f2c-d5b2-e79c291677c5",
+      "name": "Undercity Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/bbc68d13-42b8-6f2c-d5b2-e79c291677c5/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "9f6e4612-433b-aea9-1683-3db7aee90848": {
+      "uuid": "9f6e4612-433b-aea9-1683-3db7aee90848",
+      "name": "Glitchpop Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9f6e4612-433b-aea9-1683-3db7aee90848/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "0ff7ff25-42cf-769a-4e6d-bd833121302d": {
+      "uuid": "0ff7ff25-42cf-769a-4e6d-bd833121302d",
+      "name": "Singularity Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0ff7ff25-42cf-769a-4e6d-bd833121302d/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "d39a4263-49d3-f2e0-2c13-c299f8644518": {
+      "uuid": "d39a4263-49d3-f2e0-2c13-c299f8644518",
+      "name": "Rush Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d39a4263-49d3-f2e0-2c13-c299f8644518/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "4707bae8-4938-71b5-ce5c-52aad3f24d21": {
+      "uuid": "4707bae8-4938-71b5-ce5c-52aad3f24d21",
+      "name": "Velocity Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4707bae8-4938-71b5-ce5c-52aad3f24d21/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "fc4c3dcb-4f6d-5e8e-3dc3-1695f55d24c2": {
+      "uuid": "fc4c3dcb-4f6d-5e8e-3dc3-1695f55d24c2",
+      "name": "Team Ace Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fc4c3dcb-4f6d-5e8e-3dc3-1695f55d24c2/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "9dc0bdd7-4d88-9360-38d6-3ea62b1daaca": {
+      "uuid": "9dc0bdd7-4d88-9360-38d6-3ea62b1daaca",
+      "name": "Prime//2.0 Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9dc0bdd7-4d88-9360-38d6-3ea62b1daaca/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "66f68f67-4f5e-8188-8ba8-b183e25e93e7": {
+      "uuid": "66f68f67-4f5e-8188-8ba8-b183e25e93e7",
+      "name": "Avalanche Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/66f68f67-4f5e-8188-8ba8-b183e25e93e7/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "4845a7ab-4120-ae1c-aec1-9e915a7424b1": {
+      "uuid": "4845a7ab-4120-ae1c-aec1-9e915a7424b1",
+      "name": "Prism Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4845a7ab-4120-ae1c-aec1-9e915a7424b1/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "645fdae1-4056-e40c-b8e4-a08aea0dfe2f": {
+      "uuid": "645fdae1-4056-e40c-b8e4-a08aea0dfe2f",
+      "name": "Serenity Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/645fdae1-4056-e40c-b8e4-a08aea0dfe2f/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "279e0a89-4dd6-b135-cef9-8ebb1df6f2ac": {
+      "uuid": "279e0a89-4dd6-b135-cef9-8ebb1df6f2ac",
+      "name": "Ruination Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/279e0a89-4dd6-b135-cef9-8ebb1df6f2ac/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "a7229cba-4691-62b0-9c40-f59a29817ddc": {
+      "uuid": "a7229cba-4691-62b0-9c40-f59a29817ddc",
+      "name": "Kingdom Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a7229cba-4691-62b0-9c40-f59a29817ddc/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "19b20b51-472b-e837-e5da-f8a348110dbf": {
+      "uuid": "19b20b51-472b-e837-e5da-f8a348110dbf",
+      "name": "Smite Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/19b20b51-472b-e837-e5da-f8a348110dbf/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "aa610521-4bea-bc0e-1bd4-94b67fd90db6": {
+      "uuid": "aa610521-4bea-bc0e-1bd4-94b67fd90db6",
+      "name": "Celestial Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/aa610521-4bea-bc0e-1bd4-94b67fd90db6/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "04dbf8e5-44fc-73f7-0655-8ca05a47739c": {
+      "uuid": "04dbf8e5-44fc-73f7-0655-8ca05a47739c",
+      "name": "Spline Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/04dbf8e5-44fc-73f7-0655-8ca05a47739c/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "186d9fbb-400e-665b-e5f3-c08b24b6974f": {
+      "uuid": "186d9fbb-400e-665b-e5f3-c08b24b6974f",
+      "name": "Minima Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/186d9fbb-400e-665b-e5f3-c08b24b6974f/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "f38b2545-4498-48b3-150e-1589e25e7aa7": {
+      "uuid": "f38b2545-4498-48b3-150e-1589e25e7aa7",
+      "name": "Galleria Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f38b2545-4498-48b3-150e-1589e25e7aa7/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "a127c324-4213-23a2-ff77-1284431dad74": {
+      "uuid": "a127c324-4213-23a2-ff77-1284431dad74",
+      "name": "Silvanus Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a127c324-4213-23a2-ff77-1284431dad74/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "b8bb264c-4578-2410-8dfa-6aacfeb318b0": {
+      "uuid": "b8bb264c-4578-2410-8dfa-6aacfeb318b0",
+      "name": "Ion Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b8bb264c-4578-2410-8dfa-6aacfeb318b0/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "c00e786e-4e6f-0ef7-0ce3-32ba9918ba41": {
+      "uuid": "c00e786e-4e6f-0ef7-0ce3-32ba9918ba41",
+      "name": "Oni Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c00e786e-4e6f-0ef7-0ce3-32ba9918ba41/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "24a1644c-4aa9-50cc-9ca3-4aa7be12339d": {
+      "uuid": "24a1644c-4aa9-50cc-9ca3-4aa7be12339d",
+      "name": "Aero Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/24a1644c-4aa9-50cc-9ca3-4aa7be12339d/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "76f9caa0-40ae-ecd2-5598-53b0beb969c7": {
+      "uuid": "76f9caa0-40ae-ecd2-5598-53b0beb969c7",
+      "name": "Artisan Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/76f9caa0-40ae-ecd2-5598-53b0beb969c7/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "a7cf8684-41a0-3dd4-e30c-6f9b4b34e635": {
+      "uuid": "a7cf8684-41a0-3dd4-e30c-6f9b4b34e635",
+      "name": "Protocol 781-A Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a7cf8684-41a0-3dd4-e30c-6f9b4b34e635/displayicon.png",
+      "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
+    },
+    "1452386a-47ab-bd8a-775d-9194020ca52d": {
+      "uuid": "1452386a-47ab-bd8a-775d-9194020ca52d",
+      "name": "Lightwave Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1452386a-47ab-bd8a-775d-9194020ca52d/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "00eb5b5b-4697-44b5-a926-7e86b730e812": {
+      "uuid": "00eb5b5b-4697-44b5-a926-7e86b730e812",
+      "name": "Snowfall Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/00eb5b5b-4697-44b5-a926-7e86b730e812/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "5be0b43b-4e66-ab8a-91d9-be9137e2e1c2": {
+      "uuid": "5be0b43b-4e66-ab8a-91d9-be9137e2e1c2",
+      "name": "Recon Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5be0b43b-4e66-ab8a-91d9-be9137e2e1c2/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "c71c8e2e-481f-c09f-57ef-91846a982cb5": {
+      "uuid": "c71c8e2e-481f-c09f-57ef-91846a982cb5",
+      "name": "Infinity Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c71c8e2e-481f-c09f-57ef-91846a982cb5/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "871e73ed-452d-eb5a-3d6b-1d87060f35ce": {
+      "uuid": "871e73ed-452d-eb5a-3d6b-1d87060f35ce",
+      "name": "Standard Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/871e73ed-452d-eb5a-3d6b-1d87060f35ce/displayicon.png",
+      "tier": null
+    },
+    "437fae46-4145-c8a5-14d7-9c8a05bddb05": {
+      "uuid": "437fae46-4145-c8a5-14d7-9c8a05bddb05",
+      "name": "Tigris Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/437fae46-4145-c8a5-14d7-9c8a05bddb05/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "7b534393-40b0-38d0-1ffc-2b8b78708264": {
+      "uuid": "7b534393-40b0-38d0-1ffc-2b8b78708264",
+      "name": "BlastX Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7b534393-40b0-38d0-1ffc-2b8b78708264/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "63a65008-4266-1117-fe3d-d1bf290b7da9": {
+      "uuid": "63a65008-4266-1117-fe3d-d1bf290b7da9",
+      "name": "Winterwunderland Phantom",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/63a65008-4266-1117-fe3d-d1bf290b7da9/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "f27be4ed-4fa5-9c3a-592a-b98bb455fd12": {
+      "uuid": "f27be4ed-4fa5-9c3a-592a-b98bb455fd12",
+      "name": "Undercity Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f27be4ed-4fa5-9c3a-592a-b98bb455fd12/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "712c7a37-4524-0b27-dfdd-4e95181dd36e": {
+      "uuid": "712c7a37-4524-0b27-dfdd-4e95181dd36e",
+      "name": "Glitchpop Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/712c7a37-4524-0b27-dfdd-4e95181dd36e/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "d8c9fee3-4e02-bc92-a235-608a556905ae": {
+      "uuid": "d8c9fee3-4e02-bc92-a235-608a556905ae",
+      "name": "Elderflame Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d8c9fee3-4e02-bc92-a235-608a556905ae/displayicon.png",
+      "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
+    },
+    "33d3c906-4305-19cf-8770-1eb5207482cc": {
+      "uuid": "33d3c906-4305-19cf-8770-1eb5207482cc",
+      "name": "Rush Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/33d3c906-4305-19cf-8770-1eb5207482cc/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "ca41d64f-4622-593f-382e-0484a1a3dd6b": {
+      "uuid": "ca41d64f-4622-593f-382e-0484a1a3dd6b",
+      "name": "Team Ace Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ca41d64f-4622-593f-382e-0484a1a3dd6b/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "f8cd4279-4530-db62-1e4e-aa82c129b045": {
+      "uuid": "f8cd4279-4530-db62-1e4e-aa82c129b045",
+      "name": "dot EXE Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f8cd4279-4530-db62-1e4e-aa82c129b045/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "77dd3407-4580-9734-a0bb-6b80a4e5be3e": {
+      "uuid": "77dd3407-4580-9734-a0bb-6b80a4e5be3e",
+      "name": "Goldwing Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/77dd3407-4580-9734-a0bb-6b80a4e5be3e/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "2a25f841-4769-6536-ded3-8890ee26c430": {
+      "uuid": "2a25f841-4769-6536-ded3-8890ee26c430",
+      "name": "Hydrodip Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/2a25f841-4769-6536-ded3-8890ee26c430/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "11e342ba-4f18-b9ab-964e-e48fdf610890": {
+      "uuid": "11e342ba-4f18-b9ab-964e-e48fdf610890",
+      "name": "Outpost Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/11e342ba-4f18-b9ab-964e-e48fdf610890/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "b3e563fe-4a91-6070-4582-7ca51d62631a": {
+      "uuid": "b3e563fe-4a91-6070-4582-7ca51d62631a",
+      "name": "Prism III Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b3e563fe-4a91-6070-4582-7ca51d62631a/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "4afdc818-4665-1582-6319-8081aa64e550": {
+      "uuid": "4afdc818-4665-1582-6319-8081aa64e550",
+      "name": "Serenity Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4afdc818-4665-1582-6319-8081aa64e550/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "1b94d997-4db6-014f-4cb8-c1b4df7d7ebc": {
+      "uuid": "1b94d997-4db6-014f-4cb8-c1b4df7d7ebc",
+      "name": "Smite Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1b94d997-4db6-014f-4cb8-c1b4df7d7ebc/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "4f45735c-4513-e9a6-48ac-35acca4c3410": {
+      "uuid": "4f45735c-4513-e9a6-48ac-35acca4c3410",
+      "name": "Celestial Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4f45735c-4513-e9a6-48ac-35acca4c3410/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "cfeb4b7a-4310-796c-db4e-fb9844823992": {
+      "uuid": "cfeb4b7a-4310-796c-db4e-fb9844823992",
+      "name": "Luxe Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/cfeb4b7a-4310-796c-db4e-fb9844823992/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "3c23fdc3-4300-ec78-5123-bcb0dc456473": {
+      "uuid": "3c23fdc3-4300-ec78-5123-bcb0dc456473",
+      "name": "POLYfox Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3c23fdc3-4300-ec78-5123-bcb0dc456473/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "7ae57ece-4560-236b-5bdb-5f8ee2c294b2": {
+      "uuid": "7ae57ece-4560-236b-5bdb-5f8ee2c294b2",
+      "name": "Divine Swine Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7ae57ece-4560-236b-5bdb-5f8ee2c294b2/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "a1c04a89-45e6-0406-9e1a-668cd772fc63": {
+      "uuid": "a1c04a89-45e6-0406-9e1a-668cd772fc63",
+      "name": "Jigsaw Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a1c04a89-45e6-0406-9e1a-668cd772fc63/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "65ed014b-4279-8ba5-01d3-f48d4e7f115c": {
+      "uuid": "65ed014b-4279-8ba5-01d3-f48d4e7f115c",
+      "name": "Sensation Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/65ed014b-4279-8ba5-01d3-f48d4e7f115c/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "e1b5cdca-4df5-5c4e-f34a-3cbdd3fd8735": {
+      "uuid": "e1b5cdca-4df5-5c4e-f34a-3cbdd3fd8735",
+      "name": "Snowfall Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e1b5cdca-4df5-5c4e-f34a-3cbdd3fd8735/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "6942d8d1-4370-a144-2140-22a6d2be2697": {
+      "uuid": "6942d8d1-4370-a144-2140-22a6d2be2697",
+      "name": "Standard Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6942d8d1-4370-a144-2140-22a6d2be2697/displayicon.png",
+      "tier": null
+    },
+    "73e91435-4a2a-2552-d541-eb961e168f2c": {
+      "uuid": "73e91435-4a2a-2552-d541-eb961e168f2c",
+      "name": "Convex Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/73e91435-4a2a-2552-d541-eb961e168f2c/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "07ac5e03-42e6-0fd9-b8fa-4d9f059b904f": {
+      "uuid": "07ac5e03-42e6-0fd9-b8fa-4d9f059b904f",
+      "name": "Varnish Judge",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/07ac5e03-42e6-0fd9-b8fa-4d9f059b904f/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "56042ce2-4f95-19be-7cac-5fb191683953": {
+      "uuid": "56042ce2-4f95-19be-7cac-5fb191683953",
+      "name": "Origin Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/56042ce2-4f95-19be-7cac-5fb191683953/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "bddfd0ba-49a1-0f4f-e32a-d5a1ed29d5fc": {
+      "uuid": "bddfd0ba-49a1-0f4f-e32a-d5a1ed29d5fc",
+      "name": "Radiant Crisis 001 Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/bddfd0ba-49a1-0f4f-e32a-d5a1ed29d5fc/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "633521c9-42ae-d2be-78c1-a09b25af7d10": {
+      "uuid": "633521c9-42ae-d2be-78c1-a09b25af7d10",
+      "name": "Red Alert Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/633521c9-42ae-d2be-78c1-a09b25af7d10/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "1e7be2e9-418e-7f39-d879-a8912be1d3ab": {
+      "uuid": "1e7be2e9-418e-7f39-d879-a8912be1d3ab",
+      "name": "Surge Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1e7be2e9-418e-7f39-d879-a8912be1d3ab/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "f7425a39-43ca-e1fe-5b2b-56a51ed479c5": {
+      "uuid": "f7425a39-43ca-e1fe-5b2b-56a51ed479c5",
+      "name": "Horizon Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f7425a39-43ca-e1fe-5b2b-56a51ed479c5/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "a773dd2f-4027-4b98-8d4b-5ea0c7924883": {
+      "uuid": "a773dd2f-4027-4b98-8d4b-5ea0c7924883",
+      "name": "Monarch Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a773dd2f-4027-4b98-8d4b-5ea0c7924883/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "338bb3e6-4c47-425d-32a5-5ea1a96c78ae": {
+      "uuid": "338bb3e6-4c47-425d-32a5-5ea1a96c78ae",
+      "name": "Hydrodip Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/338bb3e6-4c47-425d-32a5-5ea1a96c78ae/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "f987be1f-4287-35a4-34a9-d6a92805e7ff": {
+      "uuid": "f987be1f-4287-35a4-34a9-d6a92805e7ff",
+      "name": "Prime//2.0 Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f987be1f-4287-35a4-34a9-d6a92805e7ff/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "1ef3c871-45db-0f6d-fc34-8bb2685cd6c0": {
+      "uuid": "1ef3c871-45db-0f6d-fc34-8bb2685cd6c0",
+      "name": "Prism II Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1ef3c871-45db-0f6d-fc34-8bb2685cd6c0/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "4caa7fb0-4751-52f3-6eed-6ab6232be131": {
+      "uuid": "4caa7fb0-4751-52f3-6eed-6ab6232be131",
+      "name": "Kingdom Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4caa7fb0-4751-52f3-6eed-6ab6232be131/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "78776175-4040-282f-07a1-0199b1fdcf58": {
+      "uuid": "78776175-4040-282f-07a1-0199b1fdcf58",
+      "name": "Magepunk Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/78776175-4040-282f-07a1-0199b1fdcf58/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "03e03718-4c65-8a47-fb8b-78ba233cecd1": {
+      "uuid": "03e03718-4c65-8a47-fb8b-78ba233cecd1",
+      "name": "Galleria Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/03e03718-4c65-8a47-fb8b-78ba233cecd1/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "bb3e45b2-4c4f-e0cb-c094-3a95261bba35": {
+      "uuid": "bb3e45b2-4c4f-e0cb-c094-3a95261bba35",
+      "name": "Genesis Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/bb3e45b2-4c4f-e0cb-c094-3a95261bba35/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "f00520c8-4b70-7255-d23c-c0a4887656a2": {
+      "uuid": "f00520c8-4b70-7255-d23c-c0a4887656a2",
+      "name": "Ion Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f00520c8-4b70-7255-d23c-c0a4887656a2/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "cdc130c2-4b12-3702-c8f6-5a8920746395": {
+      "uuid": "cdc130c2-4b12-3702-c8f6-5a8920746395",
+      "name": "Oni Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/cdc130c2-4b12-3702-c8f6-5a8920746395/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "5466bacf-446b-52a1-611d-339f6f376d40": {
+      "uuid": "5466bacf-446b-52a1-611d-339f6f376d40",
+      "name": "Artisan Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5466bacf-446b-52a1-611d-339f6f376d40/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "22c0aaa3-4919-5a7b-90c0-2dacafdc32fe": {
+      "uuid": "22c0aaa3-4919-5a7b-90c0-2dacafdc32fe",
+      "name": "Gravitational Uranium Neuroblaster Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/22c0aaa3-4919-5a7b-90c0-2dacafdc32fe/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "23885a08-4a77-82a7-5dbc-ec812f252ca0": {
+      "uuid": "23885a08-4a77-82a7-5dbc-ec812f252ca0",
+      "name": "Lightwave Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/23885a08-4a77-82a7-5dbc-ec812f252ca0/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "b6a089dd-4616-be48-4f28-d8b2a539c0a5": {
+      "uuid": "b6a089dd-4616-be48-4f28-d8b2a539c0a5",
+      "name": "Cavalier Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b6a089dd-4616-be48-4f28-d8b2a539c0a5/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "2f5078c7-4381-492d-cc00-9f96966ba1ec": {
+      "uuid": "2f5078c7-4381-492d-cc00-9f96966ba1ec",
+      "name": "Standard Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/2f5078c7-4381-492d-cc00-9f96966ba1ec/displayicon.png",
+      "tier": null
+    },
+    "5f2ae626-44a5-b1c5-a879-98bc2fe587c6": {
+      "uuid": "5f2ae626-44a5-b1c5-a879-98bc2fe587c6",
+      "name": "Aerosol Bucky",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5f2ae626-44a5-b1c5-a879-98bc2fe587c6/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "6f2aefab-439d-140a-4dc6-87818e2d72cd": {
+      "uuid": "6f2aefab-439d-140a-4dc6-87818e2d72cd",
+      "name": "RGX 11z Pro Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6f2aefab-439d-140a-4dc6-87818e2d72cd/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "b02520dd-48cd-466c-977d-529dc6a1d6f5": {
+      "uuid": "b02520dd-48cd-466c-977d-529dc6a1d6f5",
+      "name": "RagnaRocker Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b02520dd-48cd-466c-977d-529dc6a1d6f5/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "c4547e69-47a7-dc52-d09c-94bbf87dba0a": {
+      "uuid": "c4547e69-47a7-dc52-d09c-94bbf87dba0a",
+      "name": "Origin Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c4547e69-47a7-dc52-d09c-94bbf87dba0a/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "4b74b3ee-4a63-7339-a28f-8b8be010ca5a": {
+      "uuid": "4b74b3ee-4a63-7339-a28f-8b8be010ca5a",
+      "name": "Glitchpop Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4b74b3ee-4a63-7339-a28f-8b8be010ca5a/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "ea65ba94-468d-39a8-5ded-98820d72d19f": {
+      "uuid": "ea65ba94-468d-39a8-5ded-98820d72d19f",
+      "name": "Elderflame Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ea65ba94-468d-39a8-5ded-98820d72d19f/displayicon.png",
+      "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
+    },
+    "3e32c58e-4347-e4b1-4502-6dab0dc516a8": {
+      "uuid": "3e32c58e-4347-e4b1-4502-6dab0dc516a8",
+      "name": "Rush Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3e32c58e-4347-e4b1-4502-6dab0dc516a8/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "8a3d3cb5-4c8f-0604-b931-9388de1eabad": {
+      "uuid": "8a3d3cb5-4c8f-0604-b931-9388de1eabad",
+      "name": "Team Ace Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/8a3d3cb5-4c8f-0604-b931-9388de1eabad/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "2f911f78-46e4-102a-f677-37a069c3a4dc": {
+      "uuid": "2f911f78-46e4-102a-f677-37a069c3a4dc",
+      "name": "Swooping Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/2f911f78-46e4-102a-f677-37a069c3a4dc/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "7cd7c895-4da5-a3bc-3518-ff8d53af5151": {
+      "uuid": "7cd7c895-4da5-a3bc-3518-ff8d53af5151",
+      "name": "Horizon Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7cd7c895-4da5-a3bc-3518-ff8d53af5151/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "ccbd02ca-442d-08b7-e862-e1a350266fb4": {
+      "uuid": "ccbd02ca-442d-08b7-e862-e1a350266fb4",
+      "name": "Monarch Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ccbd02ca-442d-08b7-e862-e1a350266fb4/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "c485b3df-4ea3-d457-e75b-35add7e78e7e": {
+      "uuid": "c485b3df-4ea3-d457-e75b-35add7e78e7e",
+      "name": "Hydrodip Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c485b3df-4ea3-d457-e75b-35add7e78e7e/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "2607b2c6-45f7-e75e-94f8-58a738773d5c": {
+      "uuid": "2607b2c6-45f7-e75e-94f8-58a738773d5c",
+      "name": "Prime//2.0 Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/2607b2c6-45f7-e75e-94f8-58a738773d5c/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "9d333ff1-47e2-04c7-2a26-688c08e9164d": {
+      "uuid": "9d333ff1-47e2-04c7-2a26-688c08e9164d",
+      "name": "Couture Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9d333ff1-47e2-04c7-2a26-688c08e9164d/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "55869fb8-4a79-e684-2000-028fa9f54060": {
+      "uuid": "55869fb8-4a79-e684-2000-028fa9f54060",
+      "name": "Nunca Olvidados Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/55869fb8-4a79-e684-2000-028fa9f54060/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "4efc0af7-4623-cb2e-997c-6cbf2e5ddfb4": {
+      "uuid": "4efc0af7-4623-cb2e-997c-6cbf2e5ddfb4",
+      "name": "Celestial Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4efc0af7-4623-cb2e-997c-6cbf2e5ddfb4/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "468505e6-46e2-af29-3974-5fbbe6bf212f": {
+      "uuid": "468505e6-46e2-af29-3974-5fbbe6bf212f",
+      "name": "Spitfire Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/468505e6-46e2-af29-3974-5fbbe6bf212f/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "2f69bfe0-4126-4d2b-91b4-c9a2cb1909da": {
+      "uuid": "2f69bfe0-4126-4d2b-91b4-c9a2cb1909da",
+      "name": "Aero Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/2f69bfe0-4126-4d2b-91b4-c9a2cb1909da/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "e44b70cf-4e83-19d3-a748-5f849054dad7": {
+      "uuid": "e44b70cf-4e83-19d3-a748-5f849054dad7",
+      "name": "Divine Swine Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e44b70cf-4e83-19d3-a748-5f849054dad7/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "5a773352-456e-ef0b-35ab-c99ead159264": {
+      "uuid": "5a773352-456e-ef0b-35ab-c99ead159264",
+      "name": "Sensation Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5a773352-456e-ef0b-35ab-c99ead159264/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "fe7ac291-4516-02d4-9101-0a990615a585": {
+      "uuid": "fe7ac291-4516-02d4-9101-0a990615a585",
+      "name": "Lightwave Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fe7ac291-4516-02d4-9101-0a990615a585/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "08e6ba32-4a6e-8680-df58-39af9c32cdac": {
+      "uuid": "08e6ba32-4a6e-8680-df58-39af9c32cdac",
+      "name": "Live Wire Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/08e6ba32-4a6e-8680-df58-39af9c32cdac/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "80fabd74-4438-a2dd-0c39-42ab449f9ec6": {
+      "uuid": "80fabd74-4438-a2dd-0c39-42ab449f9ec6",
+      "name": "Standard Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/80fabd74-4438-a2dd-0c39-42ab449f9ec6/displayicon.png",
+      "tier": null
+    },
+    "31da3ec9-4eb0-ce9f-fcbb-e09ec626e748": {
+      "uuid": "31da3ec9-4eb0-ce9f-fcbb-e09ec626e748",
+      "name": "BlastX Frenzy",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/31da3ec9-4eb0-ce9f-fcbb-e09ec626e748/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "68ee5c6c-4424-e95a-f46f-c08ec2dfeb97": {
+      "uuid": "68ee5c6c-4424-e95a-f46f-c08ec2dfeb97",
+      "name": "VALORANT GO! Vol. 2 Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/68ee5c6c-4424-e95a-f46f-c08ec2dfeb97/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "fe32e4bd-420f-b4cc-de37-febb78df9e16": {
+      "uuid": "fe32e4bd-420f-b4cc-de37-febb78df9e16",
+      "name": "Spectrum Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fe32e4bd-420f-b4cc-de37-febb78df9e16/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "c2e41149-4f8b-e191-a0ae-5a94b80044f5": {
+      "uuid": "c2e41149-4f8b-e191-a0ae-5a94b80044f5",
+      "name": "Pistolinha Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c2e41149-4f8b-e191-a0ae-5a94b80044f5/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "564806a9-43fd-986e-7901-6790b6077a0d": {
+      "uuid": "564806a9-43fd-986e-7901-6790b6077a0d",
+      "name": "Striker Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/564806a9-43fd-986e-7901-6790b6077a0d/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "13f3818c-4518-cf39-51f6-8cad1dc5bfc6": {
+      "uuid": "13f3818c-4518-cf39-51f6-8cad1dc5bfc6",
+      "name": "Radiant Crisis 001 Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/13f3818c-4518-cf39-51f6-8cad1dc5bfc6/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "d2b8b79b-4be7-4790-a356-4e9b06d3965e": {
+      "uuid": "d2b8b79b-4be7-4790-a356-4e9b06d3965e",
+      "name": "Red Alert Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d2b8b79b-4be7-4790-a356-4e9b06d3965e/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "1590d353-4b81-4207-b79a-5493231cbee7": {
+      "uuid": "1590d353-4b81-4207-b79a-5493231cbee7",
+      "name": "Undercity Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1590d353-4b81-4207-b79a-5493231cbee7/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "25cb63cd-416e-ab23-2377-d18638679871": {
+      "uuid": "25cb63cd-416e-ab23-2377-d18638679871",
+      "name": "Glitchpop Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/25cb63cd-416e-ab23-2377-d18638679871/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "30f3e881-43d0-a455-b272-e8968c45761f": {
+      "uuid": "30f3e881-43d0-a455-b272-e8968c45761f",
+      "name": "Finesse Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/30f3e881-43d0-a455-b272-e8968c45761f/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "29a5ecc2-4f93-068a-130a-b5a8a113fec9": {
+      "uuid": "29a5ecc2-4f93-068a-130a-b5a8a113fec9",
+      "name": "Surge Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/29a5ecc2-4f93-068a-130a-b5a8a113fec9/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "3e20522c-42ba-797e-b469-da88b5de7505": {
+      "uuid": "3e20522c-42ba-797e-b469-da88b5de7505",
+      "name": "Songsteel Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3e20522c-42ba-797e-b469-da88b5de7505/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "81658642-4f78-cbb4-9e40-b8856a904bc7": {
+      "uuid": "81658642-4f78-cbb4-9e40-b8856a904bc7",
+      "name": "Forsaken Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/81658642-4f78-cbb4-9e40-b8856a904bc7/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "e7822f41-4dc8-6fab-a931-4fb1bb7590ab": {
+      "uuid": "e7822f41-4dc8-6fab-a931-4fb1bb7590ab",
+      "name": "FIRE/arm Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e7822f41-4dc8-6fab-a931-4fb1bb7590ab/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "ead87ff8-4cad-e895-fd07-57b4db148022": {
+      "uuid": "ead87ff8-4cad-e895-fd07-57b4db148022",
+      "name": "Goldwing Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ead87ff8-4cad-e895-fd07-57b4db148022/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "c7695ce7-4fc9-1c79-64b3-8c8f9e21571c": {
+      "uuid": "c7695ce7-4fc9-1c79-64b3-8c8f9e21571c",
+      "name": "Prime Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c7695ce7-4fc9-1c79-64b3-8c8f9e21571c/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "3800390c-4192-92d1-1703-33ba231fc226": {
+      "uuid": "3800390c-4192-92d1-1703-33ba231fc226",
+      "name": "Avalanche Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3800390c-4192-92d1-1703-33ba231fc226/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "01868af0-4d5c-6f65-5b77-b6bb5aadaf09": {
+      "uuid": "01868af0-4d5c-6f65-5b77-b6bb5aadaf09",
+      "name": "Prism III Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/01868af0-4d5c-6f65-5b77-b6bb5aadaf09/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "6ab90b28-49f1-9e1b-5083-2da2de61e109": {
+      "uuid": "6ab90b28-49f1-9e1b-5083-2da2de61e109",
+      "name": "Kingdom Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6ab90b28-49f1-9e1b-5083-2da2de61e109/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "eb35e4e1-4138-9ece-08e2-69bd414cf598": {
+      "uuid": "eb35e4e1-4138-9ece-08e2-69bd414cf598",
+      "name": "Smite Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/eb35e4e1-4138-9ece-08e2-69bd414cf598/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "1b300b91-41bb-d468-f65f-f68ec0861bd6": {
+      "uuid": "1b300b91-41bb-d468-f65f-f68ec0861bd6",
+      "name": "Spline Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1b300b91-41bb-d468-f65f-f68ec0861bd6/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "b8bc5d1b-44aa-aa83-0246-b1a6bb496177": {
+      "uuid": "b8bc5d1b-44aa-aa83-0246-b1a6bb496177",
+      "name": "Galleria Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b8bc5d1b-44aa-aa83-0246-b1a6bb496177/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "f35f6e13-4b7b-da38-c0de-5c91fffd584b": {
+      "uuid": "f35f6e13-4b7b-da38-c0de-5c91fffd584b",
+      "name": "Gravitational Uranium Neuroblaster Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f35f6e13-4b7b-da38-c0de-5c91fffd584b/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "df639108-4e9d-7fc1-51da-4dbb810ba011": {
+      "uuid": "df639108-4e9d-7fc1-51da-4dbb810ba011",
+      "name": "Sakura Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/df639108-4e9d-7fc1-51da-4dbb810ba011/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "f2a7150b-4894-0dc8-53b3-bf9a30fa4ea4": {
+      "uuid": "f2a7150b-4894-0dc8-53b3-bf9a30fa4ea4",
+      "name": "Snowfall Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f2a7150b-4894-0dc8-53b3-bf9a30fa4ea4/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "03dc8f7e-46b0-e412-e335-47bb646fa057": {
+      "uuid": "03dc8f7e-46b0-e412-e335-47bb646fa057",
+      "name": "Infinity Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/03dc8f7e-46b0-e412-e335-47bb646fa057/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "51cbccad-487c-50ed-2ffd-c88b4240fab3": {
+      "uuid": "51cbccad-487c-50ed-2ffd-c88b4240fab3",
+      "name": "Standard Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/51cbccad-487c-50ed-2ffd-c88b4240fab3/displayicon.png",
+      "tier": null
+    },
+    "bbbe4b32-457c-e4fb-a674-1d9c3885d331": {
+      "uuid": "bbbe4b32-457c-e4fb-a674-1d9c3885d331",
+      "name": "Final Chamber Classic",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/bbbe4b32-457c-e4fb-a674-1d9c3885d331/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "2dd042e4-409e-c8ed-ec76-758529e49d99": {
+      "uuid": "2dd042e4-409e-c8ed-ec76-758529e49d99",
+      "name": "VALORANT GO! Vol. 1 Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/2dd042e4-409e-c8ed-ec76-758529e49d99/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "f7862f1f-4340-6e42-b1fa-0ebcdcf43456": {
+      "uuid": "f7862f1f-4340-6e42-b1fa-0ebcdcf43456",
+      "name": "Gaia's Vengeance Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f7862f1f-4340-6e42-b1fa-0ebcdcf43456/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "80073abf-4fea-b06d-f70c-bdbe6d8ce0a7": {
+      "uuid": "80073abf-4fea-b06d-f70c-bdbe6d8ce0a7",
+      "name": "Endeavour Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/80073abf-4fea-b06d-f70c-bdbe6d8ce0a7/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "9466088a-4ad8-cb08-ec9a-45aaba3a6acd": {
+      "uuid": "9466088a-4ad8-cb08-ec9a-45aaba3a6acd",
+      "name": "dot EXE Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9466088a-4ad8-cb08-ec9a-45aaba3a6acd/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "afcb2528-4415-0178-98b1-c0a751092762": {
+      "uuid": "afcb2528-4415-0178-98b1-c0a751092762",
+      "name": "Hush Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/afcb2528-4415-0178-98b1-c0a751092762/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "a14fa0b5-4b03-2ad9-3b0e-a3ac6a0b033b": {
+      "uuid": "a14fa0b5-4b03-2ad9-3b0e-a3ac6a0b033b",
+      "name": "Infantry Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a14fa0b5-4b03-2ad9-3b0e-a3ac6a0b033b/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "9130e35d-49bb-027d-c536-96a8b63c3f1c": {
+      "uuid": "9130e35d-49bb-027d-c536-96a8b63c3f1c",
+      "name": "Goldwing Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9130e35d-49bb-027d-c536-96a8b63c3f1c/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "9fa5664e-45fa-2a52-68e4-db97d85c8a91": {
+      "uuid": "9fa5664e-45fa-2a52-68e4-db97d85c8a91",
+      "name": "Outpost Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9fa5664e-45fa-2a52-68e4-db97d85c8a91/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "5546f723-4056-6700-80b8-f1b8d42e4952": {
+      "uuid": "5546f723-4056-6700-80b8-f1b8d42e4952",
+      "name": "Prism Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5546f723-4056-6700-80b8-f1b8d42e4952/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "de822d80-4e91-943d-3dd5-429513e7d177": {
+      "uuid": "de822d80-4e91-943d-3dd5-429513e7d177",
+      "name": "Serenity Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/de822d80-4e91-943d-3dd5-429513e7d177/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "5e1f5465-40cd-2c0f-33ab-398c5367d080": {
+      "uuid": "5e1f5465-40cd-2c0f-33ab-398c5367d080",
+      "name": "Ruination Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5e1f5465-40cd-2c0f-33ab-398c5367d080/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "68564c51-4f7e-67d1-fd0d-4e9d216356e8": {
+      "uuid": "68564c51-4f7e-67d1-fd0d-4e9d216356e8",
+      "name": "Luxe Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/68564c51-4f7e-67d1-fd0d-4e9d216356e8/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "003e0991-4370-8837-f8fc-6ab3acec2dbf": {
+      "uuid": "003e0991-4370-8837-f8fc-6ab3acec2dbf",
+      "name": "Magepunk Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/003e0991-4370-8837-f8fc-6ab3acec2dbf/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "b70db444-4ede-9cee-25dd-35b2edb38cd5": {
+      "uuid": "b70db444-4ede-9cee-25dd-35b2edb38cd5",
+      "name": "Artisan Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b70db444-4ede-9cee-25dd-35b2edb38cd5/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "d0793c86-471d-c60c-b0da-bcbadcd8bf12": {
+      "uuid": "d0793c86-471d-c60c-b0da-bcbadcd8bf12",
+      "name": "Jigsaw Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d0793c86-471d-c60c-b0da-bcbadcd8bf12/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "55aaa4ee-4d64-51c7-3c09-fd9bcbe1d122": {
+      "uuid": "55aaa4ee-4d64-51c7-3c09-fd9bcbe1d122",
+      "name": "Eclipse Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/55aaa4ee-4d64-51c7-3c09-fd9bcbe1d122/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "04c6f57c-4463-f8b7-a475-6c89b2ec4416": {
+      "uuid": "04c6f57c-4463-f8b7-a475-6c89b2ec4416",
+      "name": "Lycan's Bane Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/04c6f57c-4463-f8b7-a475-6c89b2ec4416/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "ed8a1109-4e48-f077-636b-e98dd332bfcc": {
+      "uuid": "ed8a1109-4e48-f077-636b-e98dd332bfcc",
+      "name": "Sovereign Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ed8a1109-4e48-f077-636b-e98dd332bfcc/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "b9f4e6ea-4db2-6939-731f-0eb93cfbbb1d": {
+      "uuid": "b9f4e6ea-4db2-6939-731f-0eb93cfbbb1d",
+      "name": "Tethered Realms Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b9f4e6ea-4db2-6939-731f-0eb93cfbbb1d/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "459343eb-4c56-4f10-ff2f-fbbf07d3695d": {
+      "uuid": "459343eb-4c56-4f10-ff2f-fbbf07d3695d",
+      "name": "Recon Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/459343eb-4c56-4f10-ff2f-fbbf07d3695d/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "7cee2791-457c-6017-cfba-bca7f61fc151": {
+      "uuid": "7cee2791-457c-6017-cfba-bca7f61fc151",
+      "name": "Cavalier Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7cee2791-457c-6017-cfba-bca7f61fc151/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "0a7e786c-444e-6a80-8bda-e2b714d68332": {
+      "uuid": "0a7e786c-444e-6a80-8bda-e2b714d68332",
+      "name": "Standard Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0a7e786c-444e-6a80-8bda-e2b714d68332/displayicon.png",
+      "tier": null
+    },
+    "bb0450c4-47db-4fc7-d0c3-a8a5320d673b": {
+      "uuid": "bb0450c4-47db-4fc7-d0c3-a8a5320d673b",
+      "name": "Depths Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/bb0450c4-47db-4fc7-d0c3-a8a5320d673b/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "f9fab42c-46bf-1bf0-dba5-32988be03fc2": {
+      "uuid": "f9fab42c-46bf-1bf0-dba5-32988be03fc2",
+      "name": "Ego Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f9fab42c-46bf-1bf0-dba5-32988be03fc2/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "4526a891-4754-da6c-7ada-95a8a259952e": {
+      "uuid": "4526a891-4754-da6c-7ada-95a8a259952e",
+      "name": "Vendetta Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4526a891-4754-da6c-7ada-95a8a259952e/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "d0fda3cb-454c-e81d-94e4-42942c99f02d": {
+      "uuid": "d0fda3cb-454c-e81d-94e4-42942c99f02d",
+      "name": "Winterwunderland Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d0fda3cb-454c-e81d-94e4-42942c99f02d/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "b85b3760-43bb-507d-323e-1682fa76d96b": {
+      "uuid": "b85b3760-43bb-507d-323e-1682fa76d96b",
+      "name": "Soul Silencer Ghost",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b85b3760-43bb-507d-323e-1682fa76d96b/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "6d4766d0-41f0-8493-93eb-a4902a0c6034": {
+      "uuid": "6d4766d0-41f0-8493-93eb-a4902a0c6034",
+      "name": "Aristocrat Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6d4766d0-41f0-8493-93eb-a4902a0c6034/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "353c1e5f-4258-c49a-c0d6-319ad33bffea": {
+      "uuid": "353c1e5f-4258-c49a-c0d6-319ad33bffea",
+      "name": "Nebula Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/353c1e5f-4258-c49a-c0d6-319ad33bffea/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "4276d2b5-4b1c-b636-aff0-4ea579d875d7": {
+      "uuid": "4276d2b5-4b1c-b636-aff0-4ea579d875d7",
+      "name": "Singularity Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4276d2b5-4b1c-b636-aff0-4ea579d875d7/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "db36ee86-4aa7-249f-6745-5e9ddffa50b4": {
+      "uuid": "db36ee86-4aa7-249f-6745-5e9ddffa50b4",
+      "name": "Surge Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/db36ee86-4aa7-249f-6745-5e9ddffa50b4/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "d9fc55c6-4b92-98ac-5052-2a8b5ca4fb71": {
+      "uuid": "d9fc55c6-4b92-98ac-5052-2a8b5ca4fb71",
+      "name": "Protektor Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d9fc55c6-4b92-98ac-5052-2a8b5ca4fb71/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "b6e6ea9e-432d-ec17-904e-62a5ea45f1a7": {
+      "uuid": "b6e6ea9e-432d-ec17-904e-62a5ea45f1a7",
+      "name": "Prism II Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b6e6ea9e-432d-ec17-904e-62a5ea45f1a7/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "df35b7df-4add-58fb-418c-0dbea48b7e82": {
+      "uuid": "df35b7df-4add-58fb-418c-0dbea48b7e82",
+      "name": "K/TAC Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/df35b7df-4add-58fb-418c-0dbea48b7e82/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "59733cf9-490b-e25b-2c6f-eca947628079": {
+      "uuid": "59733cf9-490b-e25b-2c6f-eca947628079",
+      "name": "Magepunk Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/59733cf9-490b-e25b-2c6f-eca947628079/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "75b110de-40e5-3e02-d700-2abda38817c5": {
+      "uuid": "75b110de-40e5-3e02-d700-2abda38817c5",
+      "name": "Minima Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/75b110de-40e5-3e02-d700-2abda38817c5/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "9dbc52e2-4889-cbe5-b874-4f8f0f8f3781": {
+      "uuid": "9dbc52e2-4889-cbe5-b874-4f8f0f8f3781",
+      "name": "Silvanus Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9dbc52e2-4889-cbe5-b874-4f8f0f8f3781/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "2b555f97-46bb-5949-3531-979f5bc817f0": {
+      "uuid": "2b555f97-46bb-5949-3531-979f5bc817f0",
+      "name": "Ion Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/2b555f97-46bb-5949-3531-979f5bc817f0/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "02f45c84-427c-d575-945f-ba913a732b72": {
+      "uuid": "02f45c84-427c-d575-945f-ba913a732b72",
+      "name": "POLYfox Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/02f45c84-427c-d575-945f-ba913a732b72/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "54ab75c2-42f2-544f-f4f2-ce9ca9180f6b": {
+      "uuid": "54ab75c2-42f2-544f-f4f2-ce9ca9180f6b",
+      "name": "POLYfrog Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/54ab75c2-42f2-544f-f4f2-ce9ca9180f6b/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "12831559-44ee-c708-b97c-29a43938e3cd": {
+      "uuid": "12831559-44ee-c708-b97c-29a43938e3cd",
+      "name": "Protocol 781-A Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/12831559-44ee-c708-b97c-29a43938e3cd/displayicon.png",
+      "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
+    },
+    "dd024421-4c2a-7126-b58e-fea865a45aa9": {
+      "uuid": "dd024421-4c2a-7126-b58e-fea865a45aa9",
+      "name": "Lightwave Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/dd024421-4c2a-7126-b58e-fea865a45aa9/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "c8652efa-462f-d455-20b0-699dd00a9e2a": {
+      "uuid": "c8652efa-462f-d455-20b0-699dd00a9e2a",
+      "name": "Sakura Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c8652efa-462f-d455-20b0-699dd00a9e2a/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "ec570f46-4751-eeb6-7739-069bcbb8d05a": {
+      "uuid": "ec570f46-4751-eeb6-7739-069bcbb8d05a",
+      "name": "Peacekeeper Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ec570f46-4751-eeb6-7739-069bcbb8d05a/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "b5601f65-4467-7946-8a37-45bed5514f98": {
+      "uuid": "b5601f65-4467-7946-8a37-45bed5514f98",
+      "name": "Schema Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b5601f65-4467-7946-8a37-45bed5514f98/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "746a022b-48a9-c51b-f379-11a3e1e2bc8e": {
+      "uuid": "746a022b-48a9-c51b-f379-11a3e1e2bc8e",
+      "name": "Sentinels of Light Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/746a022b-48a9-c51b-f379-11a3e1e2bc8e/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "4e4ebb8d-41d0-c326-595a-1f9b257e91fa": {
+      "uuid": "4e4ebb8d-41d0-c326-595a-1f9b257e91fa",
+      "name": "Reaver Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4e4ebb8d-41d0-c326-595a-1f9b257e91fa/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "feaf05a1-492f-d154-a9f5-0eb1fe9a603e": {
+      "uuid": "feaf05a1-492f-d154-a9f5-0eb1fe9a603e",
+      "name": "Standard Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/feaf05a1-492f-d154-a9f5-0eb1fe9a603e/displayicon.png",
+      "tier": null
+    },
+    "4538bff7-470c-889c-9875-7ba3ebf87c87": {
+      "uuid": "4538bff7-470c-889c-9875-7ba3ebf87c87",
+      "name": "Convex Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4538bff7-470c-889c-9875-7ba3ebf87c87/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "5fb2a965-4cd9-0564-c8b1-51895ba7718a": {
+      "uuid": "5fb2a965-4cd9-0564-c8b1-51895ba7718a",
+      "name": "Varnish Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5fb2a965-4cd9-0564-c8b1-51895ba7718a/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "0d73596b-478a-dae0-49ca-2fa588f78f13": {
+      "uuid": "0d73596b-478a-dae0-49ca-2fa588f78f13",
+      "name": "Wasteland Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0d73596b-478a-dae0-49ca-2fa588f78f13/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "443f5a29-4d5e-d63e-a3c6-ada7713172fa": {
+      "uuid": "443f5a29-4d5e-d63e-a3c6-ada7713172fa",
+      "name": "Game Over Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/443f5a29-4d5e-d63e-a3c6-ada7713172fa/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "9ee1d68f-4b51-8ef1-b620-efa9760b0d02": {
+      "uuid": "9ee1d68f-4b51-8ef1-b620-efa9760b0d02",
+      "name": "Arcane Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9ee1d68f-4b51-8ef1-b620-efa9760b0d02/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "a07ff70b-4b4b-ee36-78f5-8ba771b278ac": {
+      "uuid": "a07ff70b-4b4b-ee36-78f5-8ba771b278ac",
+      "name": "Death Wish Sheriff",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a07ff70b-4b4b-ee36-78f5-8ba771b278ac/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "d0a95805-4adb-95f7-3955-339d89769bec": {
+      "uuid": "d0a95805-4adb-95f7-3955-339d89769bec",
+      "name": "Hivemind Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d0a95805-4adb-95f7-3955-339d89769bec/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "c6db7920-4d61-556e-7c06-19954b847cbe": {
+      "uuid": "c6db7920-4d61-556e-7c06-19954b847cbe",
+      "name": "Velocity Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c6db7920-4d61-556e-7c06-19954b847cbe/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "907bab1f-4fca-982e-7645-41a941ef6626": {
+      "uuid": "907bab1f-4fca-982e-7645-41a941ef6626",
+      "name": "Ruin Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/907bab1f-4fca-982e-7645-41a941ef6626/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "a8718add-47cd-30ad-12cf-eea925286a91": {
+      "uuid": "a8718add-47cd-30ad-12cf-eea925286a91",
+      "name": "Monarch Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a8718add-47cd-30ad-12cf-eea925286a91/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "61f62d77-4f80-7664-2ea9-538f6fc4b241": {
+      "uuid": "61f62d77-4f80-7664-2ea9-538f6fc4b241",
+      "name": "Prism II Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/61f62d77-4f80-7664-2ea9-538f6fc4b241/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "f9688e62-42c5-9f10-f160-49abaee2e02c": {
+      "uuid": "f9688e62-42c5-9f10-f160-49abaee2e02c",
+      "name": "Wunderkind Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f9688e62-42c5-9f10-f160-49abaee2e02c/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "f5f8fb4f-4c3a-ee60-ed0c-bfb8cded09fc": {
+      "uuid": "f5f8fb4f-4c3a-ee60-ed0c-bfb8cded09fc",
+      "name": "Genesis Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f5f8fb4f-4c3a-ee60-ed0c-bfb8cded09fc/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "a2950772-447a-f2db-be24-19b0e0ed736f": {
+      "uuid": "a2950772-447a-f2db-be24-19b0e0ed736f",
+      "name": "Oni Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a2950772-447a-f2db-be24-19b0e0ed736f/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "6f90d1ed-4acc-d925-4a8a-60913f14d16b": {
+      "uuid": "6f90d1ed-4acc-d925-4a8a-60913f14d16b",
+      "name": "Snakebite Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6f90d1ed-4acc-d925-4a8a-60913f14d16b/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "a7f92a1c-4465-5ea3-7745-bd876117f4a7": {
+      "uuid": "a7f92a1c-4465-5ea3-7745-bd876117f4a7",
+      "name": "Standard Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a7f92a1c-4465-5ea3-7745-bd876117f4a7/displayicon.png",
+      "tier": null
+    },
+    "1db941af-4587-c6a4-5885-dbb77fefcb32": {
+      "uuid": "1db941af-4587-c6a4-5885-dbb77fefcb32",
+      "name": "Aerosol Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1db941af-4587-c6a4-5885-dbb77fefcb32/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "9f282aa1-4d3e-7595-83ca-0a97fc89ba31": {
+      "uuid": "9f282aa1-4d3e-7595-83ca-0a97fc89ba31",
+      "name": "Tigris Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9f282aa1-4d3e-7595-83ca-0a97fc89ba31/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "673149d4-463f-27a5-163f-78a599244fc3": {
+      "uuid": "673149d4-463f-27a5-163f-78a599244fc3",
+      "name": "Wayfinder Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/673149d4-463f-27a5-163f-78a599244fc3/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "a88a4c80-4913-a111-0fba-878adddd381a": {
+      "uuid": "a88a4c80-4913-a111-0fba-878adddd381a",
+      "name": "Wasteland Shorty",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a88a4c80-4913-a111-0fba-878adddd381a/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "68811d2b-4a6d-cbdc-39d3-f580aa97a297": {
+      "uuid": "68811d2b-4a6d-cbdc-39d3-f580aa97a297",
+      "name": "VALORANT GO! Vol. 2 Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/68811d2b-4a6d-cbdc-39d3-f580aa97a297/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "fd486ca0-4d52-4e9b-ec35-dc8cd450b679": {
+      "uuid": "fd486ca0-4d52-4e9b-ec35-dc8cd450b679",
+      "name": "Endeavour Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fd486ca0-4d52-4e9b-ec35-dc8cd450b679/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "4d19c241-4350-6658-f5a6-5c99ca8e5e99": {
+      "uuid": "4d19c241-4350-6658-f5a6-5c99ca8e5e99",
+      "name": "Origin Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4d19c241-4350-6658-f5a6-5c99ca8e5e99/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "3cd5ed19-405b-9600-489f-4e84900ea2d3": {
+      "uuid": "3cd5ed19-405b-9600-489f-4e84900ea2d3",
+      "name": "Striker Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3cd5ed19-405b-9600-489f-4e84900ea2d3/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "fc4c9003-4069-d351-e0b5-03b509638c2c": {
+      "uuid": "fc4c9003-4069-d351-e0b5-03b509638c2c",
+      "name": "Red Alert Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fc4c9003-4069-d351-e0b5-03b509638c2c/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "d92a6ee6-4073-8b7f-e944-f1a55606a28a": {
+      "uuid": "d92a6ee6-4073-8b7f-e944-f1a55606a28a",
+      "name": "Glitchpop Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d92a6ee6-4073-8b7f-e944-f1a55606a28a/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "5c273d0e-47fa-bb8c-d914-728de95da30e": {
+      "uuid": "5c273d0e-47fa-bb8c-d914-728de95da30e",
+      "name": "Elderflame Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5c273d0e-47fa-bb8c-d914-728de95da30e/displayicon.png",
+      "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
+    },
+    "f49ac94f-4965-1e13-e293-a9838b042a83": {
+      "uuid": "f49ac94f-4965-1e13-e293-a9838b042a83",
+      "name": "Nitro Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f49ac94f-4965-1e13-e293-a9838b042a83/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "10a5fe91-4efa-9d6b-44f7-47ae9660550d": {
+      "uuid": "10a5fe91-4efa-9d6b-44f7-47ae9660550d",
+      "name": "Forsaken Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/10a5fe91-4efa-9d6b-44f7-47ae9660550d/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "4491f330-4d30-04f7-d609-4face7e5bd5f": {
+      "uuid": "4491f330-4d30-04f7-d609-4face7e5bd5f",
+      "name": "Team Ace Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4491f330-4d30-04f7-d609-4face7e5bd5f/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "e7301730-418f-e0fb-c930-9598741d5c30": {
+      "uuid": "e7301730-418f-e0fb-c930-9598741d5c30",
+      "name": "Infantry Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e7301730-418f-e0fb-c930-9598741d5c30/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "37851a69-4719-d8ae-d305-49bcee8d853c": {
+      "uuid": "37851a69-4719-d8ae-d305-49bcee8d853c",
+      "name": "Prism Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/37851a69-4719-d8ae-d305-49bcee8d853c/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "e045334d-4b19-26df-739c-f89fd561714f": {
+      "uuid": "e045334d-4b19-26df-739c-f89fd561714f",
+      "name": "K/TAC Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e045334d-4b19-26df-739c-f89fd561714f/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "e5a2e04a-4805-1244-5376-06b40d7c6cbb": {
+      "uuid": "e5a2e04a-4805-1244-5376-06b40d7c6cbb",
+      "name": "Luxe Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e5a2e04a-4805-1244-5376-06b40d7c6cbb/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "369c9f89-49fa-94bc-f3f8-b9b94b6395af": {
+      "uuid": "369c9f89-49fa-94bc-f3f8-b9b94b6395af",
+      "name": "Magepunk Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/369c9f89-49fa-94bc-f3f8-b9b94b6395af/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "4c053776-467f-2c6a-b609-0ba3ea371a14": {
+      "uuid": "4c053776-467f-2c6a-b609-0ba3ea371a14",
+      "name": "Spline Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4c053776-467f-2c6a-b609-0ba3ea371a14/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "436f42cc-49c5-b535-4fdf-c0bd48695919": {
+      "uuid": "436f42cc-49c5-b535-4fdf-c0bd48695919",
+      "name": "Minima Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/436f42cc-49c5-b535-4fdf-c0bd48695919/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "49b00063-4a7e-6c73-b8c9-68a8d5727757": {
+      "uuid": "49b00063-4a7e-6c73-b8c9-68a8d5727757",
+      "name": "Silvanus Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/49b00063-4a7e-6c73-b8c9-68a8d5727757/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "8f557248-48e2-28a5-3ad4-eca783fde786": {
+      "uuid": "8f557248-48e2-28a5-3ad4-eca783fde786",
+      "name": "Genesis Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/8f557248-48e2-28a5-3ad4-eca783fde786/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "24c73c29-443c-2440-d6db-838086f2451a": {
+      "uuid": "24c73c29-443c-2440-d6db-838086f2451a",
+      "name": "Ion Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/24c73c29-443c-2440-d6db-838086f2451a/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "4aa31563-44e1-0d9f-f95a-a1b9965ad762": {
+      "uuid": "4aa31563-44e1-0d9f-f95a-a1b9965ad762",
+      "name": "Gravitational Uranium Neuroblaster Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4aa31563-44e1-0d9f-f95a-a1b9965ad762/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "69657d05-4309-9779-d445-6da864067246": {
+      "uuid": "69657d05-4309-9779-d445-6da864067246",
+      "name": "Sentinels of Light Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/69657d05-4309-9779-d445-6da864067246/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "7bfab387-4e97-d815-4488-c491e3a5520c": {
+      "uuid": "7bfab387-4e97-d815-4488-c491e3a5520c",
+      "name": "Reaver Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7bfab387-4e97-d815-4488-c491e3a5520c/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "65d832e3-4b34-b4b9-fde0-9d897d5fe51b": {
+      "uuid": "65d832e3-4b34-b4b9-fde0-9d897d5fe51b",
+      "name": "Tethered Realms Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/65d832e3-4b34-b4b9-fde0-9d897d5fe51b/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "19e0625f-4bcc-5126-014a-008c6df44ba4": {
+      "uuid": "19e0625f-4bcc-5126-014a-008c6df44ba4",
+      "name": "Cavalier Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/19e0625f-4bcc-5126-014a-008c6df44ba4/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "88cba358-4f4d-4d0e-69fc-b48f4c65cb2d": {
+      "uuid": "88cba358-4f4d-4d0e-69fc-b48f4c65cb2d",
+      "name": "Standard Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/88cba358-4f4d-4d0e-69fc-b48f4c65cb2d/displayicon.png",
+      "tier": null
+    },
+    "35001b1f-49fa-48ad-a087-03809f6f059e": {
+      "uuid": "35001b1f-49fa-48ad-a087-03809f6f059e",
+      "name": "Aerosol Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/35001b1f-49fa-48ad-a087-03809f6f059e/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "2ecb0e86-4a14-b33b-8fe1-db96f2c3aa69": {
+      "uuid": "2ecb0e86-4a14-b33b-8fe1-db96f2c3aa69",
+      "name": "Tigris Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/2ecb0e86-4a14-b33b-8fe1-db96f2c3aa69/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "ed333b00-4e88-a9c5-d309-acae85438e93": {
+      "uuid": "ed333b00-4e88-a9c5-d309-acae85438e93",
+      "name": "Convex Operator",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ed333b00-4e88-a9c5-d309-acae85438e93/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "43361d49-4331-ee30-e356-0f925e6e17b9": {
+      "uuid": "43361d49-4331-ee30-e356-0f925e6e17b9",
+      "name": "RGX 11z Pro Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/43361d49-4331-ee30-e356-0f925e6e17b9/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "920d9d08-4f22-9f1e-b309-ddbbe5ecb91c": {
+      "uuid": "920d9d08-4f22-9f1e-b309-ddbbe5ecb91c",
+      "name": "VALORANT GO! Vol. 1 Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/920d9d08-4f22-9f1e-b309-ddbbe5ecb91c/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "e16ea577-4d7f-e686-456a-54b4b1d9cba2": {
+      "uuid": "e16ea577-4d7f-e686-456a-54b4b1d9cba2",
+      "name": "Gaia's Vengeance Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e16ea577-4d7f-e686-456a-54b4b1d9cba2/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "19ba907b-4a76-347f-ea24-38990c9ff755": {
+      "uuid": "19ba907b-4a76-347f-ea24-38990c9ff755",
+      "name": "Spectrum Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/19ba907b-4a76-347f-ea24-38990c9ff755/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "bf6df430-4e46-5c51-df6f-c2bc3b1cb4fe": {
+      "uuid": "bf6df430-4e46-5c51-df6f-c2bc3b1cb4fe",
+      "name": "Nebula Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/bf6df430-4e46-5c51-df6f-c2bc3b1cb4fe/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "03d98493-4964-3f66-7e23-7581bbcfa501": {
+      "uuid": "03d98493-4964-3f66-7e23-7581bbcfa501",
+      "name": "Nitro Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/03d98493-4964-3f66-7e23-7581bbcfa501/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "6672800e-442c-a0b5-92d3-ed83483f04df": {
+      "uuid": "6672800e-442c-a0b5-92d3-ed83483f04df",
+      "name": "Songsteel Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6672800e-442c-a0b5-92d3-ed83483f04df/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "c41a7b5d-4a04-a411-053d-818fe1d77ac6": {
+      "uuid": "c41a7b5d-4a04-a411-053d-818fe1d77ac6",
+      "name": "Ruin Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c41a7b5d-4a04-a411-053d-818fe1d77ac6/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "a2c59452-4420-130a-9aa1-cb8ea551a05d": {
+      "uuid": "a2c59452-4420-130a-9aa1-cb8ea551a05d",
+      "name": "Infantry Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a2c59452-4420-130a-9aa1-cb8ea551a05d/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "0ab465ed-4539-16f1-b791-5384280e0a1c": {
+      "uuid": "0ab465ed-4539-16f1-b791-5384280e0a1c",
+      "name": "Hydrodip Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0ab465ed-4539-16f1-b791-5384280e0a1c/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "9336ab9d-445c-0872-a283-9f9b61a0098a": {
+      "uuid": "9336ab9d-445c-0872-a283-9f9b61a0098a",
+      "name": "Prime Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9336ab9d-445c-0872-a283-9f9b61a0098a/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "0e1af0d5-4dee-15db-25b5-31a7da6f1d52": {
+      "uuid": "0e1af0d5-4dee-15db-25b5-31a7da6f1d52",
+      "name": "Ruination Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0e1af0d5-4dee-15db-25b5-31a7da6f1d52/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "e63eab09-47e4-25be-6c9f-57995385429d": {
+      "uuid": "e63eab09-47e4-25be-6c9f-57995385429d",
+      "name": "Magepunk Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e63eab09-47e4-25be-6c9f-57995385429d/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "7a0374af-42f5-2f99-b535-a997f2179717": {
+      "uuid": "7a0374af-42f5-2f99-b535-a997f2179717",
+      "name": "Galleria Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7a0374af-42f5-2f99-b535-a997f2179717/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "fee2c305-40d1-1cca-08b8-46bceda98eca": {
+      "uuid": "fee2c305-40d1-1cca-08b8-46bceda98eca",
+      "name": "Oni Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fee2c305-40d1-1cca-08b8-46bceda98eca/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "d52eb83d-4bc0-085d-3ec7-24b2c92281bf": {
+      "uuid": "d52eb83d-4bc0-085d-3ec7-24b2c92281bf",
+      "name": "Aero Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d52eb83d-4bc0-085d-3ec7-24b2c92281bf/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "df9044e9-4ed4-4a49-b7ce-babc4a0e23d6": {
+      "uuid": "df9044e9-4ed4-4a49-b7ce-babc4a0e23d6",
+      "name": "POLYfox Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/df9044e9-4ed4-4a49-b7ce-babc4a0e23d6/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "cf06c0d6-4c0c-1e8a-0553-999a45a53ae1": {
+      "uuid": "cf06c0d6-4c0c-1e8a-0553-999a45a53ae1",
+      "name": "Jigsaw Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/cf06c0d6-4c0c-1e8a-0553-999a45a53ae1/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "c9f0ea7f-4bed-b10e-62d2-0394444feed1": {
+      "uuid": "c9f0ea7f-4bed-b10e-62d2-0394444feed1",
+      "name": "Reaver Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c9f0ea7f-4bed-b10e-62d2-0394444feed1/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "8f8f82f4-4133-82c9-50b2-3c9c67e0f9fb": {
+      "uuid": "8f8f82f4-4133-82c9-50b2-3c9c67e0f9fb",
+      "name": "Sovereign Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/8f8f82f4-4133-82c9-50b2-3c9c67e0f9fb/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "f202625e-4647-b575-07a9-3fbc39d72b10": {
+      "uuid": "f202625e-4647-b575-07a9-3fbc39d72b10",
+      "name": "Tethered Realms Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f202625e-4647-b575-07a9-3fbc39d72b10/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "7bc358d8-42ad-611f-5594-37888c23abe3": {
+      "uuid": "7bc358d8-42ad-611f-5594-37888c23abe3",
+      "name": "Recon Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7bc358d8-42ad-611f-5594-37888c23abe3/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "4c51b90b-4629-f1b0-5b53-5aa7fb787be0": {
+      "uuid": "4c51b90b-4629-f1b0-5b53-5aa7fb787be0",
+      "name": "Infinity Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4c51b90b-4629-f1b0-5b53-5aa7fb787be0/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "414d888a-41ce-fcf0-e545-c49018ec9cf4": {
+      "uuid": "414d888a-41ce-fcf0-e545-c49018ec9cf4",
+      "name": "Standard Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/414d888a-41ce-fcf0-e545-c49018ec9cf4/displayicon.png",
+      "tier": null
+    },
+    "fa3d6a11-46c4-2caf-f7e4-10a5013c034b": {
+      "uuid": "fa3d6a11-46c4-2caf-f7e4-10a5013c034b",
+      "name": "Ego Guardian",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fa3d6a11-46c4-2caf-f7e4-10a5013c034b/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "6046ca8f-4100-4b1a-7e8d-5e8c6625342f": {
+      "uuid": "6046ca8f-4100-4b1a-7e8d-5e8c6625342f",
+      "name": "Gaia's Vengeance Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6046ca8f-4100-4b1a-7e8d-5e8c6625342f/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "3e0a3431-4e78-89d1-ee57-d9837e324ee0": {
+      "uuid": "3e0a3431-4e78-89d1-ee57-d9837e324ee0",
+      "name": "Songsteel Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3e0a3431-4e78-89d1-ee57-d9837e324ee0/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "60dc909f-4c52-b96e-dd37-dfaa2392e373": {
+      "uuid": "60dc909f-4c52-b96e-dd37-dfaa2392e373",
+      "name": "Ruin Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/60dc909f-4c52-b96e-dd37-dfaa2392e373/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "c9d3f7be-4753-d85c-7a65-a684b6bebf71": {
+      "uuid": "c9d3f7be-4753-d85c-7a65-a684b6bebf71",
+      "name": "Monarch Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c9d3f7be-4753-d85c-7a65-a684b6bebf71/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "4a3b4aaf-4cdd-d5cf-b776-0593c3d2bf9a": {
+      "uuid": "4a3b4aaf-4cdd-d5cf-b776-0593c3d2bf9a",
+      "name": "Avalanche Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4a3b4aaf-4cdd-d5cf-b776-0593c3d2bf9a/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "115ad37d-4126-20e5-35a5-d691aa97a03c": {
+      "uuid": "115ad37d-4126-20e5-35a5-d691aa97a03c",
+      "name": "Couture Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/115ad37d-4126-20e5-35a5-d691aa97a03c/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "b2f78500-4322-b03d-2745-a3b2208d63fe": {
+      "uuid": "b2f78500-4322-b03d-2745-a3b2208d63fe",
+      "name": "Magepunk Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b2f78500-4322-b03d-2745-a3b2208d63fe/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "50265ad5-4f14-2b32-924e-02bbed2bea6f": {
+      "uuid": "50265ad5-4f14-2b32-924e-02bbed2bea6f",
+      "name": "Galleria Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/50265ad5-4f14-2b32-924e-02bbed2bea6f/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "f1b4577e-4dd3-6573-472c-a68cfe695d60": {
+      "uuid": "f1b4577e-4dd3-6573-472c-a68cfe695d60",
+      "name": "POLYfrog Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f1b4577e-4dd3-6573-472c-a68cfe695d60/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "3711156a-43c5-de94-3ccc-ee8bae5e6df0": {
+      "uuid": "3711156a-43c5-de94-3ccc-ee8bae5e6df0",
+      "name": "Divine Swine Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3711156a-43c5-de94-3ccc-ee8bae5e6df0/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "c779f43f-47cc-fe29-63aa-bb8b91b36e42": {
+      "uuid": "c779f43f-47cc-fe29-63aa-bb8b91b36e42",
+      "name": "Artisan Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c779f43f-47cc-fe29-63aa-bb8b91b36e42/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "c5dd6298-4928-5d64-5cd0-7fa41ea89d81": {
+      "uuid": "c5dd6298-4928-5d64-5cd0-7fa41ea89d81",
+      "name": "Sovereign Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c5dd6298-4928-5d64-5cd0-7fa41ea89d81/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "f0389390-49eb-a43e-27fa-fc9f9f8aa9de": {
+      "uuid": "f0389390-49eb-a43e-27fa-fc9f9f8aa9de",
+      "name": "Standard Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f0389390-49eb-a43e-27fa-fc9f9f8aa9de/displayicon.png",
+      "tier": null
+    },
+    "4049dc82-495b-cecc-8e34-4dbf35753129": {
+      "uuid": "4049dc82-495b-cecc-8e34-4dbf35753129",
+      "name": "Wasteland Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4049dc82-495b-cecc-8e34-4dbf35753129/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "4fcea818-4877-85f9-ba01-a0b02e1868f4": {
+      "uuid": "4fcea818-4877-85f9-ba01-a0b02e1868f4",
+      "name": "Winterwunderland Marshal",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4fcea818-4877-85f9-ba01-a0b02e1868f4/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "291cb44a-410d-b035-4d0b-608a92c2cd91": {
+      "uuid": "291cb44a-410d-b035-4d0b-608a92c2cd91",
+      "name": "VALORANT GO! Vol. 1 Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/291cb44a-410d-b035-4d0b-608a92c2cd91/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "6c69c2bc-4c7a-6308-8384-a1b2aa00a50b": {
+      "uuid": "6c69c2bc-4c7a-6308-8384-a1b2aa00a50b",
+      "name": "Striker Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6c69c2bc-4c7a-6308-8384-a1b2aa00a50b/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "b39aed48-4bb5-089b-3f60-17aa27e45733": {
+      "uuid": "b39aed48-4bb5-089b-3f60-17aa27e45733",
+      "name": "Radiant Crisis 001 Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b39aed48-4bb5-089b-3f60-17aa27e45733/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "3b955119-421c-3319-50cc-1aaf06b42338": {
+      "uuid": "3b955119-421c-3319-50cc-1aaf06b42338",
+      "name": "Singularity Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3b955119-421c-3319-50cc-1aaf06b42338/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "4d02d9fa-4cb4-4d87-bdf0-97bd5f960c12": {
+      "uuid": "4d02d9fa-4cb4-4d87-bdf0-97bd5f960c12",
+      "name": "Hivemind Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4d02d9fa-4cb4-4d87-bdf0-97bd5f960c12/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "daa73753-4b56-9d21-d73e-f3b3f4c9b1a6": {
+      "uuid": "daa73753-4b56-9d21-d73e-f3b3f4c9b1a6",
+      "name": "Forsaken Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/daa73753-4b56-9d21-d73e-f3b3f4c9b1a6/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "5172ea04-432f-2bfb-2163-808ccc2442c3": {
+      "uuid": "5172ea04-432f-2bfb-2163-808ccc2442c3",
+      "name": "Velocity Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5172ea04-432f-2bfb-2163-808ccc2442c3/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "dd595229-4aac-73f1-5fad-86891b7d7ecb": {
+      "uuid": "dd595229-4aac-73f1-5fad-86891b7d7ecb",
+      "name": "Infantry Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/dd595229-4aac-73f1-5fad-86891b7d7ecb/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "755d86a0-4b1c-5c8b-9238-e5be850ba001": {
+      "uuid": "755d86a0-4b1c-5c8b-9238-e5be850ba001",
+      "name": "Horizon Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/755d86a0-4b1c-5c8b-9238-e5be850ba001/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "d1d528ae-4dcc-e693-68e2-e8a475df83a4": {
+      "uuid": "d1d528ae-4dcc-e693-68e2-e8a475df83a4",
+      "name": "Prime Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d1d528ae-4dcc-e693-68e2-e8a475df83a4/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "5a0cd3b5-4249-bf6f-d009-17a81532660e": {
+      "uuid": "5a0cd3b5-4249-bf6f-d009-17a81532660e",
+      "name": "Avalanche Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5a0cd3b5-4249-bf6f-d009-17a81532660e/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "481a5abb-45d7-818d-798f-d18d988b6dc1": {
+      "uuid": "481a5abb-45d7-818d-798f-d18d988b6dc1",
+      "name": "Prism Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/481a5abb-45d7-818d-798f-d18d988b6dc1/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "54ebea37-4cfe-a79b-707d-0d94017a69a6": {
+      "uuid": "54ebea37-4cfe-a79b-707d-0d94017a69a6",
+      "name": "Serenity Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/54ebea37-4cfe-a79b-707d-0d94017a69a6/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "87220abc-49a9-7472-ae09-29a6d711bbc3": {
+      "uuid": "87220abc-49a9-7472-ae09-29a6d711bbc3",
+      "name": "Ruination Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/87220abc-49a9-7472-ae09-29a6d711bbc3/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "bd80c562-4c2d-f00a-156e-9190d023098e": {
+      "uuid": "bd80c562-4c2d-f00a-156e-9190d023098e",
+      "name": "Kingdom Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/bd80c562-4c2d-f00a-156e-9190d023098e/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "7d43477d-465a-67fc-561e-f2a2ebea697d": {
+      "uuid": "7d43477d-465a-67fc-561e-f2a2ebea697d",
+      "name": "Luxe Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7d43477d-465a-67fc-561e-f2a2ebea697d/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "7e45e9cd-4072-cc32-0898-d09c167cc0f9": {
+      "uuid": "7e45e9cd-4072-cc32-0898-d09c167cc0f9",
+      "name": "Magepunk Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7e45e9cd-4072-cc32-0898-d09c167cc0f9/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "f2ef87c7-4ff5-54f8-e038-cea4e54eefdd": {
+      "uuid": "f2ef87c7-4ff5-54f8-e038-cea4e54eefdd",
+      "name": "Spline Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f2ef87c7-4ff5-54f8-e038-cea4e54eefdd/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "1fdbe6f8-42ca-deb2-33da-caa2c4200544": {
+      "uuid": "1fdbe6f8-42ca-deb2-33da-caa2c4200544",
+      "name": "Minima Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1fdbe6f8-42ca-deb2-33da-caa2c4200544/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "cc3bb43a-4078-e7e6-5b43-3ba42fb9d7fb": {
+      "uuid": "cc3bb43a-4078-e7e6-5b43-3ba42fb9d7fb",
+      "name": "Aero Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/cc3bb43a-4078-e7e6-5b43-3ba42fb9d7fb/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "49de2762-4a72-6659-9139-0f96ae938649": {
+      "uuid": "49de2762-4a72-6659-9139-0f96ae938649",
+      "name": "POLYfrog Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/49de2762-4a72-6659-9139-0f96ae938649/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "5eb7515f-40a1-2f15-de03-c9a024664737": {
+      "uuid": "5eb7515f-40a1-2f15-de03-c9a024664737",
+      "name": "Protocol 781-A Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5eb7515f-40a1-2f15-de03-c9a024664737/displayicon.png",
+      "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
+    },
+    "8a1b2c5b-4692-78ae-9d5c-cdac6a61e4f4": {
+      "uuid": "8a1b2c5b-4692-78ae-9d5c-cdac6a61e4f4",
+      "name": "Gravitational Uranium Neuroblaster Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/8a1b2c5b-4692-78ae-9d5c-cdac6a61e4f4/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "613dd54a-4068-0fab-7670-bf8268a9b76b": {
+      "uuid": "613dd54a-4068-0fab-7670-bf8268a9b76b",
+      "name": "Recon Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/613dd54a-4068-0fab-7670-bf8268a9b76b/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "52907a7c-4570-10d9-d2eb-8991bcfeb2ae": {
+      "uuid": "52907a7c-4570-10d9-d2eb-8991bcfeb2ae",
+      "name": "Infinity Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/52907a7c-4570-10d9-d2eb-8991bcfeb2ae/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "1dc45e18-4a07-c85f-0020-6da4db1486ce": {
+      "uuid": "1dc45e18-4a07-c85f-0020-6da4db1486ce",
+      "name": "Standard Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1dc45e18-4a07-c85f-0020-6da4db1486ce/displayicon.png",
+      "tier": null
+    },
+    "e041ba88-452e-d907-1a83-f6b7631cd053": {
+      "uuid": "e041ba88-452e-d907-1a83-f6b7631cd053",
+      "name": "Tigris Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e041ba88-452e-d907-1a83-f6b7631cd053/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "fbe265cf-4e3d-9891-791e-5089f1f7f102": {
+      "uuid": "fbe265cf-4e3d-9891-791e-5089f1f7f102",
+      "name": "Convex Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fbe265cf-4e3d-9891-791e-5089f1f7f102/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "fdcb9cc0-4877-6f89-02ad-98ab330f3043": {
+      "uuid": "fdcb9cc0-4877-6f89-02ad-98ab330f3043",
+      "name": "BlastX Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fdcb9cc0-4877-6f89-02ad-98ab330f3043/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "a83ac09d-4c19-fda6-8e4d-c1b77dc2b479": {
+      "uuid": "a83ac09d-4c19-fda6-8e4d-c1b77dc2b479",
+      "name": "Wasteland Spectre",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a83ac09d-4c19-fda6-8e4d-c1b77dc2b479/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "4dbeebb2-4b39-8aec-b639-00bc4948d0f3": {
+      "uuid": "4dbeebb2-4b39-8aec-b639-00bc4948d0f3",
+      "name": "RGX 11z Pro Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4dbeebb2-4b39-8aec-b639-00bc4948d0f3/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "df37b069-48b2-0a7c-78ea-5b8eedc684f7": {
+      "uuid": "df37b069-48b2-0a7c-78ea-5b8eedc684f7",
+      "name": "Aristocrat Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/df37b069-48b2-0a7c-78ea-5b8eedc684f7/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "cd9beda3-4042-d79e-6d46-4daa61484362": {
+      "uuid": "cd9beda3-4042-d79e-6d46-4daa61484362",
+      "name": "Red Alert Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/cd9beda3-4042-d79e-6d46-4daa61484362/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "77d5c1dc-4dde-539c-3a5a-0a95eecba1e4": {
+      "uuid": "77d5c1dc-4dde-539c-3a5a-0a95eecba1e4",
+      "name": "Surge Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/77d5c1dc-4dde-539c-3a5a-0a95eecba1e4/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "b5f7b00a-4c4b-a3d5-d2cc-fbb62c482ef6": {
+      "uuid": "b5f7b00a-4c4b-a3d5-d2cc-fbb62c482ef6",
+      "name": "Prism II Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b5f7b00a-4c4b-a3d5-d2cc-fbb62c482ef6/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "84a414f6-4fe4-98ff-8d4e-b5866894c436": {
+      "uuid": "84a414f6-4fe4-98ff-8d4e-b5866894c436",
+      "name": "Couture Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/84a414f6-4fe4-98ff-8d4e-b5866894c436/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "d547c575-4572-9d77-42e5-bea022e5f07b": {
+      "uuid": "d547c575-4572-9d77-42e5-bea022e5f07b",
+      "name": "Silvanus Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d547c575-4572-9d77-42e5-bea022e5f07b/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "fed9c3f3-40a5-da67-4ac9-4683cc5a0eba": {
+      "uuid": "fed9c3f3-40a5-da67-4ac9-4683cc5a0eba",
+      "name": "Sensation Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/fed9c3f3-40a5-da67-4ac9-4683cc5a0eba/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "e2c84381-4fa6-29b4-37b9-21bba8ae24bf": {
+      "uuid": "e2c84381-4fa6-29b4-37b9-21bba8ae24bf",
+      "name": "Sakura Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e2c84381-4fa6-29b4-37b9-21bba8ae24bf/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "0329743b-4ce8-be9f-b531-f4aadc890287": {
+      "uuid": "0329743b-4ce8-be9f-b531-f4aadc890287",
+      "name": "Schema Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/0329743b-4ce8-be9f-b531-f4aadc890287/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "7ffbef55-4108-945e-6bc9-7b897f386d1b": {
+      "uuid": "7ffbef55-4108-945e-6bc9-7b897f386d1b",
+      "name": "Lycan's Bane Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7ffbef55-4108-945e-6bc9-7b897f386d1b/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "9bc535dd-4d91-3421-2cd0-7a8fdad3478b": {
+      "uuid": "9bc535dd-4d91-3421-2cd0-7a8fdad3478b",
+      "name": "Sovereign Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/9bc535dd-4d91-3421-2cd0-7a8fdad3478b/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "7b71fc11-4fa2-c84c-31ec-5eb5c3e3fff3": {
+      "uuid": "7b71fc11-4fa2-c84c-31ec-5eb5c3e3fff3",
+      "name": "Cavalier Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7b71fc11-4fa2-c84c-31ec-5eb5c3e3fff3/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "471fc2a5-47a7-5b12-2895-0899117d2f57": {
+      "uuid": "471fc2a5-47a7-5b12-2895-0899117d2f57",
+      "name": "Standard Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/471fc2a5-47a7-5b12-2895-0899117d2f57/displayicon.png",
+      "tier": null
+    },
+    "6a1cd98a-4248-4b67-8ced-ac9c56fb4630": {
+      "uuid": "6a1cd98a-4248-4b67-8ced-ac9c56fb4630",
+      "name": "Depths Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6a1cd98a-4248-4b67-8ced-ac9c56fb4630/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "ca2f7bc0-4270-7f76-4623-8596a5584d06": {
+      "uuid": "ca2f7bc0-4270-7f76-4623-8596a5584d06",
+      "name": "Ego Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ca2f7bc0-4270-7f76-4623-8596a5584d06/displayicon.png",
+      "tier": "60bca009-4182-7998-dee7-b8a2558dc369"
+    },
+    "d1e1f521-4c6b-a47d-6c02-f5a5de9dab48": {
+      "uuid": "d1e1f521-4c6b-a47d-6c02-f5a5de9dab48",
+      "name": "Varnish Stinger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d1e1f521-4c6b-a47d-6c02-f5a5de9dab48/displayicon.png",
+      "tier": "12683d76-48d7-84a3-4e09-6985794f0445"
+    },
+    "a1762ed3-45bf-2dd5-776f-a18a33171e6f": {
+      "uuid": "a1762ed3-45bf-2dd5-776f-a18a33171e6f",
+      "name": "RGX 11z Pro Blade",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a1762ed3-45bf-2dd5-776f-a18a33171e6f/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "6e37a33a-416e-fcc0-ceb8-7784e18fbfe9": {
+      "uuid": "6e37a33a-416e-fcc0-ceb8-7784e18fbfe9",
+      "name": "VALORANT GO! Vol. 1 Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/6e37a33a-416e-fcc0-ceb8-7784e18fbfe9/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "ec70c8c8-48db-b2dc-ab7d-1d9410b0cfbf": {
+      "uuid": "ec70c8c8-48db-b2dc-ab7d-1d9410b0cfbf",
+      "name": "Yoru's Stylish Butterfly Comb",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ec70c8c8-48db-b2dc-ab7d-1d9410b0cfbf/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "f353f65b-4764-cfc5-df01-8db85ab28199": {
+      "uuid": "f353f65b-4764-cfc5-df01-8db85ab28199",
+      "name": "Gaia's Wrath",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f353f65b-4764-cfc5-df01-8db85ab28199/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "f58e7da3-4567-707f-cb1e-3a9add422481": {
+      "uuid": "f58e7da3-4567-707f-cb1e-3a9add422481",
+      "name": "Waveform",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f58e7da3-4567-707f-cb1e-3a9add422481/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "470e2855-4b86-f62d-258f-4588056a7b23": {
+      "uuid": "470e2855-4b86-f62d-258f-4588056a7b23",
+      "name": "Champions 2021 Karambit",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/470e2855-4b86-f62d-258f-4588056a7b23/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "5f059d7e-413c-445c-e36f-9a9791fba5b0": {
+      "uuid": "5f059d7e-413c-445c-e36f-9a9791fba5b0",
+      "name": "Origin Crescent Blade",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5f059d7e-413c-445c-e36f-9a9791fba5b0/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "21d49b4a-49ce-79f9-4e08-67959f8d17b5": {
+      "uuid": "21d49b4a-49ce-79f9-4e08-67959f8d17b5",
+      "name": "Striker Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/21d49b4a-49ce-79f9-4e08-67959f8d17b5/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "30de237a-4fb3-90f5-3630-65be64d01423": {
+      "uuid": "30de237a-4fb3-90f5-3630-65be64d01423",
+      "name": "Radiant Crisis 001 Baseball Bat",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/30de237a-4fb3-90f5-3630-65be64d01423/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "88d7c503-477f-c881-af2c-53bbab55807c": {
+      "uuid": "88d7c503-477f-c881-af2c-53bbab55807c",
+      "name": "Nebula Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/88d7c503-477f-c881-af2c-53bbab55807c/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "4875e120-4d7d-aa2a-71c5-c0851c4af00d": {
+      "uuid": "4875e120-4d7d-aa2a-71c5-c0851c4af00d",
+      "name": "Hack",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/4875e120-4d7d-aa2a-71c5-c0851c4af00d/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "48ce4a70-4207-623b-4739-bfb937812432": {
+      "uuid": "48ce4a70-4207-623b-4739-bfb937812432",
+      "name": "Glitchpop Dagger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/48ce4a70-4207-623b-4739-bfb937812432/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "f27623a6-40de-20b9-17b5-c5bed27453a7": {
+      "uuid": "f27623a6-40de-20b9-17b5-c5bed27453a7",
+      "name": "Glitchpop Axe",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f27623a6-40de-20b9-17b5-c5bed27453a7/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "f3594bcc-43a9-4a74-8c40-98a4e4a4569a": {
+      "uuid": "f3594bcc-43a9-4a74-8c40-98a4e4a4569a",
+      "name": "Elderflame Dagger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/f3594bcc-43a9-4a74-8c40-98a4e4a4569a/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "ea441610-42da-e46f-8d7b-1b9759c105cd": {
+      "uuid": "ea441610-42da-e46f-8d7b-1b9759c105cd",
+      "name": "Singularity Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/ea441610-42da-e46f-8d7b-1b9759c105cd/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "e701b267-43bb-7862-cebb-9695590b68ac": {
+      "uuid": "e701b267-43bb-7862-cebb-9695590b68ac",
+      "name": "Songsteel",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e701b267-43bb-7862-cebb-9695590b68ac/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "1dc43c70-4dec-a8e6-e9fa-cda0033cc041": {
+      "uuid": "1dc43c70-4dec-a8e6-e9fa-cda0033cc041",
+      "name": "Hivemind Sword",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/1dc43c70-4dec-a8e6-e9fa-cda0033cc041/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "5fecfd43-4bec-4e6a-842c-84860853df82": {
+      "uuid": "5fecfd43-4bec-4e6a-842c-84860853df82",
+      "name": "Forsaken Ritual Blade",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5fecfd43-4bec-4e6a-842c-84860853df82/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "c01062ab-48ed-11a2-46bb-dba096daca59": {
+      "uuid": "c01062ab-48ed-11a2-46bb-dba096daca59",
+      "name": "Velocity Karambit",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c01062ab-48ed-11a2-46bb-dba096daca59/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "726b77c9-41c3-80c6-f33e-068b9f74ef56": {
+      "uuid": "726b77c9-41c3-80c6-f33e-068b9f74ef56",
+      "name": "Ruin Dagger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/726b77c9-41c3-80c6-f33e-068b9f74ef56/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "249b0e46-4a11-f045-51bb-649151cd802a": {
+      "uuid": "249b0e46-4a11-f045-51bb-649151cd802a",
+      "name": "Prime Axe",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/249b0e46-4a11-f045-51bb-649151cd802a/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "167481de-4732-b44a-06ad-938625015abe": {
+      "uuid": "167481de-4732-b44a-06ad-938625015abe",
+      "name": "Prime//2.0 Karambit",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/167481de-4732-b44a-06ad-938625015abe/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "3a1ec58c-4380-0622-7fde-c1936519fcf2": {
+      "uuid": "3a1ec58c-4380-0622-7fde-c1936519fcf2",
+      "name": "Outpost Melee",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3a1ec58c-4380-0622-7fde-c1936519fcf2/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "7cf3af0b-4556-a0db-2e04-eea4368b354b": {
+      "uuid": "7cf3af0b-4556-a0db-2e04-eea4368b354b",
+      "name": "Prism Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7cf3af0b-4556-a0db-2e04-eea4368b354b/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "56f387f3-4b88-46b0-ee0d-249145f05d26": {
+      "uuid": "56f387f3-4b88-46b0-ee0d-249145f05d26",
+      "name": "Prism III Axe",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/56f387f3-4b88-46b0-ee0d-249145f05d26/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "e94012b1-4a22-63d2-117e-90a2c1375ded": {
+      "uuid": "e94012b1-4a22-63d2-117e-90a2c1375ded",
+      "name": "Broken Blade of the Ruined King",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e94012b1-4a22-63d2-117e-90a2c1375ded/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "8c2e0f93-4277-fbb8-20c6-e2b2638b6ed4": {
+      "uuid": "8c2e0f93-4277-fbb8-20c6-e2b2638b6ed4",
+      "name": "Kingdom Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/8c2e0f93-4277-fbb8-20c6-e2b2638b6ed4/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "a17e9fcc-4081-9b5a-cf63-fca395e652df": {
+      "uuid": "a17e9fcc-4081-9b5a-cf63-fca395e652df",
+      "name": "K/TAC Blade",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a17e9fcc-4081-9b5a-cf63-fca395e652df/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "b6768f01-4d72-f0f1-65b5-71b751536490": {
+      "uuid": "b6768f01-4d72-f0f1-65b5-71b751536490",
+      "name": "Smite Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b6768f01-4d72-f0f1-65b5-71b751536490/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "dc5e3cfc-466a-4819-e93b-2ba5f1847915": {
+      "uuid": "dc5e3cfc-466a-4819-e93b-2ba5f1847915",
+      "name": "Catrina",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/dc5e3cfc-466a-4819-e93b-2ba5f1847915/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "7302d465-46cd-2a43-655f-93aee59030db": {
+      "uuid": "7302d465-46cd-2a43-655f-93aee59030db",
+      "name": "Celestial Fan",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/7302d465-46cd-2a43-655f-93aee59030db/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "e57317ac-4a93-50a9-30e9-93a098513fa9": {
+      "uuid": "e57317ac-4a93-50a9-30e9-93a098513fa9",
+      "name": "Luxe Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e57317ac-4a93-50a9-30e9-93a098513fa9/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "c1326ee3-47af-d823-6686-618e1bcdf0c6": {
+      "uuid": "c1326ee3-47af-d823-6686-618e1bcdf0c6",
+      "name": "Magepunk Electroblade",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c1326ee3-47af-d823-6686-618e1bcdf0c6/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "c5ec6a47-40c2-66ed-d546-5bad1eef6fd5": {
+      "uuid": "c5ec6a47-40c2-66ed-d546-5bad1eef6fd5",
+      "name": "Magepunk Shock Gauntlet",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/c5ec6a47-40c2-66ed-d546-5bad1eef6fd5/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "d6e93360-46a2-0103-afa0-8b91e78b6fe8": {
+      "uuid": "d6e93360-46a2-0103-afa0-8b91e78b6fe8",
+      "name": "Spline Dagger",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d6e93360-46a2-0103-afa0-8b91e78b6fe8/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "a080b538-4593-b092-d29c-04b80e6e983f": {
+      "uuid": "a080b538-4593-b092-d29c-04b80e6e983f",
+      "name": "Genesis Arc",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/a080b538-4593-b092-d29c-04b80e6e983f/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "21ceb4b1-480f-dddb-1422-8aad73519181": {
+      "uuid": "21ceb4b1-480f-dddb-1422-8aad73519181",
+      "name": "Ion Energy Sword",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/21ceb4b1-480f-dddb-1422-8aad73519181/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "e34039b6-441d-3e17-2773-bdaf5c3d2faa": {
+      "uuid": "e34039b6-441d-3e17-2773-bdaf5c3d2faa",
+      "name": "Oni Claw",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e34039b6-441d-3e17-2773-bdaf5c3d2faa/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "704a71ab-4b0e-6e03-466e-5b9ca9d987fd": {
+      "uuid": "704a71ab-4b0e-6e03-466e-5b9ca9d987fd",
+      "name": "Artisan Foil",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/704a71ab-4b0e-6e03-466e-5b9ca9d987fd/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "47897cd1-49e2-da3f-4a8f-b6a1e84b0dd0": {
+      "uuid": "47897cd1-49e2-da3f-4a8f-b6a1e84b0dd0",
+      "name": "Personal Administrative Melee Unit",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/47897cd1-49e2-da3f-4a8f-b6a1e84b0dd0/displayicon.png",
+      "tier": "411e4a55-4e59-7757-41f0-86a53f101bb5"
+    },
+    "3710f62c-4e0c-65fd-848d-8da25d2fb833": {
+      "uuid": "3710f62c-4e0c-65fd-848d-8da25d2fb833",
+      "name": "Gravitational Uranium Neuroblaster Baton",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/3710f62c-4e0c-65fd-848d-8da25d2fb833/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "155ba654-4afa-1029-9e71-e0b6962d5410": {
+      "uuid": "155ba654-4afa-1029-9e71-e0b6962d5410",
+      "name": "Snowfall Wand",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/155ba654-4afa-1029-9e71-e0b6962d5410/displayicon.png",
+      "tier": "0cebb8be-46d7-c12a-d306-e9907bfc5a25"
+    },
+    "315e8e49-4dc4-9769-2382-3ba5f7af87da": {
+      "uuid": "315e8e49-4dc4-9769-2382-3ba5f7af87da",
+      "name": "Relic of the Sentinel",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/315e8e49-4dc4-9769-2382-3ba5f7af87da/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "d7a02a43-47a5-556c-a69f-ec9cf6ede66d": {
+      "uuid": "d7a02a43-47a5-556c-a69f-ec9cf6ede66d",
+      "name": "Reaver Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d7a02a43-47a5-556c-a69f-ec9cf6ede66d/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "90fe45d6-41ea-1c49-8fb9-46b0e98c0077": {
+      "uuid": "90fe45d6-41ea-1c49-8fb9-46b0e98c0077",
+      "name": "Sovereign Sword",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/90fe45d6-41ea-1c49-8fb9-46b0e98c0077/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "12dce8f5-42fe-87c6-ef37-8aa4e55f1f64": {
+      "uuid": "12dce8f5-42fe-87c6-ef37-8aa4e55f1f64",
+      "name": "Prosperity",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/12dce8f5-42fe-87c6-ef37-8aa4e55f1f64/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "e85cf8b6-467b-bc6c-9013-959383f71b2e": {
+      "uuid": "e85cf8b6-467b-bc6c-9013-959383f71b2e",
+      "name": "Recon Balisong",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/e85cf8b6-467b-bc6c-9013-959383f71b2e/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "854938f3-4532-b300-d9a2-379d987d7469": {
+      "uuid": "854938f3-4532-b300-d9a2-379d987d7469",
+      "name": "Melee",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/854938f3-4532-b300-d9a2-379d987d7469/displayicon.png",
+      "tier": null
+    },
+    "d3a228df-4eb5-09c4-0e32-93b50c9ec842": {
+      "uuid": "d3a228df-4eb5-09c4-0e32-93b50c9ec842",
+      "name": "Hu Else",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/d3a228df-4eb5-09c4-0e32-93b50c9ec842/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "5bf17117-4ead-a0a8-2961-288d38985e93": {
+      "uuid": "5bf17117-4ead-a0a8-2961-288d38985e93",
+      "name": "Ego Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/5bf17117-4ead-a0a8-2961-288d38985e93/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "708abbc6-4579-4452-4293-07ba45e78979": {
+      "uuid": "708abbc6-4579-4452-4293-07ba45e78979",
+      "name": "BlastX Polymer KnifeTech Coated Knife",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/708abbc6-4579-4452-4293-07ba45e78979/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    },
+    "b577585f-4171-19a1-2899-848460de8089": {
+      "uuid": "b577585f-4171-19a1-2899-848460de8089",
+      "name": "Winterwunderland Candy Cane",
+      "icon": "https://media.valorant-api.com/weaponskinlevels/b577585f-4171-19a1-2899-848460de8089/displayicon.png",
+      "tier": "e046854e-406c-37f4-6607-19a9ba8426fc"
+    }
+  },
+  "prices": {
+    "version": "A4D8EC488407271C",
+    "4845a7ab-4120-ae1c-aec1-9e915a7424b1": 1275,
+    "61f62d77-4f80-7664-2ea9-538f6fc4b241": 875,
+    "c59442a5-4b74-792c-d996-71a5fb340625": 875,
+    "b6e6ea9e-432d-ec17-904e-62a5ea45f1a7": 875,
+    "d8c9fee3-4e02-bc92-a235-608a556905ae": 2475,
+    "167481de-4732-b44a-06ad-938625015abe": 3550,
+    "249b0e46-4a11-f045-51bb-649151cd802a": 3550,
+    "c1326ee3-47af-d823-6686-618e1bcdf0c6": 3550,
+    "e57317ac-4a93-50a9-30e9-93a098513fa9": 1750,
+    "9d501eec-4084-5d44-32ef-6e8ed5b0ed49": 1275,
+    "3b955119-421c-3319-50cc-1aaf06b42338": 2175,
+    "7a0374af-42f5-2f99-b535-a997f2179717": 875,
+    "fbe265cf-4e3d-9891-791e-5089f1f7f102": 875,
+    "f27623a6-40de-20b9-17b5-c5bed27453a7": 4350,
+    "ea65ba94-468d-39a8-5ded-98820d72d19f": 2475,
+    "f35f6e13-4b7b-da38-c0de-5c91fffd584b": 1775,
+    "21ceb4b1-480f-dddb-1422-8aad73519181": 3550,
+    "d6e93360-46a2-0103-afa0-8b91e78b6fe8": 3550,
+    "0ff7ff25-42cf-769a-4e6d-bd833121302d": 2175,
+    "4fcea818-4877-85f9-ba01-a0b02e1868f4": 1275,
+    "d0c07243-4afa-decc-7c5b-4b994f1321ee": 875,
+    "ea441610-42da-e46f-8d7b-1b9759c105cd": 4350,
+    "291cb44a-410d-b035-4d0b-608a92c2cd91": 1775,
+    "549b06bb-4704-25ce-19d5-c9b70b10de19": 2175,
+    "31da3ec9-4eb0-ce9f-fcbb-e09ec626e748": 2175,
+    "30423af3-42f9-d0ba-dee5-0b93704b39c8": 1775,
+    "26eee656-4f8d-bdd3-e4fe-ae9e808a3408": 1275,
+    "d1d528ae-4dcc-e693-68e2-e8a475df83a4": 1775,
+    "04dbf8e5-44fc-73f7-0655-8ca05a47739c": 1775,
+    "8a1b2c5b-4692-78ae-9d5c-cdac6a61e4f4": 1775,
+    "03e03718-4c65-8a47-fb8b-78ba233cecd1": 875,
+    "4a5ad8cd-4684-a47c-b393-ce9c6760d21a": 2175,
+    "49b00063-4a7e-6c73-b8c9-68a8d5727757": 1275,
+    "ef564ec3-497c-3038-543e-eb94bbe46437": 1775,
+    "d0fda3cb-454c-e81d-94e4-42942c99f02d": 1275,
+    "d7a02a43-47a5-556c-a69f-ec9cf6ede66d": 3550,
+    "b577585f-4171-19a1-2899-848460de8089": 2550,
+    "9336ab9d-445c-0872-a283-9f9b61a0098a": 1775,
+    "6d4766d0-41f0-8493-93eb-a4902a0c6034": 1275,
+    "353c1e5f-4258-c49a-c0d6-319ad33bffea": 1775,
+    "5a773352-456e-ef0b-35ab-c99ead159264": 875,
+    "8f8f82f4-4133-82c9-50b2-3c9c67e0f9fb": 1775,
+    "46048768-4499-72f7-820b-7cbe1d4ad844": 1775,
+    "a14fa0b5-4b03-2ad9-3b0e-a3ac6a0b033b": 875,
+    "5546f723-4056-6700-80b8-f1b8d42e4952": 1275,
+    "f987be1f-4287-35a4-34a9-d6a92805e7ff": 1775,
+    "7b534393-40b0-38d0-1ffc-2b8b78708264": 2175,
+    "73e91435-4a2a-2552-d541-eb961e168f2c": 875,
+    "2dd042e4-409e-c8ed-ec76-758529e49d99": 1775,
+    "1b300b91-41bb-d468-f65f-f68ec0861bd6": 1775,
+    "7302d465-46cd-2a43-655f-93aee59030db": 3550,
+    "c9678d8c-4327-f397-b0ec-dca3c3d6fb15": 1775,
+    "9fbe39c6-42d7-b1db-9048-f0951ce2ff94": 1275,
+    "9dc0bdd7-4d88-9360-38d6-3ea62b1daaca": 1775,
+    "66f68f67-4f5e-8188-8ba8-b183e25e93e7": 1275,
+    "c5dd6298-4928-5d64-5cd0-7fa41ea89d81": 1775,
+    "a83ac09d-4c19-fda6-8e4d-c1b77dc2b479": 1275,
+    "b8bc5d1b-44aa-aa83-0246-b1a6bb496177": 875,
+    "4c053776-467f-2c6a-b609-0ba3ea371a14": 1775,
+    "5c273d0e-47fa-bb8c-d914-728de95da30e": 2475,
+    "df639108-4e9d-7fc1-51da-4dbb810ba011": 1275,
+    "90fe45d6-41ea-1c49-8fb9-46b0e98c0077": 3550,
+    "079f6046-49c3-72e3-bcfa-a5b6d01910dc": 1275,
+    "9ff1a0e6-4f74-0e6d-9117-de8683db4eb5": 1275,
+    "0d73596b-478a-dae0-49ca-2fa588f78f13": 1275,
+    "755d86a0-4b1c-5c8b-9238-e5be850ba001": 1275,
+    "4e4ebb8d-41d0-c326-595a-1f9b257e91fa": 1775,
+    "ed333b00-4e88-a9c5-d309-acae85438e93": 875,
+    "3710f62c-4e0c-65fd-848d-8da25d2fb833": 3550,
+    "5a0cd3b5-4249-bf6f-d009-17a81532660e": 1275,
+    "4b74b3ee-4a63-7339-a28f-8b8be010ca5a": 2175,
+    "f4bfff96-487a-cf9e-08cc-d590d962c4e6": 875,
+    "5123ed96-48de-aeab-eaea-2b8ea689f5a2": 2175,
+    "fee2c305-40d1-1cca-08b8-46bceda98eca": 1775,
+    "ed8a1109-4e48-f077-636b-e98dd332bfcc": 1775,
+    "25cb63cd-416e-ab23-2377-d18638679871": 2175,
+    "3aeef60b-48fb-02aa-31b1-068aeb351213": 1275,
+    "642ee168-4f9e-1f5f-be72-01b3a41ac086": 2175,
+    "d92a6ee6-4073-8b7f-e944-f1a55606a28a": 2175,
+    "f2ef87c7-4ff5-54f8-e038-cea4e54eefdd": 1775,
+    "a6d41f01-4b8b-444d-b9da-3eaaf3d7e262": 1275,
+    "712c7a37-4524-0b27-dfdd-4e95181dd36e": 2175,
+    "c9f0ea7f-4bed-b10e-62d2-0394444feed1": 1775,
+    "a127c324-4213-23a2-ff77-1284431dad74": 1275,
+    "b6768f01-4d72-f0f1-65b5-71b751536490": 1750,
+    "dd595229-4aac-73f1-5fad-86891b7d7ecb": 875,
+    "bad7ae62-4f6a-8974-ab73-7ba6405ca898": 875,
+    "b8bb264c-4578-2410-8dfa-6aacfeb318b0": 1775,
+    "4efc0af7-4623-cb2e-997c-6cbf2e5ddfb4": 1775,
+    "6df8b470-4248-e29d-2879-bd840ed224c1": 875,
+    "1bfea917-4262-37ba-3a76-04b937f2d0be": 875,
+    "22c0aaa3-4919-5a7b-90c0-2dacafdc32fe": 1775,
+    "d39a4263-49d3-f2e0-2c13-c299f8644518": 875,
+    "bf6df430-4e46-5c51-df6f-c2bc3b1cb4fe": 1775,
+    "7e45e9cd-4072-cc32-0898-d09c167cc0f9": 1775,
+    "c00e786e-4e6f-0ef7-0ce3-32ba9918ba41": 1775,
+    "fed9c3f3-40a5-da67-4ac9-4683cc5a0eba": 875,
+    "7bfab387-4e97-d815-4488-c491e3a5520c": 1775,
+    "e7301730-418f-e0fb-c930-9598741d5c30": 875,
+    "df37b069-48b2-0a7c-78ea-5b8eedc684f7": 1275,
+    "e2c84381-4fa6-29b4-37b9-21bba8ae24bf": 1275,
+    "708abbc6-4579-4452-4293-07ba45e78979": 4350,
+    "94cf6dd4-42c5-f70e-1652-dca05fa42ad6": 1775,
+    "4aa31563-44e1-0d9f-f95a-a1b9965ad762": 1775,
+    "d547c575-4572-9d77-42e5-bea022e5f07b": 1275,
+    "920d9d08-4f22-9f1e-b309-ddbbe5ecb91c": 1775,
+    "4538bff7-470c-889c-9875-7ba3ebf87c87": 875,
+    "1878bbc9-409e-66b4-346b-c3997a54df57": 875,
+    "4f45735c-4513-e9a6-48ac-35acca4c3410": 1775,
+    "8e032580-414f-7ab4-7efb-f6ac7d2bc2f1": 875,
+    "33d3c906-4305-19cf-8770-1eb5207482cc": 875,
+    "50265ad5-4f14-2b32-924e-02bbed2bea6f": 875,
+    "4049dc82-495b-cecc-8e34-4dbf35753129": 1275,
+    "9f6e4612-433b-aea9-1683-3db7aee90848": 2175,
+    "65ed014b-4279-8ba5-01d3-f48d4e7f115c": 875,
+    "ca2f7bc0-4270-7f76-4623-8596a5584d06": 1775,
+    "cdc130c2-4b12-3702-c8f6-5a8920746395": 1775,
+    "f38b2545-4498-48b3-150e-1589e25e7aa7": 875,
+    "7cf3af0b-4556-a0db-2e04-eea4368b354b": 2550,
+    "88d7c503-477f-c881-af2c-53bbab55807c": 3550,
+    "7d3c0ac4-42ce-7111-2c86-43be3d2e86a7": 1775,
+    "cfeb4b7a-4310-796c-db4e-fb9844823992": 875,
+    "496b0096-4000-c1fc-102d-70a8b769d0d1": 1275,
+    "9bc535dd-4d91-3421-2cd0-7a8fdad3478b": 1775,
+    "84f8d0f4-4442-5892-6a20-8f83e65a5e96": 875,
+    "4276d2b5-4b1c-b636-aff0-4ea579d875d7": 2175,
+    "7d43477d-465a-67fc-561e-f2a2ebea697d": 875,
+    "68564c51-4f7e-67d1-fd0d-4e9d216356e8": 875,
+    "5bf17117-4ead-a0a8-2961-288d38985e93": 3550,
+    "c7695ce7-4fc9-1c79-64b3-8c8f9e21571c": 1775,
+    "481a5abb-45d7-818d-798f-d18d988b6dc1": 1275,
+    "b3d3ff38-4202-20d8-2f41-c783477e5636": 2475,
+    "ba42fe63-457a-78ce-4499-47950a698129": 1775,
+    "29be6d9e-48b2-1229-4f7d-4da1c20deda9": 1275,
+    "48ce4a70-4207-623b-4739-bfb937812432": 4350,
+    "9dbc52e2-4889-cbe5-b874-4f8f0f8f3781": 1275,
+    "7e44fc1b-44fa-cdda-8491-f8a5bca1cfa3": 2175,
+    "e5a2e04a-4805-1244-5376-06b40d7c6cbb": 875,
+    "fbfc273b-4c12-961a-a4fb-978b43be81a9": 1275,
+    "f7425a39-43ca-e1fe-5b2b-56a51ed479c5": 1275,
+    "37851a69-4719-d8ae-d305-49bcee8d853c": 1275,
+    "a2950772-447a-f2db-be24-19b0e0ed736f": 1775,
+    "c8652efa-462f-d455-20b0-699dd00a9e2a": 1275,
+    "40308b30-4689-9713-52fb-6f8a3534213f": 1775,
+    "fa3d6a11-46c4-2caf-f7e4-10a5013c034b": 1775,
+    "a2045403-40f7-2926-f955-028b6867c79a": 1275,
+    "b2f78500-4322-b03d-2745-a3b2208d63fe": 1775,
+    "63a65008-4266-1117-fe3d-d1bf290b7da9": 1275,
+    "003e0991-4370-8837-f8fc-6ab3acec2dbf": 1775,
+    "6e37a33a-416e-fcc0-ceb8-7784e18fbfe9": 3550,
+    "78776175-4040-282f-07a1-0199b1fdcf58": 1775,
+    "f9fab42c-46bf-1bf0-dba5-32988be03fc2": 1775,
+    "a88a4c80-4913-a111-0fba-878adddd381a": 1275,
+    "fdcb9cc0-4877-6f89-02ad-98ab330f3043": 2175,
+    "3e32c58e-4347-e4b1-4502-6dab0dc516a8": 875,
+    "e34039b6-441d-3e17-2773-bdaf5c3d2faa": 3550,
+    "3bf9d39f-46b4-ba23-e079-488d799b9416": 1275,
+    "a2c59452-4420-130a-9aa1-cb8ea551a05d": 875,
+    "f3594bcc-43a9-4a74-8c40-98a4e4a4569a": 4950,
+    "2607b2c6-45f7-e75e-94f8-58a738773d5c": 1775,
+    "b5f7b00a-4c4b-a3d5-d2cc-fbb62c482ef6": 875,
+    "4a3b4aaf-4cdd-d5cf-b776-0593c3d2bf9a": 1275,
+    "eb35e4e1-4138-9ece-08e2-69bd414cf598": 875,
+    "19b20b51-472b-e837-e5da-f8a348110dbf": 875,
+    "f00520c8-4b70-7255-d23c-c0a4887656a2": 1775,
+    "1ef3c871-45db-0f6d-fc34-8bb2685cd6c0": 875,
+    "1b94d997-4db6-014f-4cb8-c1b4df7d7ebc": 875,
+    "aa610521-4bea-bc0e-1bd4-94b67fd90db6": 1775,
+    "3800390c-4192-92d1-1703-33ba231fc226": 1275,
+    "7cd7c895-4da5-a3bc-3518-ff8d53af5151": 1275,
+    "2b555f97-46bb-5949-3531-979f5bc817f0": 1775,
+    "24c73c29-443c-2440-d6db-838086f2451a": 1775,
+    "851b390a-4852-66bd-8b72-4f96f0919710": 1775,
+    "81658642-4f78-cbb4-9e40-b8856a904bc7": 1775,
+    "10a5fe91-4efa-9d6b-44f7-47ae9660550d": 1775,
+    "daa73753-4b56-9d21-d73e-f3b3f4c9b1a6": 1775,
+    "5fecfd43-4bec-4e6a-842c-84860853df82": 3550,
+    "792656ff-445c-fa7f-301a-8490f638b168": 1275,
+    "186d9fbb-400e-665b-e5f3-c08b24b6974f": 1275,
+    "75b110de-40e5-3e02-d700-2abda38817c5": 1275,
+    "436f42cc-49c5-b535-4fdf-c0bd48695919": 1275,
+    "1fdbe6f8-42ca-deb2-33da-caa2c4200544": 1275,
+    "1d2e2fd5-4fef-61f2-a4ec-92819d16fcf2": 1775,
+    "b9f4e6ea-4db2-6939-731f-0eb93cfbbb1d": 1775,
+    "65d832e3-4b34-b4b9-fde0-9d897d5fe51b": 1775,
+    "f202625e-4647-b575-07a9-3fbc39d72b10": 1775,
+    "12dce8f5-42fe-87c6-ef37-8aa4e55f1f64": 3550,
+    "1969e379-40ae-b28a-6fb3-819873a24fb9": 1775,
+    "56042ce2-4f95-19be-7cac-5fb191683953": 1775,
+    "c4547e69-47a7-dc52-d09c-94bbf87dba0a": 1775,
+    "4d19c241-4350-6658-f5a6-5c99ca8e5e99": 1775,
+    "5f059d7e-413c-445c-e36f-9a9791fba5b0": 3550,
+    "279e0a89-4dd6-b135-cef9-8ebb1df6f2ac": 2175,
+    "5e1f5465-40cd-2c0f-33ab-398c5367d080": 2175,
+    "0e1af0d5-4dee-15db-25b5-31a7da6f1d52": 2175,
+    "87220abc-49a9-7472-ae09-29a6d711bbc3": 2175,
+    "e94012b1-4a22-63d2-117e-90a2c1375ded": 4350,
+    "0ddbdf8c-43b0-e2f1-94f8-d6be9d2a2110": 2175,
+    "968efd06-4549-65f4-9fb1-3f90d612e428": 2175,
+    "746a022b-48a9-c51b-f379-11a3e1e2bc8e": 2175,
+    "69657d05-4309-9779-d445-6da864067246": 2175,
+    "315e8e49-4dc4-9769-2382-3ba5f7af87da": 4350,
+    "5be0b43b-4e66-ab8a-91d9-be9137e2e1c2": 1775,
+    "459343eb-4c56-4f10-ff2f-fbbf07d3695d": 1775,
+    "7bc358d8-42ad-611f-5594-37888c23abe3": 1775,
+    "613dd54a-4068-0fab-7670-bf8268a9b76b": 1775,
+    "e85cf8b6-467b-bc6c-9013-959383f71b2e": 3550,
+    "43854c54-4263-571c-9be6-52b6d50d3190": 2675,
+    "82db01d1-4192-167b-9f53-78ba374c39ac": 2675,
+    "fe32e4bd-420f-b4cc-de37-febb78df9e16": 2675,
+    "19ba907b-4a76-347f-ea24-38990c9ff755": 2675,
+    "f58e7da3-4567-707f-cb1e-3a9add422481": 5350,
+    "1203a0b8-4044-a7de-1751-87b30b9574e8": 1775,
+    "23de6607-4647-bccd-8863-3da2720e4152": 1775,
+    "68ee5c6c-4424-e95a-f46f-c08ec2dfeb97": 1775,
+    "68811d2b-4a6d-cbdc-39d3-f580aa97a297": 1775,
+    "ec70c8c8-48db-b2dc-ab7d-1d9410b0cfbf": 3550,
+    "4e435234-49a2-1444-4640-908692c855b8": 2175,
+    "6f2aefab-439d-140a-4dc6-87818e2d72cd": 2175,
+    "43361d49-4331-ee30-e356-0f925e6e17b9": 2175,
+    "4dbeebb2-4b39-8aec-b639-00bc4948d0f3": 2175,
+    "a1762ed3-45bf-2dd5-776f-a18a33171e6f": 4350,
+    "0dc1eefc-4b8f-e4c5-0c71-d680abcf73e7": 1275,
+    "a2a15c4e-4102-41bd-102d-378dec6cee7f": 1275,
+    "47815b56-43d7-1312-8b3e-5da445f71e31": 1275,
+    "55869fb8-4a79-e684-2000-028fa9f54060": 1275,
+    "dc5e3cfc-466a-4819-e93b-2ba5f1847915": 2550,
+    "bddfd0ba-49a1-0f4f-e32a-d5a1ed29d5fc": 1775,
+    "13f3818c-4518-cf39-51f6-8cad1dc5bfc6": 1775,
+    "b39aed48-4bb5-089b-3f60-17aa27e45733": 1775,
+    "30de237a-4fb3-90f5-3630-65be64d01423": 3550,
+    "52c3bbf6-491f-fef1-faa9-e19df06a687c": 1775,
+    "c5ec6a47-40c2-66ed-d546-5bad1eef6fd5": 3550,
+    "857ad950-486a-d199-7bf2-7092aaf88ae2": 1775,
+    "59733cf9-490b-e25b-2c6f-eca947628079": 1775,
+    "369c9f89-49fa-94bc-f3f8-b9b94b6395af": 1775,
+    "e63eab09-47e4-25be-6c9f-57995385429d": 1775,
+    "f8295d0b-4378-f4ff-342d-178f6d86ac88": 1275,
+    "00eb5b5b-4697-44b5-a926-7e86b730e812": 1275,
+    "e1b5cdca-4df5-5c4e-f34a-3cbdd3fd8735": 1275,
+    "f2a7150b-4894-0dc8-53b3-bf9a30fa4ea4": 1275,
+    "155ba654-4afa-1029-9e71-e0b6962d5410": 2550,
+    "544ddf0f-42c6-e410-c9db-fc8b3b2c84d4": 2475,
+    "a7cf8684-41a0-3dd4-e30c-6f9b4b34e635": 2475,
+    "12831559-44ee-c708-b97c-29a43938e3cd": 2475,
+    "5eb7515f-40a1-2f15-de03-c9a024664737": 2475,
+    "47897cd1-49e2-da3f-4a8f-b6a1e84b0dd0": 4950,
+    "437fae46-4145-c8a5-14d7-9c8a05bddb05": 1275,
+    "9f282aa1-4d3e-7595-83ca-0a97fc89ba31": 1275,
+    "2ecb0e86-4a14-b33b-8fe1-db96f2c3aa69": 1275,
+    "e041ba88-452e-d907-1a83-f6b7631cd053": 1275,
+    "d3a228df-4eb5-09c4-0e32-93b50c9ec842": 2550,
+    "89b68205-4fe5-2434-a731-e5a734bd4a7a": 1775,
+    "bbc68d13-42b8-6f2c-d5b2-e79c291677c5": 1775,
+    "f27be4ed-4fa5-9c3a-592a-b98bb455fd12": 1775,
+    "1590d353-4b81-4207-b79a-5493231cbee7": 1775,
+    "4875e120-4d7d-aa2a-71c5-c0851c4af00d": 3550,
+    "c4422d16-4cb1-75d5-fd18-dda0bb05f46b": 1775,
+    "f7862f1f-4340-6e42-b1fa-0ebcdcf43456": 1775,
+    "e16ea577-4d7f-e686-456a-54b4b1d9cba2": 1775,
+    "6046ca8f-4100-4b1a-7e8d-5e8c6625342f": 1775,
+    "f353f65b-4764-cfc5-df01-8db85ab28199": 3550,
+    "258f4b78-4286-a93b-309a-0bada49c06e1": 1275,
+    "fc4c3dcb-4f6d-5e8e-3dc3-1695f55d24c2": 1275,
+    "ca41d64f-4622-593f-382e-0484a1a3dd6b": 1275,
+    "8a3d3cb5-4c8f-0604-b931-9388de1eabad": 1275,
+    "4491f330-4d30-04f7-d609-4face7e5bd5f": 1275,
+    "433e7f5e-4aaa-940e-4003-99bc0df92c17": 875,
+    "44ffb8d4-4f48-9456-0463-a6bc1e6ecede": 875,
+    "38dbcca0-493d-70eb-ef89-d281f33efc94": 875,
+    "80073abf-4fea-b06d-f70c-bdbe6d8ce0a7": 875,
+    "fd486ca0-4d52-4e9b-ec35-dc8cd450b679": 875,
+    "timestamp": 1648748641
+  },
+  "tiers": {
+    "version": "A4D8EC488407271C",
+    "0cebb8be-46d7-c12a-d306-e9907bfc5a25": {
+      "uuid": "0cebb8be-46d7-c12a-d306-e9907bfc5a25",
+      "name": "Deluxe",
+      "icon": "https://media.valorant-api.com/contenttiers/0cebb8be-46d7-c12a-d306-e9907bfc5a25/displayicon.png"
+    },
+    "e046854e-406c-37f4-6607-19a9ba8426fc": {
+      "uuid": "e046854e-406c-37f4-6607-19a9ba8426fc",
+      "name": "Exclusive",
+      "icon": "https://media.valorant-api.com/contenttiers/e046854e-406c-37f4-6607-19a9ba8426fc/displayicon.png"
+    },
+    "60bca009-4182-7998-dee7-b8a2558dc369": {
+      "uuid": "60bca009-4182-7998-dee7-b8a2558dc369",
+      "name": "Premium",
+      "icon": "https://media.valorant-api.com/contenttiers/60bca009-4182-7998-dee7-b8a2558dc369/displayicon.png"
+    },
+    "12683d76-48d7-84a3-4e09-6985794f0445": {
+      "uuid": "12683d76-48d7-84a3-4e09-6985794f0445",
+      "name": "Select",
+      "icon": "https://media.valorant-api.com/contenttiers/12683d76-48d7-84a3-4e09-6985794f0445/displayicon.png"
+    },
+    "411e4a55-4e59-7757-41f0-86a53f101bb5": {
+      "uuid": "411e4a55-4e59-7757-41f0-86a53f101bb5",
+      "name": "Ultra",
+      "icon": "https://media.valorant-api.com/contenttiers/411e4a55-4e59-7757-41f0-86a53f101bb5/displayicon.png"
+    }
+  }
+}

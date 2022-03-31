@@ -1,0 +1,1397 @@
+{
+  "formats": 1,
+  "gameversion": "A4D8EC488407271C",
+  "sprays": {
+    "version": "A4D8EC488407271C",
+    "3d2bcfc5-442b-812e-3c08-9180d6b36077": {
+      "uuid": "3d2bcfc5-442b-812e-3c08-9180d6b36077",
+      "name": "Caught on Camera Spray",
+      "icon": "https://media.valorant-api.com/sprays/3d2bcfc5-442b-812e-3c08-9180d6b36077/fulltransparenticon.png"
+    },
+    "81c68821-46d3-9176-294c-abba0bc64e0b": {
+      "uuid": "81c68821-46d3-9176-294c-abba0bc64e0b",
+      "name": "Chicken Out Spray",
+      "icon": "https://media.valorant-api.com/sprays/81c68821-46d3-9176-294c-abba0bc64e0b/fulltransparenticon.png"
+    },
+    "06351c4a-4a93-793e-f5c9-2fa675359a93": {
+      "uuid": "06351c4a-4a93-793e-f5c9-2fa675359a93",
+      "name": "Defy the Limits Spray",
+      "icon": "https://media.valorant-api.com/sprays/06351c4a-4a93-793e-f5c9-2fa675359a93/displayicon.png"
+    },
+    "0eb56d06-474d-fbec-372f-069286388bc5": {
+      "uuid": "0eb56d06-474d-fbec-372f-069286388bc5",
+      "name": "G.O.A.T. Spray",
+      "icon": "https://media.valorant-api.com/sprays/0eb56d06-474d-fbec-372f-069286388bc5/fulltransparenticon.png"
+    },
+    "d52d5d56-46a7-957d-418d-e3b2b3bd6938": {
+      "uuid": "d52d5d56-46a7-957d-418d-e3b2b3bd6938",
+      "name": "Sad Crab Spray",
+      "icon": "https://media.valorant-api.com/sprays/d52d5d56-46a7-957d-418d-e3b2b3bd6938/fulltransparenticon.png"
+    },
+    "677dc003-4dbf-66a8-9116-4f8d7a9fb8d5": {
+      "uuid": "677dc003-4dbf-66a8-9116-4f8d7a9fb8d5",
+      "name": "No Time Spray",
+      "icon": "https://media.valorant-api.com/sprays/677dc003-4dbf-66a8-9116-4f8d7a9fb8d5/fulltransparenticon.png"
+    },
+    "2b2ae992-403a-f063-64e6-1dbaee43c95a": {
+      "uuid": "2b2ae992-403a-f063-64e6-1dbaee43c95a",
+      "name": "No Toxicity Spray",
+      "icon": "https://media.valorant-api.com/sprays/2b2ae992-403a-f063-64e6-1dbaee43c95a/fulltransparenticon.png"
+    },
+    "7cf85d79-4912-ccb9-fa59-f28e065ae9d5": {
+      "uuid": "7cf85d79-4912-ccb9-fa59-f28e065ae9d5",
+      "name": "Dark Side Beyond Spray",
+      "icon": "https://media.valorant-api.com/sprays/7cf85d79-4912-ccb9-fa59-f28e065ae9d5/fulltransparenticon.png"
+    },
+    "d4ceef7f-4e99-70d8-ac85-14850ac08cd3": {
+      "uuid": "d4ceef7f-4e99-70d8-ac85-14850ac08cd3",
+      "name": "Dap Team Spray",
+      "icon": "https://media.valorant-api.com/sprays/d4ceef7f-4e99-70d8-ac85-14850ac08cd3/fulltransparenticon.png"
+    },
+    "4c08026b-4f56-9494-0d71-3dbb291c4d7f": {
+      "uuid": "4c08026b-4f56-9494-0d71-3dbb291c4d7f",
+      "name": "This is Also Fine Spray",
+      "icon": "https://media.valorant-api.com/sprays/4c08026b-4f56-9494-0d71-3dbb291c4d7f/fulltransparenticon.png"
+    },
+    "82ffcc4c-4195-5399-5d70-f7b1cdd16e37": {
+      "uuid": "82ffcc4c-4195-5399-5d70-f7b1cdd16e37",
+      "name": "Little Onion Lad Spray",
+      "icon": "https://media.valorant-api.com/sprays/82ffcc4c-4195-5399-5d70-f7b1cdd16e37/fulltransparenticon.png"
+    },
+    "936f33fb-49d9-277c-496d-cd9ef04a34cc": {
+      "uuid": "936f33fb-49d9-277c-496d-cd9ef04a34cc",
+      "name": "Cheaters Never Prosper Spray",
+      "icon": "https://media.valorant-api.com/sprays/936f33fb-49d9-277c-496d-cd9ef04a34cc/fulltransparenticon.png"
+    },
+    "83cf10b1-42ef-e339-97c6-169f46504733": {
+      "uuid": "83cf10b1-42ef-e339-97c6-169f46504733",
+      "name": "Wanted: Tactibunny Spray",
+      "icon": "https://media.valorant-api.com/sprays/83cf10b1-42ef-e339-97c6-169f46504733/fulltransparenticon.png"
+    },
+    "2527155b-4ba6-632b-c745-71900a25ab80": {
+      "uuid": "2527155b-4ba6-632b-c745-71900a25ab80",
+      "name": "8-bit VALORANT Spray",
+      "icon": "https://media.valorant-api.com/sprays/2527155b-4ba6-632b-c745-71900a25ab80/fulltransparenticon.png"
+    },
+    "89565f02-495e-e6f0-5f67-959626122909": {
+      "uuid": "89565f02-495e-e6f0-5f67-959626122909",
+      "name": "GGWP Spray",
+      "icon": "https://media.valorant-api.com/sprays/89565f02-495e-e6f0-5f67-959626122909/fulltransparenticon.png"
+    },
+    "78cf178d-4165-43b8-1ecf-f78771505af9": {
+      "uuid": "78cf178d-4165-43b8-1ecf-f78771505af9",
+      "name": "Mic Drop Spray",
+      "icon": "https://media.valorant-api.com/sprays/78cf178d-4165-43b8-1ecf-f78771505af9/fulltransparenticon.png"
+    },
+    "9d7df4cc-4311-42da-1220-2c9f3bc8c2cc": {
+      "uuid": "9d7df4cc-4311-42da-1220-2c9f3bc8c2cc",
+      "name": "Step Under Here Spray",
+      "icon": "https://media.valorant-api.com/sprays/9d7df4cc-4311-42da-1220-2c9f3bc8c2cc/fulltransparenticon.png"
+    },
+    "04251d6a-4548-856b-5ea1-19b01783c430": {
+      "uuid": "04251d6a-4548-856b-5ea1-19b01783c430",
+      "name": "No Op Spray",
+      "icon": "https://media.valorant-api.com/sprays/04251d6a-4548-856b-5ea1-19b01783c430/fulltransparenticon.png"
+    },
+    "75b2f43a-4154-a1dc-1c6f-edb5fe224b2a": {
+      "uuid": "75b2f43a-4154-a1dc-1c6f-edb5fe224b2a",
+      "name": "Piece of Cake Spray",
+      "icon": "https://media.valorant-api.com/sprays/75b2f43a-4154-a1dc-1c6f-edb5fe224b2a/fulltransparenticon.png"
+    },
+    "5972097d-4904-9c86-03c6-e2878c1f0719": {
+      "uuid": "5972097d-4904-9c86-03c6-e2878c1f0719",
+      "name": "Octorave Spray",
+      "icon": "https://media.valorant-api.com/sprays/5972097d-4904-9c86-03c6-e2878c1f0719/fulltransparenticon.png"
+    },
+    "e279312d-4321-5194-13f5-6897b0a005cf": {
+      "uuid": "e279312d-4321-5194-13f5-6897b0a005cf",
+      "name": "Pick My Strat Spray",
+      "icon": "https://media.valorant-api.com/sprays/e279312d-4321-5194-13f5-6897b0a005cf/displayicon.png"
+    },
+    "4ca4b72d-4eb4-3a3e-0079-06a31dc06b9b": {
+      "uuid": "4ca4b72d-4eb4-3a3e-0079-06a31dc06b9b",
+      "name": "Stellar Dendrite Spray",
+      "icon": "https://media.valorant-api.com/sprays/4ca4b72d-4eb4-3a3e-0079-06a31dc06b9b/fulltransparenticon.png"
+    },
+    "43341e92-451f-c194-b4f6-0b926bdc3643": {
+      "uuid": "43341e92-451f-c194-b4f6-0b926bdc3643",
+      "name": "Thumbs Up Spray",
+      "icon": "https://media.valorant-api.com/sprays/43341e92-451f-c194-b4f6-0b926bdc3643/fulltransparenticon.png"
+    },
+    "5d6cadda-42c3-1cac-94d3-458917f5cb2c": {
+      "uuid": "5d6cadda-42c3-1cac-94d3-458917f5cb2c",
+      "name": "Stay Safe, Wash Your Hands Spray",
+      "icon": "https://media.valorant-api.com/sprays/5d6cadda-42c3-1cac-94d3-458917f5cb2c/fulltransparenticon.png"
+    },
+    "8035dd5d-4ddd-5dbd-165c-9886574fdff5": {
+      "uuid": "8035dd5d-4ddd-5dbd-165c-9886574fdff5",
+      "name": "RGX 11z Pro Spray",
+      "icon": "https://media.valorant-api.com/sprays/8035dd5d-4ddd-5dbd-165c-9886574fdff5/fulltransparenticon.png"
+    },
+    "8b7154e2-4453-2515-0867-62a1075b03ad": {
+      "uuid": "8b7154e2-4453-2515-0867-62a1075b03ad",
+      "name": "Gaia's Vengeance Spray",
+      "icon": "https://media.valorant-api.com/sprays/8b7154e2-4453-2515-0867-62a1075b03ad/fulltransparenticon.png"
+    },
+    "a5ecf58a-44ce-75f6-abf7-bfb616c12f59": {
+      "uuid": "a5ecf58a-44ce-75f6-abf7-bfb616c12f59",
+      "name": "Spectrum Spray",
+      "icon": "https://media.valorant-api.com/sprays/a5ecf58a-44ce-75f6-abf7-bfb616c12f59/displayicon.png"
+    },
+    "35d8fb90-49a9-641e-ff08-b4bc20421908": {
+      "uuid": "35d8fb90-49a9-641e-ff08-b4bc20421908",
+      "name": "Boom! Spray",
+      "icon": "https://media.valorant-api.com/sprays/35d8fb90-49a9-641e-ff08-b4bc20421908/fulltransparenticon.png"
+    },
+    "a05c50b7-4a1d-c2de-e1e7-ac8a7730daa4": {
+      "uuid": "a05c50b7-4a1d-c2de-e1e7-ac8a7730daa4",
+      "name": "Breach Spray",
+      "icon": "https://media.valorant-api.com/sprays/a05c50b7-4a1d-c2de-e1e7-ac8a7730daa4/fulltransparenticon.png"
+    },
+    "dcc8f0df-46b9-0a3e-7a0f-74a7558ddafc": {
+      "uuid": "dcc8f0df-46b9-0a3e-7a0f-74a7558ddafc",
+      "name": "K.O. Spray",
+      "icon": "https://media.valorant-api.com/sprays/dcc8f0df-46b9-0a3e-7a0f-74a7558ddafc/fulltransparenticon.png"
+    },
+    "92641409-4113-b674-f95d-fc85f29bf921": {
+      "uuid": "92641409-4113-b674-f95d-fc85f29bf921",
+      "name": "Guns Out Spray",
+      "icon": "https://media.valorant-api.com/sprays/92641409-4113-b674-f95d-fc85f29bf921/fulltransparenticon.png"
+    },
+    "36ee876c-4918-69c7-9ce4-9dac0b4b929a": {
+      "uuid": "36ee876c-4918-69c7-9ce4-9dac0b4b929a",
+      "name": "FTW Spray",
+      "icon": "https://media.valorant-api.com/sprays/36ee876c-4918-69c7-9ce4-9dac0b4b929a/fulltransparenticon.png"
+    },
+    "71e8fdca-4099-af1c-fabf-09a35684e2d0": {
+      "uuid": "71e8fdca-4099-af1c-fabf-09a35684e2d0",
+      "name": "Camper Spray",
+      "icon": "https://media.valorant-api.com/sprays/71e8fdca-4099-af1c-fabf-09a35684e2d0/fulltransparenticon.png"
+    },
+    "500da6bd-4cf1-3362-be2b-1487ec286b91": {
+      "uuid": "500da6bd-4cf1-3362-be2b-1487ec286b91",
+      "name": "Excuse Me? Spray",
+      "icon": "https://media.valorant-api.com/sprays/500da6bd-4cf1-3362-be2b-1487ec286b91/fulltransparenticon.png"
+    },
+    "254e3d77-40b8-cfae-232a-f7a36ee27d61": {
+      "uuid": "254e3d77-40b8-cfae-232a-f7a36ee27d61",
+      "name": "Cheesy Shot Spray",
+      "icon": "https://media.valorant-api.com/sprays/254e3d77-40b8-cfae-232a-f7a36ee27d61/fulltransparenticon.png"
+    },
+    "186cadc9-4356-bcae-4cbb-ce83f8b15e4f": {
+      "uuid": "186cadc9-4356-bcae-4cbb-ce83f8b15e4f",
+      "name": "Raze Spray",
+      "icon": "https://media.valorant-api.com/sprays/186cadc9-4356-bcae-4cbb-ce83f8b15e4f/fulltransparenticon.png"
+    },
+    "32fc4bfd-4897-ce74-55d2-9bb008f0decb": {
+      "uuid": "32fc4bfd-4897-ce74-55d2-9bb008f0decb",
+      "name": "BoomShaka Spray",
+      "icon": "https://media.valorant-api.com/sprays/32fc4bfd-4897-ce74-55d2-9bb008f0decb/fulltransparenticon.png"
+    },
+    "a64b8eda-4920-434a-5346-30bfb1b58e39": {
+      "uuid": "a64b8eda-4920-434a-5346-30bfb1b58e39",
+      "name": "Bombshell Spray",
+      "icon": "https://media.valorant-api.com/sprays/a64b8eda-4920-434a-5346-30bfb1b58e39/fulltransparenticon.png"
+    },
+    "25d82d17-4739-e206-e8aa-d1bd4fd4dae6": {
+      "uuid": "25d82d17-4739-e206-e8aa-d1bd4fd4dae6",
+      "name": "Explorgi Spray",
+      "icon": "https://media.valorant-api.com/sprays/25d82d17-4739-e206-e8aa-d1bd4fd4dae6/fulltransparenticon.png"
+    },
+    "32570250-4795-981d-bda7-34963aa042f9": {
+      "uuid": "32570250-4795-981d-bda7-34963aa042f9",
+      "name": "Danger Spray",
+      "icon": "https://media.valorant-api.com/sprays/32570250-4795-981d-bda7-34963aa042f9/fulltransparenticon.png"
+    },
+    "90b297b4-4e8f-f87c-8008-36905268fe52": {
+      "uuid": "90b297b4-4e8f-f87c-8008-36905268fe52",
+      "name": "One In The Chamber Spray",
+      "icon": "https://media.valorant-api.com/sprays/90b297b4-4e8f-f87c-8008-36905268fe52/fulltransparenticon.png"
+    },
+    "1be33c9a-48a8-5aa8-3798-3989c40c96e1": {
+      "uuid": "1be33c9a-48a8-5aa8-3798-3989c40c96e1",
+      "name": "Chamber Spray",
+      "icon": "https://media.valorant-api.com/sprays/1be33c9a-48a8-5aa8-3798-3989c40c96e1/fulltransparenticon.png"
+    },
+    "2ebcf963-4e55-e39c-d1aa-94ad6ec87424": {
+      "uuid": "2ebcf963-4e55-e39c-d1aa-94ad6ec87424",
+      "name": "Seeing Double Spray",
+      "icon": "https://media.valorant-api.com/sprays/2ebcf963-4e55-e39c-d1aa-94ad6ec87424/fulltransparenticon.png"
+    },
+    "0a6db78c-48b9-a32d-c47a-82be597584c1": {
+      "uuid": "0a6db78c-48b9-a32d-c47a-82be597584c1",
+      "name": "VALORANT Spray",
+      "icon": "https://media.valorant-api.com/sprays/0a6db78c-48b9-a32d-c47a-82be597584c1/fulltransparenticon.png"
+    },
+    "e8a8c717-4845-3c69-9c16-d8a78153c51d": {
+      "uuid": "e8a8c717-4845-3c69-9c16-d8a78153c51d",
+      "name": "Bruno Coin Spray",
+      "icon": "https://media.valorant-api.com/sprays/e8a8c717-4845-3c69-9c16-d8a78153c51d/fulltransparenticon.png"
+    },
+    "0221e96d-49be-a601-52d6-ef8270773276": {
+      "uuid": "0221e96d-49be-a601-52d6-ef8270773276",
+      "name": "Elderflame Spray",
+      "icon": "https://media.valorant-api.com/sprays/0221e96d-49be-a601-52d6-ef8270773276/fulltransparenticon.png"
+    },
+    "3036069d-46c6-98ca-759f-9bb7f4c9ba15": {
+      "uuid": "3036069d-46c6-98ca-759f-9bb7f4c9ba15",
+      "name": "Quack!! Spray",
+      "icon": "https://media.valorant-api.com/sprays/3036069d-46c6-98ca-759f-9bb7f4c9ba15/fulltransparenticon.png"
+    },
+    "ff4f634c-42f4-77bc-0811-b79681910c8b": {
+      "uuid": "ff4f634c-42f4-77bc-0811-b79681910c8b",
+      "name": "Spicy Spray",
+      "icon": "https://media.valorant-api.com/sprays/ff4f634c-42f4-77bc-0811-b79681910c8b/fulltransparenticon.png"
+    },
+    "78302cd4-4cb9-ba9b-562f-28baa9f827d7": {
+      "uuid": "78302cd4-4cb9-ba9b-562f-28baa9f827d7",
+      "name": "Hershey Pup Spray",
+      "icon": "https://media.valorant-api.com/sprays/78302cd4-4cb9-ba9b-562f-28baa9f827d7/fulltransparenticon.png"
+    },
+    "01060c4c-4e05-cfa5-dc3a-b38b6ac0bb58": {
+      "uuid": "01060c4c-4e05-cfa5-dc3a-b38b6ac0bb58",
+      "name": "Blueberry Spray",
+      "icon": "https://media.valorant-api.com/sprays/01060c4c-4e05-cfa5-dc3a-b38b6ac0bb58/fulltransparenticon.png"
+    },
+    "505ce49e-4100-9796-de78-ed9159cd5a73": {
+      "uuid": "505ce49e-4100-9796-de78-ed9159cd5a73",
+      "name": "Choose my Weapon Spray",
+      "icon": "https://media.valorant-api.com/sprays/505ce49e-4100-9796-de78-ed9159cd5a73/fulltransparenticon.png"
+    },
+    "3eb04b78-4968-8e81-4857-b395dbc144f7": {
+      "uuid": "3eb04b78-4968-8e81-4857-b395dbc144f7",
+      "name": "Glitch Out Chicken Spray",
+      "icon": "https://media.valorant-api.com/sprays/3eb04b78-4968-8e81-4857-b395dbc144f7/fulltransparenticon.png"
+    },
+    "5297a45a-4ca0-dff0-1229-4bb9e851d924": {
+      "uuid": "5297a45a-4ca0-dff0-1229-4bb9e851d924",
+      "name": "Make 'em Dance Spray",
+      "icon": "https://media.valorant-api.com/sprays/5297a45a-4ca0-dff0-1229-4bb9e851d924/fulltransparenticon.png"
+    },
+    "160c29cc-4595-6487-8e34-2591408063d5": {
+      "uuid": "160c29cc-4595-6487-8e34-2591408063d5",
+      "name": "EZ Spray",
+      "icon": "https://media.valorant-api.com/sprays/160c29cc-4595-6487-8e34-2591408063d5/fulltransparenticon.png"
+    },
+    "6e6a3872-447d-c457-b02a-b78efddea902": {
+      "uuid": "6e6a3872-447d-c457-b02a-b78efddea902",
+      "name": "Going C Spray",
+      "icon": "https://media.valorant-api.com/sprays/6e6a3872-447d-c457-b02a-b78efddea902/fulltransparenticon.png"
+    },
+    "87c0b8c9-4b11-2e9a-95fe-ad94cf102d85": {
+      "uuid": "87c0b8c9-4b11-2e9a-95fe-ad94cf102d85",
+      "name": "<3 Spray",
+      "icon": "https://media.valorant-api.com/sprays/87c0b8c9-4b11-2e9a-95fe-ad94cf102d85/fulltransparenticon.png"
+    },
+    "76b3ea83-49b6-a6b8-6ab5-19bfa33445fd": {
+      "uuid": "76b3ea83-49b6-a6b8-6ab5-19bfa33445fd",
+      "name": "Lit for 140 Spray",
+      "icon": "https://media.valorant-api.com/sprays/76b3ea83-49b6-a6b8-6ab5-19bfa33445fd/fulltransparenticon.png"
+    },
+    "41b99cd2-439d-f2cb-24e6-e4af187e884f": {
+      "uuid": "41b99cd2-439d-f2cb-24e6-e4af187e884f",
+      "name": "Faces in Places Spray",
+      "icon": "https://media.valorant-api.com/sprays/41b99cd2-439d-f2cb-24e6-e4af187e884f/fulltransparenticon.png"
+    },
+    "1daadd56-4c58-e8e7-a5ef-2ab855a7ddb9": {
+      "uuid": "1daadd56-4c58-e8e7-a5ef-2ab855a7ddb9",
+      "name": "No Shorty Spray",
+      "icon": "https://media.valorant-api.com/sprays/1daadd56-4c58-e8e7-a5ef-2ab855a7ddb9/fulltransparenticon.png"
+    },
+    "f20b1abe-478b-9a51-590c-30b08181fd79": {
+      "uuid": "f20b1abe-478b-9a51-590c-30b08181fd79",
+      "name": "Radianite Hazard Spray",
+      "icon": "https://media.valorant-api.com/sprays/f20b1abe-478b-9a51-590c-30b08181fd79/fulltransparenticon.png"
+    },
+    "2ef94d62-44de-d9eb-ea36-4aa28418cbed": {
+      "uuid": "2ef94d62-44de-d9eb-ea36-4aa28418cbed",
+      "name": "What was that? Spray",
+      "icon": "https://media.valorant-api.com/sprays/2ef94d62-44de-d9eb-ea36-4aa28418cbed/fulltransparenticon.png"
+    },
+    "8b6565d0-4dca-d308-d121-749ec36cb1c1": {
+      "uuid": "8b6565d0-4dca-d308-d121-749ec36cb1c1",
+      "name": "Alas, poor Robot! Spray",
+      "icon": "https://media.valorant-api.com/sprays/8b6565d0-4dca-d308-d121-749ec36cb1c1/fulltransparenticon.png"
+    },
+    "a78eb46a-4d66-4683-9a77-02adae482146": {
+      "uuid": "a78eb46a-4d66-4683-9a77-02adae482146",
+      "name": "Make Some Noise Spray",
+      "icon": "https://media.valorant-api.com/sprays/a78eb46a-4d66-4683-9a77-02adae482146/fulltransparenticon.png"
+    },
+    "101bfb95-40b3-de3d-fc83-65870bbc2933": {
+      "uuid": "101bfb95-40b3-de3d-fc83-65870bbc2933",
+      "name": "Chill Out Spray",
+      "icon": "https://media.valorant-api.com/sprays/101bfb95-40b3-de3d-fc83-65870bbc2933/fulltransparenticon.png"
+    },
+    "1a2baf70-43cd-84f5-2dea-f49b9173c700": {
+      "uuid": "1a2baf70-43cd-84f5-2dea-f49b9173c700",
+      "name": "Is This A Drone? Spray",
+      "icon": "https://media.valorant-api.com/sprays/1a2baf70-43cd-84f5-2dea-f49b9173c700/fulltransparenticon.png"
+    },
+    "140243d9-46a3-bd69-6bbe-9c918324f628": {
+      "uuid": "140243d9-46a3-bd69-6bbe-9c918324f628",
+      "name": "Shhh! Spray",
+      "icon": "https://media.valorant-api.com/sprays/140243d9-46a3-bd69-6bbe-9c918324f628/fulltransparenticon.png"
+    },
+    "d9085f5d-4d34-aaf1-03ac-aebc8f4e7ea4": {
+      "uuid": "d9085f5d-4d34-aaf1-03ac-aebc8f4e7ea4",
+      "name": "Do Not Enter Spray",
+      "icon": "https://media.valorant-api.com/sprays/d9085f5d-4d34-aaf1-03ac-aebc8f4e7ea4/fulltransparenticon.png"
+    },
+    "3da0e460-4f94-92db-4a57-66b0ba605a2b": {
+      "uuid": "3da0e460-4f94-92db-4a57-66b0ba605a2b",
+      "name": "Dumpster Fire Spray",
+      "icon": "https://media.valorant-api.com/sprays/3da0e460-4f94-92db-4a57-66b0ba605a2b/fulltransparenticon.png"
+    },
+    "08c614b3-495b-c68d-4c1b-d59fd3cb2628": {
+      "uuid": "08c614b3-495b-c68d-4c1b-d59fd3cb2628",
+      "name": "/FF Spray",
+      "icon": "https://media.valorant-api.com/sprays/08c614b3-495b-c68d-4c1b-d59fd3cb2628/fulltransparenticon.png"
+    },
+    "cf86b6e6-498d-196c-6a1f-d4b162aa649b": {
+      "uuid": "cf86b6e6-498d-196c-6a1f-d4b162aa649b",
+      "name": "Epilogue: Super! Spray",
+      "icon": "https://media.valorant-api.com/sprays/cf86b6e6-498d-196c-6a1f-d4b162aa649b/fulltransparenticon.png"
+    },
+    "501b7d18-49f6-8467-759f-66abf39c98d6": {
+      "uuid": "501b7d18-49f6-8467-759f-66abf39c98d6",
+      "name": "Embarrassing! Spray",
+      "icon": "https://media.valorant-api.com/sprays/501b7d18-49f6-8467-759f-66abf39c98d6/fulltransparenticon.png"
+    },
+    "d576bf1d-4eca-8010-0a12-ccb44bd72226": {
+      "uuid": "d576bf1d-4eca-8010-0a12-ccb44bd72226",
+      "name": "LAG! Spray",
+      "icon": "https://media.valorant-api.com/sprays/d576bf1d-4eca-8010-0a12-ccb44bd72226/fulltransparenticon.png"
+    },
+    "9526bc9a-43bc-3807-f2be-be85e14eb908": {
+      "uuid": "9526bc9a-43bc-3807-f2be-be85e14eb908",
+      "name": "MY EYES! Spray",
+      "icon": "https://media.valorant-api.com/sprays/9526bc9a-43bc-3807-f2be-be85e14eb908/fulltransparenticon.png"
+    },
+    "f1a0e638-4b6e-b521-f9e8-67b2ced8826f": {
+      "uuid": "f1a0e638-4b6e-b521-f9e8-67b2ced8826f",
+      "name": "Happy Frog Spray",
+      "icon": "https://media.valorant-api.com/sprays/f1a0e638-4b6e-b521-f9e8-67b2ced8826f/fulltransparenticon.png"
+    },
+    "0acc3505-4e1a-7d1f-2340-90b199ab81f4": {
+      "uuid": "0acc3505-4e1a-7d1f-2340-90b199ab81f4",
+      "name": "Revive Me, Jett! Spray",
+      "icon": "https://media.valorant-api.com/sprays/0acc3505-4e1a-7d1f-2340-90b199ab81f4/fulltransparenticon.png"
+    },
+    "2acf4141-4c32-f916-25c4-91843376c083": {
+      "uuid": "2acf4141-4c32-f916-25c4-91843376c083",
+      "name": "Super! Spray",
+      "icon": "https://media.valorant-api.com/sprays/2acf4141-4c32-f916-25c4-91843376c083/fulltransparenticon.png"
+    },
+    "ecba2299-4e4a-0ca7-a194-95a4c92f3f4a": {
+      "uuid": "ecba2299-4e4a-0ca7-a194-95a4c92f3f4a",
+      "name": "¯\\_(ツ)_/¯ Spray",
+      "icon": "https://media.valorant-api.com/sprays/ecba2299-4e4a-0ca7-a194-95a4c92f3f4a/fulltransparenticon.png"
+    },
+    "6f252a61-4a8e-b2f5-f48d-5699a32bdc79": {
+      "uuid": "6f252a61-4a8e-b2f5-f48d-5699a32bdc79",
+      "name": "Nope Spray",
+      "icon": "https://media.valorant-api.com/sprays/6f252a61-4a8e-b2f5-f48d-5699a32bdc79/fulltransparenticon.png"
+    },
+    "94dc31dc-48b1-8279-ff69-f8828bbc7382": {
+      "uuid": "94dc31dc-48b1-8279-ff69-f8828bbc7382",
+      "name": "Approved! Spray",
+      "icon": "https://media.valorant-api.com/sprays/94dc31dc-48b1-8279-ff69-f8828bbc7382/fulltransparenticon.png"
+    },
+    "fd92bdcd-4ae8-861e-843a-05a8113a4d11": {
+      "uuid": "fd92bdcd-4ae8-861e-843a-05a8113a4d11",
+      "name": "Lobster? Spray",
+      "icon": "https://media.valorant-api.com/sprays/fd92bdcd-4ae8-861e-843a-05a8113a4d11/fulltransparenticon.png"
+    },
+    "043970f9-47ae-c73a-3de1-f291769fda0f": {
+      "uuid": "043970f9-47ae-c73a-3de1-f291769fda0f",
+      "name": "Theo's Great Escape Spray",
+      "icon": "https://media.valorant-api.com/sprays/043970f9-47ae-c73a-3de1-f291769fda0f/fulltransparenticon.png"
+    },
+    "ed3208ac-454a-43a0-e77a-6e83328ddf0c": {
+      "uuid": "ed3208ac-454a-43a0-e77a-6e83328ddf0c",
+      "name": "Bunny Hop Spray",
+      "icon": "https://media.valorant-api.com/sprays/ed3208ac-454a-43a0-e77a-6e83328ddf0c/fulltransparenticon.png"
+    },
+    "9edcb43d-4102-0dfc-3784-19a927a76968": {
+      "uuid": "9edcb43d-4102-0dfc-3784-19a927a76968",
+      "name": "Without a Trace Spray",
+      "icon": "https://media.valorant-api.com/sprays/9edcb43d-4102-0dfc-3784-19a927a76968/fulltransparenticon.png"
+    },
+    "cbcd99a5-49db-d39f-a060-67a781d1605a": {
+      "uuid": "cbcd99a5-49db-d39f-a060-67a781d1605a",
+      "name": "Dabbing Dan Spray",
+      "icon": "https://media.valorant-api.com/sprays/cbcd99a5-49db-d39f-a060-67a781d1605a/fulltransparenticon.png"
+    },
+    "1e3bcf29-4962-aec9-47a7-769c58244042": {
+      "uuid": "1e3bcf29-4962-aec9-47a7-769c58244042",
+      "name": "Epilogue: Dabbing Dan Spray",
+      "icon": "https://media.valorant-api.com/sprays/1e3bcf29-4962-aec9-47a7-769c58244042/fulltransparenticon.png"
+    },
+    "34d69ab8-4729-9824-064f-269e1311db63": {
+      "uuid": "34d69ab8-4729-9824-064f-269e1311db63",
+      "name": "Comedy and the Tragedy Spray",
+      "icon": "https://media.valorant-api.com/sprays/34d69ab8-4729-9824-064f-269e1311db63/fulltransparenticon.png"
+    },
+    "6961433a-41ca-dc53-06b1-7294c28dece0": {
+      "uuid": "6961433a-41ca-dc53-06b1-7294c28dece0",
+      "name": "Songsteel Spray",
+      "icon": "https://media.valorant-api.com/sprays/6961433a-41ca-dc53-06b1-7294c28dece0/fulltransparenticon.png"
+    },
+    "e3b99844-449a-d21b-0612-8c95e74d7d9f": {
+      "uuid": "e3b99844-449a-d21b-0612-8c95e74d7d9f",
+      "name": "Hang in There, Mance Spray",
+      "icon": "https://media.valorant-api.com/sprays/e3b99844-449a-d21b-0612-8c95e74d7d9f/fulltransparenticon.png"
+    },
+    "4352547a-41de-277c-6083-0ea12bf04ff6": {
+      "uuid": "4352547a-41de-277c-6083-0ea12bf04ff6",
+      "name": "Nice Save Spray",
+      "icon": "https://media.valorant-api.com/sprays/4352547a-41de-277c-6083-0ea12bf04ff6/fulltransparenticon.png"
+    },
+    "790f632c-4d0b-deb0-4277-12a8d35e533f": {
+      "uuid": "790f632c-4d0b-deb0-4277-12a8d35e533f",
+      "name": "Be Gone! Spray",
+      "icon": "https://media.valorant-api.com/sprays/790f632c-4d0b-deb0-4277-12a8d35e533f/fulltransparenticon.png"
+    },
+    "f1a8c241-4e08-143c-fd32-15b7f8b1dcf6": {
+      "uuid": "f1a8c241-4e08-143c-fd32-15b7f8b1dcf6",
+      "name": "No Odin Spray",
+      "icon": "https://media.valorant-api.com/sprays/f1a8c241-4e08-143c-fd32-15b7f8b1dcf6/fulltransparenticon.png"
+    },
+    "7e070612-47d5-7ef6-e167-89b578528a4b": {
+      "uuid": "7e070612-47d5-7ef6-e167-89b578528a4b",
+      "name": "This is Also Also Fine Spray",
+      "icon": "https://media.valorant-api.com/sprays/7e070612-47d5-7ef6-e167-89b578528a4b/fulltransparenticon.png"
+    },
+    "e4514582-484a-c820-33f2-fc80bcab7a4b": {
+      "uuid": "e4514582-484a-c820-33f2-fc80bcab7a4b",
+      "name": "300 Spray",
+      "icon": "https://media.valorant-api.com/sprays/e4514582-484a-c820-33f2-fc80bcab7a4b/fulltransparenticon.png"
+    },
+    "b3618996-4966-691c-e8a5-758f500d0992": {
+      "uuid": "b3618996-4966-691c-e8a5-758f500d0992",
+      "name": "Walk! Don't Run Spray",
+      "icon": "https://media.valorant-api.com/sprays/b3618996-4966-691c-e8a5-758f500d0992/fulltransparenticon.png"
+    },
+    "3b2e3697-4023-278b-ae20-5da954a832ae": {
+      "uuid": "3b2e3697-4023-278b-ae20-5da954a832ae",
+      "name": "Hardstuck Spray",
+      "icon": "https://media.valorant-api.com/sprays/3b2e3697-4023-278b-ae20-5da954a832ae/fulltransparenticon.png"
+    },
+    "2df9762d-452d-0c80-d1f3-12aa8f6ebcf3": {
+      "uuid": "2df9762d-452d-0c80-d1f3-12aa8f6ebcf3",
+      "name": "Clutch or Kick Spray",
+      "icon": "https://media.valorant-api.com/sprays/2df9762d-452d-0c80-d1f3-12aa8f6ebcf3/fulltransparenticon.png"
+    },
+    "126a3693-4195-77e3-6ef7-94a1c7e082ec": {
+      "uuid": "126a3693-4195-77e3-6ef7-94a1c7e082ec",
+      "name": "Cracked Spray",
+      "icon": "https://media.valorant-api.com/sprays/126a3693-4195-77e3-6ef7-94a1c7e082ec/fulltransparenticon.png"
+    },
+    "83b783ac-4c70-fd83-98b7-97b87bc99e44": {
+      "uuid": "83b783ac-4c70-fd83-98b7-97b87bc99e44",
+      "name": "Epilogue: Cracked Spray",
+      "icon": "https://media.valorant-api.com/sprays/83b783ac-4c70-fd83-98b7-97b87bc99e44/fulltransparenticon.png"
+    },
+    "9d205163-475a-eb0e-e71d-878635cabce6": {
+      "uuid": "9d205163-475a-eb0e-e71d-878635cabce6",
+      "name": "Greatly Decreased? Spray",
+      "icon": "https://media.valorant-api.com/sprays/9d205163-475a-eb0e-e71d-878635cabce6/fulltransparenticon.png"
+    },
+    "ce1590a8-4af4-e665-4898-b799dfce8be3": {
+      "uuid": "ce1590a8-4af4-e665-4898-b799dfce8be3",
+      "name": "Sands of Time Spray",
+      "icon": "https://media.valorant-api.com/sprays/ce1590a8-4af4-e665-4898-b799dfce8be3/fulltransparenticon.png"
+    },
+    "5b3640d5-4a49-e9b2-cbac-0ca090f66d75": {
+      "uuid": "5b3640d5-4a49-e9b2-cbac-0ca090f66d75",
+      "name": "Killjoy! I Choose You! Spray",
+      "icon": "https://media.valorant-api.com/sprays/5b3640d5-4a49-e9b2-cbac-0ca090f66d75/fulltransparenticon.png"
+    },
+    "9916ef0d-4227-482e-7c6a-7f8714562859": {
+      "uuid": "9916ef0d-4227-482e-7c6a-7f8714562859",
+      "name": "Max Money Spray",
+      "icon": "https://media.valorant-api.com/sprays/9916ef0d-4227-482e-7c6a-7f8714562859/fulltransparenticon.png"
+    },
+    "0a34476a-4329-0d04-e196-c9bccb97ce7f": {
+      "uuid": "0a34476a-4329-0d04-e196-c9bccb97ce7f",
+      "name": "No Guardian Spray",
+      "icon": "https://media.valorant-api.com/sprays/0a34476a-4329-0d04-e196-c9bccb97ce7f/fulltransparenticon.png"
+    },
+    "7176cc5c-4aa7-3bbe-6dae-168b22607398": {
+      "uuid": "7176cc5c-4aa7-3bbe-6dae-168b22607398",
+      "name": "No Pen Spray",
+      "icon": "https://media.valorant-api.com/sprays/7176cc5c-4aa7-3bbe-6dae-168b22607398/fulltransparenticon.png"
+    },
+    "8f25fdc5-4652-bed8-bce6-4f8833b00864": {
+      "uuid": "8f25fdc5-4652-bed8-bce6-4f8833b00864",
+      "name": "Sand Sculpture Spray",
+      "icon": "https://media.valorant-api.com/sprays/8f25fdc5-4652-bed8-bce6-4f8833b00864/fulltransparenticon.png"
+    },
+    "0f20c96b-4865-2440-efea-d38eb1d2bf01": {
+      "uuid": "0f20c96b-4865-2440-efea-d38eb1d2bf01",
+      "name": "Sova Says Sorry Spray",
+      "icon": "https://media.valorant-api.com/sprays/0f20c96b-4865-2440-efea-d38eb1d2bf01/fulltransparenticon.png"
+    },
+    "7ad73709-4692-decb-ebea-31b637657065": {
+      "uuid": "7ad73709-4692-decb-ebea-31b637657065",
+      "name": "Surprised Penguin Spray",
+      "icon": "https://media.valorant-api.com/sprays/7ad73709-4692-decb-ebea-31b637657065/fulltransparenticon.png"
+    },
+    "36bfc92c-4bdb-1efd-7b72-e6b54ba12293": {
+      "uuid": "36bfc92c-4bdb-1efd-7b72-e6b54ba12293",
+      "name": "Pump Action Spray",
+      "icon": "https://media.valorant-api.com/sprays/36bfc92c-4bdb-1efd-7b72-e6b54ba12293/fulltransparenticon.png"
+    },
+    "069f15fc-4893-a91d-6621-ffb4a9f552be": {
+      "uuid": "069f15fc-4893-a91d-6621-ffb4a9f552be",
+      "name": "Too Heavy Spray",
+      "icon": "https://media.valorant-api.com/sprays/069f15fc-4893-a91d-6621-ffb4a9f552be/fulltransparenticon.png"
+    },
+    "a9b0e97f-4acf-c6fd-2e5d-41a74a79266b": {
+      "uuid": "a9b0e97f-4acf-c6fd-2e5d-41a74a79266b",
+      "name": "Greatly Increased? Spray",
+      "icon": "https://media.valorant-api.com/sprays/a9b0e97f-4acf-c6fd-2e5d-41a74a79266b/fulltransparenticon.png"
+    },
+    "3fbf799a-4a5f-c37b-4bc7-b5ac4289efc4": {
+      "uuid": "3fbf799a-4a5f-c37b-4bc7-b5ac4289efc4",
+      "name": "Promises Kept Spray",
+      "icon": "https://media.valorant-api.com/sprays/3fbf799a-4a5f-c37b-4bc7-b5ac4289efc4/fulltransparenticon.png"
+    },
+    "c5bba4e4-4cdc-2274-a025-29bf1c8607a2": {
+      "uuid": "c5bba4e4-4cdc-2274-a025-29bf1c8607a2",
+      "name": "Yikes Spray",
+      "icon": "https://media.valorant-api.com/sprays/c5bba4e4-4cdc-2274-a025-29bf1c8607a2/fulltransparenticon.png"
+    },
+    "4d9b1ba7-4b2c-2dbe-d096-1d8ccc7f19ed": {
+      "uuid": "4d9b1ba7-4b2c-2dbe-d096-1d8ccc7f19ed",
+      "name": "Hooked Spray",
+      "icon": "https://media.valorant-api.com/sprays/4d9b1ba7-4b2c-2dbe-d096-1d8ccc7f19ed/fulltransparenticon.png"
+    },
+    "df184a83-4907-a21a-e6dd-63bdc4c09aad": {
+      "uuid": "df184a83-4907-a21a-e6dd-63bdc4c09aad",
+      "name": "Crispy Spray",
+      "icon": "https://media.valorant-api.com/sprays/df184a83-4907-a21a-e6dd-63bdc4c09aad/fulltransparenticon.png"
+    },
+    "465bcd94-4f71-239f-6942-f09e8f7ea836": {
+      "uuid": "465bcd94-4f71-239f-6942-f09e8f7ea836",
+      "name": "Does Not Compute Spray",
+      "icon": "https://media.valorant-api.com/sprays/465bcd94-4f71-239f-6942-f09e8f7ea836/fulltransparenticon.png"
+    },
+    "271896c9-496b-8c89-962f-59a9ed3f4ffa": {
+      "uuid": "271896c9-496b-8c89-962f-59a9ed3f4ffa",
+      "name": "Hold Up Spray",
+      "icon": "https://media.valorant-api.com/sprays/271896c9-496b-8c89-962f-59a9ed3f4ffa/fulltransparenticon.png"
+    },
+    "a8765b06-4131-5be0-575a-e288cfa904a8": {
+      "uuid": "a8765b06-4131-5be0-575a-e288cfa904a8",
+      "name": "Love > Hate Spray",
+      "icon": "https://media.valorant-api.com/sprays/a8765b06-4131-5be0-575a-e288cfa904a8/fulltransparenticon.png"
+    },
+    "1eb88a38-441f-9e7d-892d-8dac60188a0d": {
+      "uuid": "1eb88a38-441f-9e7d-892d-8dac60188a0d",
+      "name": "No Judge Spray",
+      "icon": "https://media.valorant-api.com/sprays/1eb88a38-441f-9e7d-892d-8dac60188a0d/fulltransparenticon.png"
+    },
+    "7b7d8884-408d-42e8-065a-34bc04f61d61": {
+      "uuid": "7b7d8884-408d-42e8-065a-34bc04f61d61",
+      "name": "Nice Try! Spray",
+      "icon": "https://media.valorant-api.com/sprays/7b7d8884-408d-42e8-065a-34bc04f61d61/fulltransparenticon.png"
+    },
+    "1a343da1-49f1-a191-cf62-3ba0f1d37830": {
+      "uuid": "1a343da1-49f1-a191-cf62-3ba0f1d37830",
+      "name": "OTL Spray",
+      "icon": "https://media.valorant-api.com/sprays/1a343da1-49f1-a191-cf62-3ba0f1d37830/fulltransparenticon.png"
+    },
+    "6d1c6efb-4214-d5a8-e78b-288b684dc897": {
+      "uuid": "6d1c6efb-4214-d5a8-e78b-288b684dc897",
+      "name": "Artisan Spray",
+      "icon": "https://media.valorant-api.com/sprays/6d1c6efb-4214-d5a8-e78b-288b684dc897/fulltransparenticon.png"
+    },
+    "c24dfff4-4204-0626-4cd2-bc9d6a09cab3": {
+      "uuid": "c24dfff4-4204-0626-4cd2-bc9d6a09cab3",
+      "name": "Trust in My Healing Spray",
+      "icon": "https://media.valorant-api.com/sprays/c24dfff4-4204-0626-4cd2-bc9d6a09cab3/fulltransparenticon.png"
+    },
+    "21493303-4fb8-a31a-f1b7-1c91192289ac": {
+      "uuid": "21493303-4fb8-a31a-f1b7-1c91192289ac",
+      "name": "This is Not Fine Spray",
+      "icon": "https://media.valorant-api.com/sprays/21493303-4fb8-a31a-f1b7-1c91192289ac/fulltransparenticon.png"
+    },
+    "0e8a196f-49e6-20ae-6c26-6aafa85ec319": {
+      "uuid": "0e8a196f-49e6-20ae-6c26-6aafa85ec319",
+      "name": "To the Moon Spray",
+      "icon": "https://media.valorant-api.com/sprays/0e8a196f-49e6-20ae-6c26-6aafa85ec319/fulltransparenticon.png"
+    },
+    "05a53692-4412-6598-d007-3e9d6aa8eacb": {
+      "uuid": "05a53692-4412-6598-d007-3e9d6aa8eacb",
+      "name": "Not Impressed Spray",
+      "icon": "https://media.valorant-api.com/sprays/05a53692-4412-6598-d007-3e9d6aa8eacb/fulltransparenticon.png"
+    },
+    "b4b684bd-40bd-15b2-86b5-3b827a636090": {
+      "uuid": "b4b684bd-40bd-15b2-86b5-3b827a636090",
+      "name": "Volunteer Spray",
+      "icon": "https://media.valorant-api.com/sprays/b4b684bd-40bd-15b2-86b5-3b827a636090/fulltransparenticon.png"
+    },
+    "f77f4732-4ae4-3727-d246-27b0026b53b6": {
+      "uuid": "f77f4732-4ae4-3727-d246-27b0026b53b6",
+      "name": "Scavenger Spray",
+      "icon": "https://media.valorant-api.com/sprays/f77f4732-4ae4-3727-d246-27b0026b53b6/fulltransparenticon.png"
+    },
+    "a4a80636-4e39-3dff-9611-1b8553c36c11": {
+      "uuid": "a4a80636-4e39-3dff-9611-1b8553c36c11",
+      "name": "Mance on a Broom Go Zoom Spray",
+      "icon": "https://media.valorant-api.com/sprays/a4a80636-4e39-3dff-9611-1b8553c36c11/fulltransparenticon.png"
+    },
+    "8f67bf99-4572-de1e-a421-1d80e3713c36": {
+      "uuid": "8f67bf99-4572-de1e-a421-1d80e3713c36",
+      "name": "It's Lit Spray",
+      "icon": "https://media.valorant-api.com/sprays/8f67bf99-4572-de1e-a421-1d80e3713c36/fulltransparenticon.png"
+    },
+    "60815a79-486d-cc57-f243-e0a24a158c69": {
+      "uuid": "60815a79-486d-cc57-f243-e0a24a158c69",
+      "name": "Goldwing Spray",
+      "icon": "https://media.valorant-api.com/sprays/60815a79-486d-cc57-f243-e0a24a158c69/fulltransparenticon.png"
+    },
+    "8ad54d24-47e1-1f1b-f089-81880bf0b1ac": {
+      "uuid": "8ad54d24-47e1-1f1b-f089-81880bf0b1ac",
+      "name": "Countdown is On Spray",
+      "icon": "https://media.valorant-api.com/sprays/8ad54d24-47e1-1f1b-f089-81880bf0b1ac/fulltransparenticon.png"
+    },
+    "a4b5164e-45d7-4b4c-c89f-df8709609e0e": {
+      "uuid": "a4b5164e-45d7-4b4c-c89f-df8709609e0e",
+      "name": "No Bucky Spray",
+      "icon": "https://media.valorant-api.com/sprays/a4b5164e-45d7-4b4c-c89f-df8709609e0e/fulltransparenticon.png"
+    },
+    "0cabc8f7-44df-dc8d-fca8-16bc8669ba0b": {
+      "uuid": "0cabc8f7-44df-dc8d-fca8-16bc8669ba0b",
+      "name": "With Love, Reyna Spray",
+      "icon": "https://media.valorant-api.com/sprays/0cabc8f7-44df-dc8d-fca8-16bc8669ba0b/fulltransparenticon.png"
+    },
+    "25087535-473e-756c-c404-18ac7e55ef87": {
+      "uuid": "25087535-473e-756c-c404-18ac7e55ef87",
+      "name": "Sad Yoru Spray",
+      "icon": "https://media.valorant-api.com/sprays/25087535-473e-756c-c404-18ac7e55ef87/fulltransparenticon.png"
+    },
+    "58b7b10e-4dd4-24e7-2910-378a02c2c4e0": {
+      "uuid": "58b7b10e-4dd4-24e7-2910-378a02c2c4e0",
+      "name": "Trevor Gets It Spray",
+      "icon": "https://media.valorant-api.com/sprays/58b7b10e-4dd4-24e7-2910-378a02c2c4e0/fulltransparenticon.png"
+    },
+    "7c72a937-4c1e-3592-cf79-46b5b5ca7c63": {
+      "uuid": "7c72a937-4c1e-3592-cf79-46b5b5ca7c63",
+      "name": "Turn it Up, Rudy Spray",
+      "icon": "https://media.valorant-api.com/sprays/7c72a937-4c1e-3592-cf79-46b5b5ca7c63/fulltransparenticon.png"
+    },
+    "ccfc5b93-478c-403f-5217-2ba1657428c9": {
+      "uuid": "ccfc5b93-478c-403f-5217-2ba1657428c9",
+      "name": "Plant Plant Spray",
+      "icon": "https://media.valorant-api.com/sprays/ccfc5b93-478c-403f-5217-2ba1657428c9/fulltransparenticon.png"
+    },
+    "addef5b3-4039-e9ba-b3dc-76a83cf33151": {
+      "uuid": "addef5b3-4039-e9ba-b3dc-76a83cf33151",
+      "name": "Sugar Muffins Spray",
+      "icon": "https://media.valorant-api.com/sprays/addef5b3-4039-e9ba-b3dc-76a83cf33151/fulltransparenticon.png"
+    },
+    "67a64aa6-44a2-022d-4883-8d8587f24c3d": {
+      "uuid": "67a64aa6-44a2-022d-4883-8d8587f24c3d",
+      "name": "Take My Creds! Spray",
+      "icon": "https://media.valorant-api.com/sprays/67a64aa6-44a2-022d-4883-8d8587f24c3d/fulltransparenticon.png"
+    },
+    "ec6f800a-42d0-563e-31d3-21a8fcd391ba": {
+      "uuid": "ec6f800a-42d0-563e-31d3-21a8fcd391ba",
+      "name": "This is Really Not Fine Spray",
+      "icon": "https://media.valorant-api.com/sprays/ec6f800a-42d0-563e-31d3-21a8fcd391ba/fulltransparenticon.png"
+    },
+    "08a013c9-4f27-ac03-aa21-7e83d824d945": {
+      "uuid": "08a013c9-4f27-ac03-aa21-7e83d824d945",
+      "name": "Bad Hair Day Spray",
+      "icon": "https://media.valorant-api.com/sprays/08a013c9-4f27-ac03-aa21-7e83d824d945/fulltransparenticon.png"
+    },
+    "2f3e8a40-4bdc-0718-3517-978da1bf675a": {
+      "uuid": "2f3e8a40-4bdc-0718-3517-978da1bf675a",
+      "name": "Sweetest Match Spray",
+      "icon": "https://media.valorant-api.com/sprays/2f3e8a40-4bdc-0718-3517-978da1bf675a/fulltransparenticon.png"
+    },
+    "34e36ad8-4b3b-0e30-7ca9-c6bcce709e0f": {
+      "uuid": "34e36ad8-4b3b-0e30-7ca9-c6bcce709e0f",
+      "name": "Head Slapper Spray",
+      "icon": "https://media.valorant-api.com/sprays/34e36ad8-4b3b-0e30-7ca9-c6bcce709e0f/fulltransparenticon.png"
+    },
+    "0dc378e3-4936-7c9f-a1ba-fd90999b3a10": {
+      "uuid": "0dc378e3-4936-7c9f-a1ba-fd90999b3a10",
+      "name": "A Prime Valentine's Gift Spray",
+      "icon": "https://media.valorant-api.com/sprays/0dc378e3-4936-7c9f-a1ba-fd90999b3a10/fulltransparenticon.png"
+    },
+    "8ada4719-4769-159c-cb94-44ad49834b25": {
+      "uuid": "8ada4719-4769-159c-cb94-44ad49834b25",
+      "name": "Hydrodip Spray",
+      "icon": "https://media.valorant-api.com/sprays/8ada4719-4769-159c-cb94-44ad49834b25/fulltransparenticon.png"
+    },
+    "aa658907-4bb8-07b9-c17e-828d62b8ce78": {
+      "uuid": "aa658907-4bb8-07b9-c17e-828d62b8ce78",
+      "name": "Jett-Bot Spray",
+      "icon": "https://media.valorant-api.com/sprays/aa658907-4bb8-07b9-c17e-828d62b8ce78/fulltransparenticon.png"
+    },
+    "1f6bab1f-4459-fbd0-ac15-27a993144f21": {
+      "uuid": "1f6bab1f-4459-fbd0-ac15-27a993144f21",
+      "name": "Lost Connection Spray",
+      "icon": "https://media.valorant-api.com/sprays/1f6bab1f-4459-fbd0-ac15-27a993144f21/fulltransparenticon.png"
+    },
+    "16c43be1-452b-8bbc-a9f2-629ded0697dd": {
+      "uuid": "16c43be1-452b-8bbc-a9f2-629ded0697dd",
+      "name": "Agent Down Spray",
+      "icon": "https://media.valorant-api.com/sprays/16c43be1-452b-8bbc-a9f2-629ded0697dd/fulltransparenticon.png"
+    },
+    "8b820b5b-4988-4385-610e-d7923724de68": {
+      "uuid": "8b820b5b-4988-4385-610e-d7923724de68",
+      "name": "What's That? Spray",
+      "icon": "https://media.valorant-api.com/sprays/8b820b5b-4988-4385-610e-d7923724de68/fulltransparenticon.png"
+    },
+    "a8ea5a21-4dba-be95-6839-89ba93be84b6": {
+      "uuid": "a8ea5a21-4dba-be95-6839-89ba93be84b6",
+      "name": "Potato Aim Spray",
+      "icon": "https://media.valorant-api.com/sprays/a8ea5a21-4dba-be95-6839-89ba93be84b6/fulltransparenticon.png"
+    },
+    "e1f12119-480e-5979-a1c3-b98fc17f10a9": {
+      "uuid": "e1f12119-480e-5979-a1c3-b98fc17f10a9",
+      "name": "Missed a Spot Spray",
+      "icon": "https://media.valorant-api.com/sprays/e1f12119-480e-5979-a1c3-b98fc17f10a9/fulltransparenticon.png"
+    },
+    "bf750412-4514-9e90-c279-feb8919d3824": {
+      "uuid": "bf750412-4514-9e90-c279-feb8919d3824",
+      "name": "Shoot Here Spray",
+      "icon": "https://media.valorant-api.com/sprays/bf750412-4514-9e90-c279-feb8919d3824/fulltransparenticon.png"
+    },
+    "b36b1182-4cf2-ecbf-3146-fbac3ee73348": {
+      "uuid": "b36b1182-4cf2-ecbf-3146-fbac3ee73348",
+      "name": "Use Ult Spray",
+      "icon": "https://media.valorant-api.com/sprays/b36b1182-4cf2-ecbf-3146-fbac3ee73348/fulltransparenticon.png"
+    },
+    "f165025c-4113-9b61-4465-ed956e4533e2": {
+      "uuid": "f165025c-4113-9b61-4465-ed956e4533e2",
+      "name": "Woke Up Thinking Lineups Spray",
+      "icon": "https://media.valorant-api.com/sprays/f165025c-4113-9b61-4465-ed956e4533e2/fulltransparenticon.png"
+    },
+    "68d4f0b2-48fe-2514-2924-36b4a2cf5e62": {
+      "uuid": "68d4f0b2-48fe-2514-2924-36b4a2cf5e62",
+      "name": "Bruno's Happy Dance Spray",
+      "icon": "https://media.valorant-api.com/sprays/68d4f0b2-48fe-2514-2924-36b4a2cf5e62/fulltransparenticon.png"
+    },
+    "e4a8fb80-46ae-90ef-c633-0ead0f011001": {
+      "uuid": "e4a8fb80-46ae-90ef-c633-0ead0f011001",
+      "name": "Hang Loose Spray",
+      "icon": "https://media.valorant-api.com/sprays/e4a8fb80-46ae-90ef-c633-0ead0f011001/fulltransparenticon.png"
+    },
+    "84ba844f-4240-8c16-4851-2ba490104728": {
+      "uuid": "84ba844f-4240-8c16-4851-2ba490104728",
+      "name": "Crying Mance Spray",
+      "icon": "https://media.valorant-api.com/sprays/84ba844f-4240-8c16-4851-2ba490104728/fulltransparenticon.png"
+    },
+    "5f5725b2-40b3-a5f6-0e91-01845c25e534": {
+      "uuid": "5f5725b2-40b3-a5f6-0e91-01845c25e534",
+      "name": "All Aboard Spray",
+      "icon": "https://media.valorant-api.com/sprays/5f5725b2-40b3-a5f6-0e91-01845c25e534/fulltransparenticon.png"
+    },
+    "15e84d29-480e-910b-53c3-ab85b8ca852a": {
+      "uuid": "15e84d29-480e-910b-53c3-ab85b8ca852a",
+      "name": "Matcha Break Spray",
+      "icon": "https://media.valorant-api.com/sprays/15e84d29-480e-910b-53c3-ab85b8ca852a/fulltransparenticon.png"
+    },
+    "b83adc4b-4566-6601-c460-039e9e78ac3f": {
+      "uuid": "b83adc4b-4566-6601-c460-039e9e78ac3f",
+      "name": "Pros Don't Fake Spray",
+      "icon": "https://media.valorant-api.com/sprays/b83adc4b-4566-6601-c460-039e9e78ac3f/fulltransparenticon.png"
+    },
+    "1521f1a0-40e9-bc68-e2f0-87b053418b82": {
+      "uuid": "1521f1a0-40e9-bc68-e2f0-87b053418b82",
+      "name": "Sheeeeesh Spray",
+      "icon": "https://media.valorant-api.com/sprays/1521f1a0-40e9-bc68-e2f0-87b053418b82/fulltransparenticon.png"
+    },
+    "d725e767-4d73-a5a6-bb37-8c82cf3555cc": {
+      "uuid": "d725e767-4d73-a5a6-bb37-8c82cf3555cc",
+      "name": "Slipping Away Spray",
+      "icon": "https://media.valorant-api.com/sprays/d725e767-4d73-a5a6-bb37-8c82cf3555cc/fulltransparenticon.png"
+    },
+    "c97f9381-4784-e244-dffa-9bbe2b359012": {
+      "uuid": "c97f9381-4784-e244-dffa-9bbe2b359012",
+      "name": "Stop! Spray",
+      "icon": "https://media.valorant-api.com/sprays/c97f9381-4784-e244-dffa-9bbe2b359012/fulltransparenticon.png"
+    },
+    "81a09bea-4868-454b-5732-3f83b397447f": {
+      "uuid": "81a09bea-4868-454b-5732-3f83b397447f",
+      "name": "Tactibear's Balalaika Spray",
+      "icon": "https://media.valorant-api.com/sprays/81a09bea-4868-454b-5732-3f83b397447f/fulltransparenticon.png"
+    },
+    "9c8143d5-467a-5ffa-1dde-f6b35411e15d": {
+      "uuid": "9c8143d5-467a-5ffa-1dde-f6b35411e15d",
+      "name": "Take a Bow Spray",
+      "icon": "https://media.valorant-api.com/sprays/9c8143d5-467a-5ffa-1dde-f6b35411e15d/fulltransparenticon.png"
+    },
+    "2290b465-491f-2566-aa81-af83fa3e3036": {
+      "uuid": "2290b465-491f-2566-aa81-af83fa3e3036",
+      "name": "Many Thanks Spray",
+      "icon": "https://media.valorant-api.com/sprays/2290b465-491f-2566-aa81-af83fa3e3036/fulltransparenticon.png"
+    },
+    "3d79a7d2-4883-4394-13a5-f5ba3f16d86f": {
+      "uuid": "3d79a7d2-4883-4394-13a5-f5ba3f16d86f",
+      "name": "Splitting Melons Spray",
+      "icon": "https://media.valorant-api.com/sprays/3d79a7d2-4883-4394-13a5-f5ba3f16d86f/fulltransparenticon.png"
+    },
+    "7f36b59b-436a-f72b-1560-ec83c5f0a72f": {
+      "uuid": "7f36b59b-436a-f72b-1560-ec83c5f0a72f",
+      "name": "#SAVEWIDEJOY Spray",
+      "icon": "https://media.valorant-api.com/sprays/7f36b59b-436a-f72b-1560-ec83c5f0a72f/fulltransparenticon.png"
+    },
+    "beeafc3b-49f8-d5e6-dbd4-b791c9ce91fe": {
+      "uuid": "beeafc3b-49f8-d5e6-dbd4-b791c9ce91fe",
+      "name": "Epilogue: #SAVEWIDEJOY Spray",
+      "icon": "https://media.valorant-api.com/sprays/beeafc3b-49f8-d5e6-dbd4-b791c9ce91fe/fulltransparenticon.png"
+    },
+    "f9bcf120-42b6-6986-2acd-6aa87bab4089": {
+      "uuid": "f9bcf120-42b6-6986-2acd-6aa87bab4089",
+      "name": "VCT 2021 Spark Spray",
+      "icon": "https://media.valorant-api.com/sprays/f9bcf120-42b6-6986-2acd-6aa87bab4089/fulltransparenticon.png"
+    },
+    "d8cfce74-4bb8-42b2-022e-9dbf9d648823": {
+      "uuid": "d8cfce74-4bb8-42b2-022e-9dbf9d648823",
+      "name": "Fist Bump Spray",
+      "icon": "https://media.valorant-api.com/sprays/d8cfce74-4bb8-42b2-022e-9dbf9d648823/fulltransparenticon.png"
+    },
+    "5e5fd29a-4e83-40fa-0012-e08470dacdd7": {
+      "uuid": "5e5fd29a-4e83-40fa-0012-e08470dacdd7",
+      "name": "Team Ace // Jett Spray",
+      "icon": "https://media.valorant-api.com/sprays/5e5fd29a-4e83-40fa-0012-e08470dacdd7/fulltransparenticon.png"
+    },
+    "e3d197d4-458b-7e60-dbbf-378788cf4863": {
+      "uuid": "e3d197d4-458b-7e60-dbbf-378788cf4863",
+      "name": "Team Ace // Phoenix Spray",
+      "icon": "https://media.valorant-api.com/sprays/e3d197d4-458b-7e60-dbbf-378788cf4863/fulltransparenticon.png"
+    },
+    "b57067d5-4d13-cd4d-7493-d386a2fc1cbb": {
+      "uuid": "b57067d5-4d13-cd4d-7493-d386a2fc1cbb",
+      "name": "Team Ace // Raze Spray",
+      "icon": "https://media.valorant-api.com/sprays/b57067d5-4d13-cd4d-7493-d386a2fc1cbb/fulltransparenticon.png"
+    },
+    "87a73941-4739-acbf-5c94-63ab07cd68d6": {
+      "uuid": "87a73941-4739-acbf-5c94-63ab07cd68d6",
+      "name": "Team Ace // Reyna Spray",
+      "icon": "https://media.valorant-api.com/sprays/87a73941-4739-acbf-5c94-63ab07cd68d6/fulltransparenticon.png"
+    },
+    "db44205d-4b22-cf8a-cdee-a49fcf754ce3": {
+      "uuid": "db44205d-4b22-cf8a-cdee-a49fcf754ce3",
+      "name": "Team Ace // Yoru Spray",
+      "icon": "https://media.valorant-api.com/sprays/db44205d-4b22-cf8a-cdee-a49fcf754ce3/fulltransparenticon.png"
+    },
+    "b520005e-42cf-169c-ab30-a7a60d7f29f1": {
+      "uuid": "b520005e-42cf-169c-ab30-a7a60d7f29f1",
+      "name": "GG Shooter Spray",
+      "icon": "https://media.valorant-api.com/sprays/b520005e-42cf-169c-ab30-a7a60d7f29f1/fulltransparenticon.png"
+    },
+    "6983ae7c-4cb5-835c-8f62-b7affbaae20e": {
+      "uuid": "6983ae7c-4cb5-835c-8f62-b7affbaae20e",
+      "name": "GLHF Spray",
+      "icon": "https://media.valorant-api.com/sprays/6983ae7c-4cb5-835c-8f62-b7affbaae20e/fulltransparenticon.png"
+    },
+    "85637987-4961-177a-28f0-f3acf8facb6a": {
+      "uuid": "85637987-4961-177a-28f0-f3acf8facb6a",
+      "name": "Googly Moogly Spray",
+      "icon": "https://media.valorant-api.com/sprays/85637987-4961-177a-28f0-f3acf8facb6a/fulltransparenticon.png"
+    },
+    "0abec7c8-4fc7-4fc2-af4c-22ad4802b937": {
+      "uuid": "0abec7c8-4fc7-4fc2-af4c-22ad4802b937",
+      "name": "KAY/O Spray",
+      "icon": "https://media.valorant-api.com/sprays/0abec7c8-4fc7-4fc2-af4c-22ad4802b937/fulltransparenticon.png"
+    },
+    "e1f79c8d-4dd1-0541-e5f1-75a5c1e8e7cd": {
+      "uuid": "e1f79c8d-4dd1-0541-e5f1-75a5c1e8e7cd",
+      "name": "Drained Spray",
+      "icon": "https://media.valorant-api.com/sprays/e1f79c8d-4dd1-0541-e5f1-75a5c1e8e7cd/fulltransparenticon.png"
+    },
+    "4c893010-4967-131a-a9a5-789483dbd7a0": {
+      "uuid": "4c893010-4967-131a-a9a5-789483dbd7a0",
+      "name": "Training Bot Spray",
+      "icon": "https://media.valorant-api.com/sprays/4c893010-4967-131a-a9a5-789483dbd7a0/fulltransparenticon.png"
+    },
+    "7a50c4ed-46f5-7c80-ff43-3ea22e40aef2": {
+      "uuid": "7a50c4ed-46f5-7c80-ff43-3ea22e40aef2",
+      "name": "Wild Life Spray",
+      "icon": "https://media.valorant-api.com/sprays/7a50c4ed-46f5-7c80-ff43-3ea22e40aef2/fulltransparenticon.png"
+    },
+    "7fb920f1-43af-6172-18a3-36a38eeba039": {
+      "uuid": "7fb920f1-43af-6172-18a3-36a38eeba039",
+      "name": "On Your Trail Spray",
+      "icon": "https://media.valorant-api.com/sprays/7fb920f1-43af-6172-18a3-36a38eeba039/fulltransparenticon.png"
+    },
+    "a6779e98-4998-bf8a-8ca6-a783684a7834": {
+      "uuid": "a6779e98-4998-bf8a-8ca6-a783684a7834",
+      "name": "Skye Spray",
+      "icon": "https://media.valorant-api.com/sprays/a6779e98-4998-bf8a-8ca6-a783684a7834/fulltransparenticon.png"
+    },
+    "e8754a6e-4ec5-3d1c-2ed9-e0a5ff9f1271": {
+      "uuid": "e8754a6e-4ec5-3d1c-2ed9-e0a5ff9f1271",
+      "name": "Cypher Spray",
+      "icon": "https://media.valorant-api.com/sprays/e8754a6e-4ec5-3d1c-2ed9-e0a5ff9f1271/fulltransparenticon.png"
+    },
+    "26df3792-4540-ce9b-6048-11ab72bc4f94": {
+      "uuid": "26df3792-4540-ce9b-6048-11ab72bc4f94",
+      "name": "The Seeker Spray",
+      "icon": "https://media.valorant-api.com/sprays/26df3792-4540-ce9b-6048-11ab72bc4f94/fulltransparenticon.png"
+    },
+    "db1dcdc0-4473-5598-05e4-d4859fa9d340": {
+      "uuid": "db1dcdc0-4473-5598-05e4-d4859fa9d340",
+      "name": "I See You Spray",
+      "icon": "https://media.valorant-api.com/sprays/db1dcdc0-4473-5598-05e4-d4859fa9d340/fulltransparenticon.png"
+    },
+    "706200b9-40bd-8d93-0442-ff94f6a0fd6e": {
+      "uuid": "706200b9-40bd-8d93-0442-ff94f6a0fd6e",
+      "name": "Lethal Crosshair Spray",
+      "icon": "https://media.valorant-api.com/sprays/706200b9-40bd-8d93-0442-ff94f6a0fd6e/fulltransparenticon.png"
+    },
+    "8d8179b0-449a-6856-857e-dc97de7b2ace": {
+      "uuid": "8d8179b0-449a-6856-857e-dc97de7b2ace",
+      "name": "Calculated Spray",
+      "icon": "https://media.valorant-api.com/sprays/8d8179b0-449a-6856-857e-dc97de7b2ace/fulltransparenticon.png"
+    },
+    "1d63d0b1-4946-a76f-c280-aa8ba3f94772": {
+      "uuid": "1d63d0b1-4946-a76f-c280-aa8ba3f94772",
+      "name": "Sova Spray",
+      "icon": "https://media.valorant-api.com/sprays/1d63d0b1-4946-a76f-c280-aa8ba3f94772/fulltransparenticon.png"
+    },
+    "f61f23ba-4f5a-0e31-e7eb-ccbc18700676": {
+      "uuid": "f61f23ba-4f5a-0e31-e7eb-ccbc18700676",
+      "name": "Take Flight Spray",
+      "icon": "https://media.valorant-api.com/sprays/f61f23ba-4f5a-0e31-e7eb-ccbc18700676/fulltransparenticon.png"
+    },
+    "60384125-47dd-134f-cd80-fe861830f63c": {
+      "uuid": "60384125-47dd-134f-cd80-fe861830f63c",
+      "name": "On Target Spray",
+      "icon": "https://media.valorant-api.com/sprays/60384125-47dd-134f-cd80-fe861830f63c/fulltransparenticon.png"
+    },
+    "880d5de5-4268-769d-5407-55921ad2db12": {
+      "uuid": "880d5de5-4268-769d-5407-55921ad2db12",
+      "name": "Prime Brick Spray",
+      "icon": "https://media.valorant-api.com/sprays/880d5de5-4268-769d-5407-55921ad2db12/fulltransparenticon.png"
+    },
+    "17678625-4f24-6bde-58fb-7198778e4fdb": {
+      "uuid": "17678625-4f24-6bde-58fb-7198778e4fdb",
+      "name": "Killjoy Spray",
+      "icon": "https://media.valorant-api.com/sprays/17678625-4f24-6bde-58fb-7198778e4fdb/fulltransparenticon.png"
+    },
+    "b11b4890-4e7f-cf5f-be7c-9c85ecd50868": {
+      "uuid": "b11b4890-4e7f-cf5f-be7c-9c85ecd50868",
+      "name": "Variable Removed Spray",
+      "icon": "https://media.valorant-api.com/sprays/b11b4890-4e7f-cf5f-be7c-9c85ecd50868/fulltransparenticon.png"
+    },
+    "0a20236d-47d4-e9e6-adb1-a69ed3fdb1cd": {
+      "uuid": "0a20236d-47d4-e9e6-adb1-a69ed3fdb1cd",
+      "name": "Don't Cross Me Spray",
+      "icon": "https://media.valorant-api.com/sprays/0a20236d-47d4-e9e6-adb1-a69ed3fdb1cd/fulltransparenticon.png"
+    },
+    "9c65bbe6-41da-c50c-be81-839214eede7c": {
+      "uuid": "9c65bbe6-41da-c50c-be81-839214eede7c",
+      "name": "Lights Out Spray",
+      "icon": "https://media.valorant-api.com/sprays/9c65bbe6-41da-c50c-be81-839214eede7c/fulltransparenticon.png"
+    },
+    "efd0d001-4edb-34eb-c05c-139817d4840a": {
+      "uuid": "efd0d001-4edb-34eb-c05c-139817d4840a",
+      "name": "Lucky Tiger Spray",
+      "icon": "https://media.valorant-api.com/sprays/efd0d001-4edb-34eb-c05c-139817d4840a/fulltransparenticon.png"
+    },
+    "cd9986f8-4473-914d-7918-caa21d23710f": {
+      "uuid": "cd9986f8-4473-914d-7918-caa21d23710f",
+      "name": "Celestial Spray",
+      "icon": "https://media.valorant-api.com/sprays/cd9986f8-4473-914d-7918-caa21d23710f/fulltransparenticon.png"
+    },
+    "562a64d8-483c-5853-4e7a-eea5ca95e3ce": {
+      "uuid": "562a64d8-483c-5853-4e7a-eea5ca95e3ce",
+      "name": "Magepunk, Ep 3 Spray",
+      "icon": "https://media.valorant-api.com/sprays/562a64d8-483c-5853-4e7a-eea5ca95e3ce/fulltransparenticon.png"
+    },
+    "f677065c-449d-dd91-78ef-6fa7d95ded8d": {
+      "uuid": "f677065c-449d-dd91-78ef-6fa7d95ded8d",
+      "name": "Flames in my Veins Spray",
+      "icon": "https://media.valorant-api.com/sprays/f677065c-449d-dd91-78ef-6fa7d95ded8d/fulltransparenticon.png"
+    },
+    "40cc1645-43f4-4db3-ebb2-fdb46f8e9bf3": {
+      "uuid": "40cc1645-43f4-4db3-ebb2-fdb46f8e9bf3",
+      "name": "Just Business Spray",
+      "icon": "https://media.valorant-api.com/sprays/40cc1645-43f4-4db3-ebb2-fdb46f8e9bf3/fulltransparenticon.png"
+    },
+    "8f7ef66d-49f2-867f-2ff8-1391a23c89d0": {
+      "uuid": "8f7ef66d-49f2-867f-2ff8-1391a23c89d0",
+      "name": "Give Back Spray",
+      "icon": "https://media.valorant-api.com/sprays/8f7ef66d-49f2-867f-2ff8-1391a23c89d0/fulltransparenticon.png"
+    },
+    "2d9be381-4686-b392-310e-8bb2a6707f7e": {
+      "uuid": "2d9be381-4686-b392-310e-8bb2a6707f7e",
+      "name": "Pity Party Spray",
+      "icon": "https://media.valorant-api.com/sprays/2d9be381-4686-b392-310e-8bb2a6707f7e/fulltransparenticon.png"
+    },
+    "7c3771b2-4ea7-9188-bfd4-c08feeca3984": {
+      "uuid": "7c3771b2-4ea7-9188-bfd4-c08feeca3984",
+      "name": "Tag! You're Dead! Spray",
+      "icon": "https://media.valorant-api.com/sprays/7c3771b2-4ea7-9188-bfd4-c08feeca3984/fulltransparenticon.png"
+    },
+    "63ce8a2b-40c9-f8c7-e15d-77b6e310dfbe": {
+      "uuid": "63ce8a2b-40c9-f8c7-e15d-77b6e310dfbe",
+      "name": "Nice One Spray",
+      "icon": "https://media.valorant-api.com/sprays/63ce8a2b-40c9-f8c7-e15d-77b6e310dfbe/fulltransparenticon.png"
+    },
+    "cd3d4242-4282-9210-f34f-9998e8b1f9e0": {
+      "uuid": "cd3d4242-4282-9210-f34f-9998e8b1f9e0",
+      "name": "Octo Attack 2 Spray",
+      "icon": "https://media.valorant-api.com/sprays/cd3d4242-4282-9210-f34f-9998e8b1f9e0/displayicon.png"
+    },
+    "145dc009-4f60-0872-0f81-69957d520317": {
+      "uuid": "145dc009-4f60-0872-0f81-69957d520317",
+      "name": "Pick Your Poison Spray",
+      "icon": "https://media.valorant-api.com/sprays/145dc009-4f60-0872-0f81-69957d520317/fulltransparenticon.png"
+    },
+    "9eaaec2b-4a81-5691-9a14-2684ab242949": {
+      "uuid": "9eaaec2b-4a81-5691-9a14-2684ab242949",
+      "name": "Deadly Venom Spray",
+      "icon": "https://media.valorant-api.com/sprays/9eaaec2b-4a81-5691-9a14-2684ab242949/fulltransparenticon.png"
+    },
+    "36ea48c6-4802-0d7c-ae97-d0a20db12a1d": {
+      "uuid": "36ea48c6-4802-0d7c-ae97-d0a20db12a1d",
+      "name": "Viper Spray",
+      "icon": "https://media.valorant-api.com/sprays/36ea48c6-4802-0d7c-ae97-d0a20db12a1d/fulltransparenticon.png"
+    },
+    "47ec7318-4797-56d6-79ac-86ad59081881": {
+      "uuid": "47ec7318-4797-56d6-79ac-86ad59081881",
+      "name": "Phoenix Spray",
+      "icon": "https://media.valorant-api.com/sprays/47ec7318-4797-56d6-79ac-86ad59081881/fulltransparenticon.png"
+    },
+    "13cc701a-4321-e105-3b66-01affe7da31a": {
+      "uuid": "13cc701a-4321-e105-3b66-01affe7da31a",
+      "name": "Claim the Crown Spray",
+      "icon": "https://media.valorant-api.com/sprays/13cc701a-4321-e105-3b66-01affe7da31a/fulltransparenticon.png"
+    },
+    "1024275a-4673-8d84-e796-dbbabf611614": {
+      "uuid": "1024275a-4673-8d84-e796-dbbabf611614",
+      "name": "Spotlight Spray",
+      "icon": "https://media.valorant-api.com/sprays/1024275a-4673-8d84-e796-dbbabf611614/fulltransparenticon.png"
+    },
+    "476820f7-4c57-41ca-ebb8-54a2828b4371": {
+      "uuid": "476820f7-4c57-41ca-ebb8-54a2828b4371",
+      "name": "Too Easy Spray",
+      "icon": "https://media.valorant-api.com/sprays/476820f7-4c57-41ca-ebb8-54a2828b4371/fulltransparenticon.png"
+    },
+    "e428e9d5-4912-ffac-031b-f293375cd14d": {
+      "uuid": "e428e9d5-4912-ffac-031b-f293375cd14d",
+      "name": "Protocol 781-A Spray",
+      "icon": "https://media.valorant-api.com/sprays/e428e9d5-4912-ffac-031b-f293375cd14d/fulltransparenticon.png"
+    },
+    "3650047b-416a-589e-c28e-dea10e89ef59": {
+      "uuid": "3650047b-416a-589e-c28e-dea10e89ef59",
+      "name": "Astral Plane Spray",
+      "icon": "https://media.valorant-api.com/sprays/3650047b-416a-589e-c28e-dea10e89ef59/displayicon.png"
+    },
+    "b58494ef-4b11-64e2-1d36-36853a74ad0c": {
+      "uuid": "b58494ef-4b11-64e2-1d36-36853a74ad0c",
+      "name": "Astra Spray",
+      "icon": "https://media.valorant-api.com/sprays/b58494ef-4b11-64e2-1d36-36853a74ad0c/fulltransparenticon.png"
+    },
+    "15c876dd-4961-54ec-fbe0-d2b3a36f90e2": {
+      "uuid": "15c876dd-4961-54ec-fbe0-d2b3a36f90e2",
+      "name": "Galaxy Brain Spray",
+      "icon": "https://media.valorant-api.com/sprays/15c876dd-4961-54ec-fbe0-d2b3a36f90e2/fulltransparenticon.png"
+    },
+    "eece70be-4f84-facb-49b0-fe95290eff67": {
+      "uuid": "eece70be-4f84-facb-49b0-fe95290eff67",
+      "name": "Salt Shaker Spray",
+      "icon": "https://media.valorant-api.com/sprays/eece70be-4f84-facb-49b0-fe95290eff67/fulltransparenticon.png"
+    },
+    "be343d37-465e-1878-e6d0-9aba467d7cca": {
+      "uuid": "be343d37-465e-1878-e6d0-9aba467d7cca",
+      "name": "Brimstone Spray",
+      "icon": "https://media.valorant-api.com/sprays/be343d37-465e-1878-e6d0-9aba467d7cca/fulltransparenticon.png"
+    },
+    "b16024b9-4f5e-6dfa-c229-7d9c620c24d0": {
+      "uuid": "b16024b9-4f5e-6dfa-c229-7d9c620c24d0",
+      "name": "The Big One Spray",
+      "icon": "https://media.valorant-api.com/sprays/b16024b9-4f5e-6dfa-c229-7d9c620c24d0/fulltransparenticon.png"
+    },
+    "50bc437d-46c4-e58f-e479-848becfb48fd": {
+      "uuid": "50bc437d-46c4-e58f-e479-848becfb48fd",
+      "name": "Getting Reps Spray",
+      "icon": "https://media.valorant-api.com/sprays/50bc437d-46c4-e58f-e479-848becfb48fd/fulltransparenticon.png"
+    },
+    "47575563-4d43-96fb-1586-849d35c7ddd5": {
+      "uuid": "47575563-4d43-96fb-1586-849d35c7ddd5",
+      "name": "Loose Cannon Spray",
+      "icon": "https://media.valorant-api.com/sprays/47575563-4d43-96fb-1586-849d35c7ddd5/fulltransparenticon.png"
+    },
+    "290565e7-4540-5764-31da-758846dc2a5a": {
+      "uuid": "290565e7-4540-5764-31da-758846dc2a5a",
+      "name": "VALORANT GO! Vol. 1 Cypher Spray",
+      "icon": "https://media.valorant-api.com/sprays/290565e7-4540-5764-31da-758846dc2a5a/fulltransparenticon.png"
+    },
+    "31ba7f82-4fcb-4cbb-a719-06a3beef8603": {
+      "uuid": "31ba7f82-4fcb-4cbb-a719-06a3beef8603",
+      "name": "VALORANT GO! Vol. 1 Jett Spray",
+      "icon": "https://media.valorant-api.com/sprays/31ba7f82-4fcb-4cbb-a719-06a3beef8603/fulltransparenticon.png"
+    },
+    "fef66645-4e35-ff38-1b7c-799dd5fc7468": {
+      "uuid": "fef66645-4e35-ff38-1b7c-799dd5fc7468",
+      "name": "VALORANT GO! Vol. 1 Killjoy Spray",
+      "icon": "https://media.valorant-api.com/sprays/fef66645-4e35-ff38-1b7c-799dd5fc7468/fulltransparenticon.png"
+    },
+    "02f4c1db-46bb-a572-e830-0886edbb0981": {
+      "uuid": "02f4c1db-46bb-a572-e830-0886edbb0981",
+      "name": "VALORANT GO! Vol. 1 Reyna Spray",
+      "icon": "https://media.valorant-api.com/sprays/02f4c1db-46bb-a572-e830-0886edbb0981/fulltransparenticon.png"
+    },
+    "40222bb5-4fce-9320-f4f1-95861df83c47": {
+      "uuid": "40222bb5-4fce-9320-f4f1-95861df83c47",
+      "name": "VALORANT GO! Vol. 1 Sage Spray",
+      "icon": "https://media.valorant-api.com/sprays/40222bb5-4fce-9320-f4f1-95861df83c47/fulltransparenticon.png"
+    },
+    "a7e1a9b6-4ab5-e6f7-e5fe-bc86f87b44ee": {
+      "uuid": "a7e1a9b6-4ab5-e6f7-e5fe-bc86f87b44ee",
+      "name": "VALORANT GO! Vol. 2 Phoenix Spray",
+      "icon": "https://media.valorant-api.com/sprays/a7e1a9b6-4ab5-e6f7-e5fe-bc86f87b44ee/fulltransparenticon.png"
+    },
+    "09786b0a-4c3e-5ba8-46ab-c49255620a5f": {
+      "uuid": "09786b0a-4c3e-5ba8-46ab-c49255620a5f",
+      "name": "VALORANT GO! Vol. 2 Raze Spray",
+      "icon": "https://media.valorant-api.com/sprays/09786b0a-4c3e-5ba8-46ab-c49255620a5f/fulltransparenticon.png"
+    },
+    "7b0e0c8d-4f91-2a76-19b9-079def2fa843": {
+      "uuid": "7b0e0c8d-4f91-2a76-19b9-079def2fa843",
+      "name": "VALORANT GO! Vol. 2 Sova Spray",
+      "icon": "https://media.valorant-api.com/sprays/7b0e0c8d-4f91-2a76-19b9-079def2fa843/fulltransparenticon.png"
+    },
+    "ea087a08-4b9f-bd0d-15a5-d3ba09c4c381": {
+      "uuid": "ea087a08-4b9f-bd0d-15a5-d3ba09c4c381",
+      "name": "VALORANT GO! Vol. 2 Viper Spray",
+      "icon": "https://media.valorant-api.com/sprays/ea087a08-4b9f-bd0d-15a5-d3ba09c4c381/fulltransparenticon.png"
+    },
+    "40ff9251-4c11-b729-1f27-088ee032e7ce": {
+      "uuid": "40ff9251-4c11-b729-1f27-088ee032e7ce",
+      "name": "VALORANT GO! Vol. 2 Yoru Spray",
+      "icon": "https://media.valorant-api.com/sprays/40ff9251-4c11-b729-1f27-088ee032e7ce/fulltransparenticon.png"
+    },
+    "c495e583-42d5-e9fe-c460-9f946ff369f6": {
+      "uuid": "c495e583-42d5-e9fe-c460-9f946ff369f6",
+      "name": "Origin Spray",
+      "icon": "https://media.valorant-api.com/sprays/c495e583-42d5-e9fe-c460-9f946ff369f6/fulltransparenticon.png"
+    },
+    "2e37f837-425d-45f2-22a2-71a9af5c118f": {
+      "uuid": "2e37f837-425d-45f2-22a2-71a9af5c118f",
+      "name": "Glitchpop Spray",
+      "icon": "https://media.valorant-api.com/sprays/2e37f837-425d-45f2-22a2-71a9af5c118f/fulltransparenticon.png"
+    },
+    "8dbcccdf-44fc-58ec-5c2a-b68530c4a039": {
+      "uuid": "8dbcccdf-44fc-58ec-5c2a-b68530c4a039",
+      "name": "Glitchpop, EP 2 Spray",
+      "icon": "https://media.valorant-api.com/sprays/8dbcccdf-44fc-58ec-5c2a-b68530c4a039/fulltransparenticon.png"
+    },
+    "369c7cda-4133-b3ab-2c8b-3e8f371cb181": {
+      "uuid": "369c7cda-4133-b3ab-2c8b-3e8f371cb181",
+      "name": "Singularity Spray",
+      "icon": "https://media.valorant-api.com/sprays/369c7cda-4133-b3ab-2c8b-3e8f371cb181/fulltransparenticon.png"
+    },
+    "70fa1a13-4964-6ef8-62ce-c4827a3d8f70": {
+      "uuid": "70fa1a13-4964-6ef8-62ce-c4827a3d8f70",
+      "name": "Forsaken Spray",
+      "icon": "https://media.valorant-api.com/sprays/70fa1a13-4964-6ef8-62ce-c4827a3d8f70/fulltransparenticon.png"
+    },
+    "021c99dd-4a43-01fb-70df-fc83cd0f0560": {
+      "uuid": "021c99dd-4a43-01fb-70df-fc83cd0f0560",
+      "name": "Ruin Spray",
+      "icon": "https://media.valorant-api.com/sprays/021c99dd-4a43-01fb-70df-fc83cd0f0560/fulltransparenticon.png"
+    },
+    "65239071-41a8-34d2-cf45-bc8da80b42f0": {
+      "uuid": "65239071-41a8-34d2-cf45-bc8da80b42f0",
+      "name": "Prime//2.0 Spray",
+      "icon": "https://media.valorant-api.com/sprays/65239071-41a8-34d2-cf45-bc8da80b42f0/fulltransparenticon.png"
+    },
+    "ce90906d-40da-367b-4a7a-e7a692516ee1": {
+      "uuid": "ce90906d-40da-367b-4a7a-e7a692516ee1",
+      "name": "Ruination Spray",
+      "icon": "https://media.valorant-api.com/sprays/ce90906d-40da-367b-4a7a-e7a692516ee1/fulltransparenticon.png"
+    },
+    "405beaef-4c2d-df2d-fe9d-689d59d08e65": {
+      "uuid": "405beaef-4c2d-df2d-fe9d-689d59d08e65",
+      "name": "Magepunk Spray",
+      "icon": "https://media.valorant-api.com/sprays/405beaef-4c2d-df2d-fe9d-689d59d08e65/fulltransparenticon.png"
+    },
+    "9a657204-4376-ed61-ad3e-0a8b7bbecd18": {
+      "uuid": "9a657204-4376-ed61-ad3e-0a8b7bbecd18",
+      "name": "Spline Spray",
+      "icon": "https://media.valorant-api.com/sprays/9a657204-4376-ed61-ad3e-0a8b7bbecd18/displayicon.png"
+    },
+    "444464f1-445f-8f75-3c8d-a7bd8f24e654": {
+      "uuid": "444464f1-445f-8f75-3c8d-a7bd8f24e654",
+      "name": "Ion Spray",
+      "icon": "https://media.valorant-api.com/sprays/444464f1-445f-8f75-3c8d-a7bd8f24e654/fulltransparenticon.png"
+    },
+    "1091d2cc-430b-56ca-a82b-279b70026193": {
+      "uuid": "1091d2cc-430b-56ca-a82b-279b70026193",
+      "name": "Oni Spray",
+      "icon": "https://media.valorant-api.com/sprays/1091d2cc-430b-56ca-a82b-279b70026193/fulltransparenticon.png"
+    },
+    "735e6c3c-4899-532d-60cf-1ba0ce1a450d": {
+      "uuid": "735e6c3c-4899-532d-60cf-1ba0ce1a450d",
+      "name": "Gravitational Uranium Neuroblaster Spray",
+      "icon": "https://media.valorant-api.com/sprays/735e6c3c-4899-532d-60cf-1ba0ce1a450d/fulltransparenticon.png"
+    },
+    "829a47d5-4580-8428-2437-8daffdbc52ac": {
+      "uuid": "829a47d5-4580-8428-2437-8daffdbc52ac",
+      "name": "Sentinels of Light Spray",
+      "icon": "https://media.valorant-api.com/sprays/829a47d5-4580-8428-2437-8daffdbc52ac/fulltransparenticon.png"
+    },
+    "1658e811-4084-8775-28df-5a9feabc52d8": {
+      "uuid": "1658e811-4084-8775-28df-5a9feabc52d8",
+      "name": "Reaver Spray",
+      "icon": "https://media.valorant-api.com/sprays/1658e811-4084-8775-28df-5a9feabc52d8/fulltransparenticon.png"
+    },
+    "71d260ca-4bad-81f2-0298-44860341a7a6": {
+      "uuid": "71d260ca-4bad-81f2-0298-44860341a7a6",
+      "name": "Ego Spray",
+      "icon": "https://media.valorant-api.com/sprays/71d260ca-4bad-81f2-0298-44860341a7a6/fulltransparenticon.png"
+    },
+    "636722a7-4149-8319-c15e-14b17c2c47d1": {
+      "uuid": "636722a7-4149-8319-c15e-14b17c2c47d1",
+      "name": "BlastX Spray",
+      "icon": "https://media.valorant-api.com/sprays/636722a7-4149-8319-c15e-14b17c2c47d1/fulltransparenticon.png"
+    },
+    "d54e0883-4967-5808-e25c-37b3e6313e5c": {
+      "uuid": "d54e0883-4967-5808-e25c-37b3e6313e5c",
+      "name": "Sovereign Spray",
+      "icon": "https://media.valorant-api.com/sprays/d54e0883-4967-5808-e25c-37b3e6313e5c/fulltransparenticon.png"
+    },
+    "180a93cb-4ba4-db87-b357-b9b104373a74": {
+      "uuid": "180a93cb-4ba4-db87-b357-b9b104373a74",
+      "name": "Clip It Spray",
+      "icon": "https://media.valorant-api.com/sprays/180a93cb-4ba4-db87-b357-b9b104373a74/fulltransparenticon.png"
+    },
+    "bcf042e4-463c-7fc1-a2c7-0ca17791da9c": {
+      "uuid": "bcf042e4-463c-7fc1-a2c7-0ca17791da9c",
+      "name": "Neon Spray",
+      "icon": "https://media.valorant-api.com/sprays/bcf042e4-463c-7fc1-a2c7-0ca17791da9c/fulltransparenticon.png"
+    },
+    "a465eabf-4bfd-2fef-d6b2-c2b3ce10f2db": {
+      "uuid": "a465eabf-4bfd-2fef-d6b2-c2b3ce10f2db",
+      "name": "Hot Mic Spray",
+      "icon": "https://media.valorant-api.com/sprays/a465eabf-4bfd-2fef-d6b2-c2b3ce10f2db/fulltransparenticon.png"
+    },
+    "2bd7df88-4915-948f-af55-b2a2dc8b2e0c": {
+      "uuid": "2bd7df88-4915-948f-af55-b2a2dc8b2e0c",
+      "name": "Nice to Zap You Spray",
+      "icon": "https://media.valorant-api.com/sprays/2bd7df88-4915-948f-af55-b2a2dc8b2e0c/fulltransparenticon.png"
+    },
+    "e57419f3-4d86-77d7-0e28-14838940dd4e": {
+      "uuid": "e57419f3-4d86-77d7-0e28-14838940dd4e",
+      "name": "Who's Next Spray",
+      "icon": "https://media.valorant-api.com/sprays/e57419f3-4d86-77d7-0e28-14838940dd4e/fulltransparenticon.png"
+    },
+    "bc8917ee-4e11-0286-ff49-77b1e5b12fcb": {
+      "uuid": "bc8917ee-4e11-0286-ff49-77b1e5b12fcb",
+      "name": "Sharp Spray",
+      "icon": "https://media.valorant-api.com/sprays/bc8917ee-4e11-0286-ff49-77b1e5b12fcb/fulltransparenticon.png"
+    },
+    "fe84089e-45cf-0c99-0cdf-1aa5b3296117": {
+      "uuid": "fe84089e-45cf-0c99-0cdf-1aa5b3296117",
+      "name": "Yoru Spray",
+      "icon": "https://media.valorant-api.com/sprays/fe84089e-45cf-0c99-0cdf-1aa5b3296117/fulltransparenticon.png"
+    },
+    "7da0141a-4f39-33c9-8e0b-a8b44bc59a36": {
+      "uuid": "7da0141a-4f39-33c9-8e0b-a8b44bc59a36",
+      "name": "200 IQ Spray",
+      "icon": "https://media.valorant-api.com/sprays/7da0141a-4f39-33c9-8e0b-a8b44bc59a36/fulltransparenticon.png"
+    },
+    "bf2188f1-4b0a-a55f-c631-67a54ac1ccc5": {
+      "uuid": "bf2188f1-4b0a-a55f-c631-67a54ac1ccc5",
+      "name": "Tactibear Spray",
+      "icon": "https://media.valorant-api.com/sprays/bf2188f1-4b0a-a55f-c631-67a54ac1ccc5/fulltransparenticon.png"
+    },
+    "2cf3c29c-49ec-7297-93f8-35988fce5ca6": {
+      "uuid": "2cf3c29c-49ec-7297-93f8-35988fce5ca6",
+      "name": "Sage Spray",
+      "icon": "https://media.valorant-api.com/sprays/2cf3c29c-49ec-7297-93f8-35988fce5ca6/fulltransparenticon.png"
+    },
+    "d16b0b8c-4106-493b-f231-ac9b4d56372f": {
+      "uuid": "d16b0b8c-4106-493b-f231-ac9b4d56372f",
+      "name": "All Good Spray",
+      "icon": "https://media.valorant-api.com/sprays/d16b0b8c-4106-493b-f231-ac9b4d56372f/fulltransparenticon.png"
+    },
+    "6410980b-493b-63bf-0860-31940c553ead": {
+      "uuid": "6410980b-493b-63bf-0860-31940c553ead",
+      "name": "Pulse Check Spray",
+      "icon": "https://media.valorant-api.com/sprays/6410980b-493b-63bf-0860-31940c553ead/fulltransparenticon.png"
+    },
+    "5cbab592-4571-be90-e1fa-268898ebd23c": {
+      "uuid": "5cbab592-4571-be90-e1fa-268898ebd23c",
+      "name": "Tigris Spray",
+      "icon": "https://media.valorant-api.com/sprays/5cbab592-4571-be90-e1fa-268898ebd23c/fulltransparenticon.png"
+    },
+    "5d88fd45-434d-b0d6-2331-e8b3d47b8395": {
+      "uuid": "5d88fd45-434d-b0d6-2331-e8b3d47b8395",
+      "name": "V for VALORANT Spray",
+      "icon": "https://media.valorant-api.com/sprays/5d88fd45-434d-b0d6-2331-e8b3d47b8395/fulltransparenticon.png"
+    },
+    "48601754-442d-98cb-2109-3fb2075500ec": {
+      "uuid": "48601754-442d-98cb-2109-3fb2075500ec",
+      "name": "Can't Teach That Spray",
+      "icon": "https://media.valorant-api.com/sprays/48601754-442d-98cb-2109-3fb2075500ec/fulltransparenticon.png"
+    },
+    "0c342c8c-492e-e20e-cf06-c694ec4a386f": {
+      "uuid": "0c342c8c-492e-e20e-cf06-c694ec4a386f",
+      "name": "Reyna Spray",
+      "icon": "https://media.valorant-api.com/sprays/0c342c8c-492e-e20e-cf06-c694ec4a386f/fulltransparenticon.png"
+    },
+    "87b81520-4eaa-0536-4c45-babd5a35a15b": {
+      "uuid": "87b81520-4eaa-0536-4c45-babd5a35a15b",
+      "name": "Leer Spray",
+      "icon": "https://media.valorant-api.com/sprays/87b81520-4eaa-0536-4c45-babd5a35a15b/fulltransparenticon.png"
+    },
+    "bb6fd4d0-4ba1-68a1-a1e2-d6b1a33d6b9d": {
+      "uuid": "bb6fd4d0-4ba1-68a1-a1e2-d6b1a33d6b9d",
+      "name": "Marked for Death Spray",
+      "icon": "https://media.valorant-api.com/sprays/bb6fd4d0-4ba1-68a1-a1e2-d6b1a33d6b9d/fulltransparenticon.png"
+    },
+    "27c5fd11-4f69-031a-6ee0-6da838ed7998": {
+      "uuid": "27c5fd11-4f69-031a-6ee0-6da838ed7998",
+      "name": "Vandal Life Spray",
+      "icon": "https://media.valorant-api.com/sprays/27c5fd11-4f69-031a-6ee0-6da838ed7998/fulltransparenticon.png"
+    },
+    "be8eeab6-43eb-d0b7-7b38-f6bb25ef7547": {
+      "uuid": "be8eeab6-43eb-d0b7-7b38-f6bb25ef7547",
+      "name": "Accidental Renaissance Spray",
+      "icon": "https://media.valorant-api.com/sprays/be8eeab6-43eb-d0b7-7b38-f6bb25ef7547/fulltransparenticon.png"
+    },
+    "fd1a5a33-4170-95a4-f02a-118fb3f0b5c3": {
+      "uuid": "fd1a5a33-4170-95a4-f02a-118fb3f0b5c3",
+      "name": "Omen Spray",
+      "icon": "https://media.valorant-api.com/sprays/fd1a5a33-4170-95a4-f02a-118fb3f0b5c3/fulltransparenticon.png"
+    },
+    "da814168-4ab3-98fb-847a-29967fa91c42": {
+      "uuid": "da814168-4ab3-98fb-847a-29967fa91c42",
+      "name": "It Hunts Spray",
+      "icon": "https://media.valorant-api.com/sprays/da814168-4ab3-98fb-847a-29967fa91c42/fulltransparenticon.png"
+    },
+    "e3078809-4d75-8439-5bf6-2bada7e1e5a4": {
+      "uuid": "e3078809-4d75-8439-5bf6-2bada7e1e5a4",
+      "name": "Dark Focus Spray",
+      "icon": "https://media.valorant-api.com/sprays/e3078809-4d75-8439-5bf6-2bada7e1e5a4/fulltransparenticon.png"
+    },
+    "5dbe809e-4dcb-2cc1-6afe-57b3a7f4a303": {
+      "uuid": "5dbe809e-4dcb-2cc1-6afe-57b3a7f4a303",
+      "name": "Jett Spray",
+      "icon": "https://media.valorant-api.com/sprays/5dbe809e-4dcb-2cc1-6afe-57b3a7f4a303/fulltransparenticon.png"
+    },
+    "cf824d0a-4bf5-0864-6ca2-efa4d00a819b": {
+      "uuid": "cf824d0a-4bf5-0864-6ca2-efa4d00a819b",
+      "name": "Watch This Spray",
+      "icon": "https://media.valorant-api.com/sprays/cf824d0a-4bf5-0864-6ca2-efa4d00a819b/fulltransparenticon.png"
+    },
+    "5dc78e1a-4acd-ac48-69d2-a99591e9563f": {
+      "uuid": "5dc78e1a-4acd-ac48-69d2-a99591e9563f",
+      "name": "You Better Run Spray",
+      "icon": "https://media.valorant-api.com/sprays/5dc78e1a-4acd-ac48-69d2-a99591e9563f/fulltransparenticon.png"
+    }
+  }
+}

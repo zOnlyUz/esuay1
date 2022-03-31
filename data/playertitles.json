@@ -1,0 +1,482 @@
+{
+  "formats": 1,
+  "gameversion": "A4D8EC488407271C",
+  "titles": {
+    "version": "A4D8EC488407271C",
+    "48d870a2-4493-ebf8-7d6f-979be914dc43": {
+      "uuid": "48d870a2-4493-ebf8-7d6f-979be914dc43",
+      "name": "Fortune Title",
+      "text": "Fortune"
+    },
+    "f8c974b0-4e0c-c0e6-174d-c1b6d990b2a6": {
+      "uuid": "f8c974b0-4e0c-c0e6-174d-c1b6d990b2a6",
+      "name": "Tiger Title",
+      "text": "Tiger"
+    },
+    "a65074fd-4937-734e-20fe-3cafa842c631": {
+      "uuid": "a65074fd-4937-734e-20fe-3cafa842c631",
+      "name": "Catalyst Title",
+      "text": "Catalyst"
+    },
+    "2d284b12-4536-1d0e-b08c-e58850b2a76e": {
+      "uuid": "2d284b12-4536-1d0e-b08c-e58850b2a76e",
+      "name": "Chicken Title",
+      "text": "Chicken"
+    },
+    "326c3796-43c0-4aca-cd5e-53b3ccf8c507": {
+      "uuid": "326c3796-43c0-4aca-cd5e-53b3ccf8c507",
+      "name": "Foxy Title",
+      "text": "Foxy"
+    },
+    "dc75c976-4a9a-97f0-a94d-42bd5f5e262f": {
+      "uuid": "dc75c976-4a9a-97f0-a94d-42bd5f5e262f",
+      "name": "Bait Title",
+      "text": "Bait"
+    },
+    "349d430a-445f-c87e-cc8d-38bc2a86213a": {
+      "uuid": "349d430a-445f-c87e-cc8d-38bc2a86213a",
+      "name": "Pumped Title",
+      "text": "Pumped"
+    },
+    "5dc79611-42f8-24ad-9f5d-6d8288a7fe9a": {
+      "uuid": "5dc79611-42f8-24ad-9f5d-6d8288a7fe9a",
+      "name": "Spicy Title",
+      "text": "Spicy"
+    },
+    "703cd95a-4624-16f3-fdd9-f4a881993577": {
+      "uuid": "703cd95a-4624-16f3-fdd9-f4a881993577",
+      "name": "Charmer Title",
+      "text": "Charmer"
+    },
+    "9f294ab8-4b0a-4c3f-711c-cb89ca4d3ad5": {
+      "uuid": "9f294ab8-4b0a-4c3f-711c-cb89ca4d3ad5",
+      "name": "High Class Title",
+      "text": "High Class"
+    },
+    "5bdea980-4397-a1bd-1fab-659153ca196e": {
+      "uuid": "5bdea980-4397-a1bd-1fab-659153ca196e",
+      "name": "Boosted Title",
+      "text": "Boosted"
+    },
+    "63057041-4f65-5579-e5a6-d88ae7007ebb": {
+      "uuid": "63057041-4f65-5579-e5a6-d88ae7007ebb",
+      "name": "Unlucky Title",
+      "text": "Unlucky"
+    },
+    "1626ab23-49dd-aa09-dee5-05962e49b342": {
+      "uuid": "1626ab23-49dd-aa09-dee5-05962e49b342",
+      "name": "Wraith Title",
+      "text": "Wraith"
+    },
+    "88be9116-4d09-b9a1-87d5-2f8d1831aabe": {
+      "uuid": "88be9116-4d09-b9a1-87d5-2f8d1831aabe",
+      "name": "Bulldog Title",
+      "text": "Bulldog"
+    },
+    "bf94d3eb-4025-4e4a-9942-a2a17c0da2db": {
+      "uuid": "bf94d3eb-4025-4e4a-9942-a2a17c0da2db",
+      "name": "Full Auto Title",
+      "text": "Full Auto"
+    },
+    "b293212f-4574-1ffa-4593-4fad2b97b5ec": {
+      "uuid": "b293212f-4574-1ffa-4593-4fad2b97b5ec",
+      "name": "Sheriff Title",
+      "text": "Sheriff"
+    },
+    "42e2f97d-4e69-274c-589c-0fbdeb397df9": {
+      "uuid": "42e2f97d-4e69-274c-589c-0fbdeb397df9",
+      "name": "Chill Title",
+      "text": "Chill"
+    },
+    "951af77f-4683-ba12-2557-1da1950c390b": {
+      "uuid": "951af77f-4683-ba12-2557-1da1950c390b",
+      "name": "Hard Carry Title",
+      "text": "Hard Carry"
+    },
+    "21dda67e-46d9-081d-0436-fc93fbb1331d": {
+      "uuid": "21dda67e-46d9-081d-0436-fc93fbb1331d",
+      "name": "Lucky Title",
+      "text": "Lucky"
+    },
+    "3fabf39b-452e-9f82-52ec-5c984619c782": {
+      "uuid": "3fabf39b-452e-9f82-52ec-5c984619c782",
+      "name": "Cracked Title",
+      "text": "Cracked"
+    },
+    "229907f5-41a1-855d-a1f6-c1a934c74ed1": {
+      "uuid": "229907f5-41a1-855d-a1f6-c1a934c74ed1",
+      "name": "No Breaks Title",
+      "text": "No Breaks"
+    },
+    "9f2bbbe7-4b73-3ad0-193c-c7a0ee5ff6a8": {
+      "uuid": "9f2bbbe7-4b73-3ad0-193c-c7a0ee5ff6a8",
+      "name": "Salty Title",
+      "text": "Salty"
+    },
+    "ca0895c6-412b-0f14-0fa4-5dafb9b9fb15": {
+      "uuid": "ca0895c6-412b-0f14-0fa4-5dafb9b9fb15",
+      "name": "Aimbot Title",
+      "text": "Aimbot"
+    },
+    "7c2efedc-4d1f-509a-fb02-f2af4d9395d5": {
+      "uuid": "7c2efedc-4d1f-509a-fb02-f2af4d9395d5",
+      "name": "Cheap Title",
+      "text": "Cheap"
+    },
+    "5c3e2030-4d8a-a242-04b1-ff872557ebfd": {
+      "uuid": "5c3e2030-4d8a-a242-04b1-ff872557ebfd",
+      "name": "Lurker Title",
+      "text": "Lurker"
+    },
+    "cbab01c3-4626-2418-f52b-9db472572908": {
+      "uuid": "cbab01c3-4626-2418-f52b-9db472572908",
+      "name": "Hardstuck Title",
+      "text": "Hardstuck"
+    },
+    "eea7d1b0-4a94-59d7-b131-5998a1b3b9f9": {
+      "uuid": "eea7d1b0-4a94-59d7-b131-5998a1b3b9f9",
+      "name": "Haunted Title",
+      "text": "Haunted"
+    },
+    "25c60422-4246-fe96-9ac1-d88e7a379571": {
+      "uuid": "25c60422-4246-fe96-9ac1-d88e7a379571",
+      "name": "Unstoppable Title",
+      "text": "Unstoppable"
+    },
+    "8b426759-4e32-0c61-51cc-289dc0a33073": {
+      "uuid": "8b426759-4e32-0c61-51cc-289dc0a33073",
+      "name": "Jinx Title",
+      "text": "Jinx"
+    },
+    "5c26249f-4396-4bd8-166a-8fbf15ba4219": {
+      "uuid": "5c26249f-4396-4bd8-166a-8fbf15ba4219",
+      "name": "Arcane Title",
+      "text": "Arcane"
+    },
+    "fc78400c-4356-c491-ab14-3dbb9e481073": {
+      "uuid": "fc78400c-4356-c491-ab14-3dbb9e481073",
+      "name": "Cupcake Title",
+      "text": "Cupcake"
+    },
+    "2111510b-4dbf-e9b6-9959-60b8fbce5b2b": {
+      "uuid": "2111510b-4dbf-e9b6-9959-60b8fbce5b2b",
+      "name": "Liar Title",
+      "text": "Liar"
+    },
+    "184e2e0d-4df5-2979-9bb0-93b102cf38fd": {
+      "uuid": "184e2e0d-4df5-2979-9bb0-93b102cf38fd",
+      "name": "Boomer Title",
+      "text": "Boomer"
+    },
+    "28a16537-46e1-5b94-be11-788e89dd2f56": {
+      "uuid": "28a16537-46e1-5b94-be11-788e89dd2f56",
+      "name": "Cringe Title",
+      "text": "Cringe"
+    },
+    "a87a5216-42d2-7c01-0d88-d69274c35254": {
+      "uuid": "a87a5216-42d2-7c01-0d88-d69274c35254",
+      "name": "Unrivaled Title",
+      "text": "Unrivaled"
+    },
+    "ae71f09f-4875-9c37-d6e0-bd83fab998bf": {
+      "uuid": "ae71f09f-4875-9c37-d6e0-bd83fab998bf",
+      "name": "Wide Title",
+      "text": "Wide"
+    },
+    "025b0aaf-4bc6-522c-faae-a484779c5d03": {
+      "uuid": "025b0aaf-4bc6-522c-faae-a484779c5d03",
+      "name": "Habibi Title",
+      "text": "Habibi"
+    },
+    "810b90a3-4399-1f96-9e86-ce853c932156": {
+      "uuid": "810b90a3-4399-1f96-9e86-ce853c932156",
+      "name": "Goinmul Title",
+      "text": "Goinmul"
+    },
+    "631f4283-48b1-1855-d646-5e8f80e29821": {
+      "uuid": "631f4283-48b1-1855-d646-5e8f80e29821",
+      "name": "Day One Title",
+      "text": "Day One"
+    },
+    "00d4d326-4edc-3229-7c28-129d3374e3ad": {
+      "uuid": "00d4d326-4edc-3229-7c28-129d3374e3ad",
+      "name": "Lone Wolf Title",
+      "text": "Lone Wolf"
+    },
+    "9f0ead27-4925-db1e-626f-ab95d9c45845": {
+      "uuid": "9f0ead27-4925-db1e-626f-ab95d9c45845",
+      "name": "Team Player Title",
+      "text": "Team Player"
+    },
+    "bf097526-4503-6b17-2859-49a67bde66d2": {
+      "uuid": "bf097526-4503-6b17-2859-49a67bde66d2",
+      "name": "Bot Title",
+      "text": "Bot"
+    },
+    "3a8f14a7-43e0-5c08-d021-41a5d8b3c983": {
+      "uuid": "3a8f14a7-43e0-5c08-d021-41a5d8b3c983",
+      "name": "Built Different Title",
+      "text": "Built Different"
+    },
+    "96bbed0e-426e-2f54-8ce1-ff820ca6b703": {
+      "uuid": "96bbed0e-426e-2f54-8ce1-ff820ca6b703",
+      "name": "All Star Title",
+      "text": "All Star"
+    },
+    "0210a31e-41a0-6150-ee41-bd9d727b629b": {
+      "uuid": "0210a31e-41a0-6150-ee41-bd9d727b629b",
+      "name": "Ascendant Title",
+      "text": "Ascendant"
+    },
+    "bf25c13b-4f89-1ab5-4455-53b34b9763f0": {
+      "uuid": "bf25c13b-4f89-1ab5-4455-53b34b9763f0",
+      "name": "Ballistic Title",
+      "text": "Ballistic"
+    },
+    "887d1bc0-43b4-c084-4723-e0963a491722": {
+      "uuid": "887d1bc0-43b4-c084-4723-e0963a491722",
+      "name": "Biohazard Title",
+      "text": "Biohazard"
+    },
+    "0ec01b3e-4822-d882-7e6e-e9a0b47cd8bb": {
+      "uuid": "0ec01b3e-4822-d882-7e6e-e9a0b47cd8bb",
+      "name": "Catastrophic Title",
+      "text": "Catastrophic"
+    },
+    "13b4c766-4f55-11f2-cde3-adababe50c7d": {
+      "uuid": "13b4c766-4f55-11f2-cde3-adababe50c7d",
+      "name": "Coach Title",
+      "text": "Coach"
+    },
+    "e5b82cbf-409e-af39-a6f8-6dadf336dedb": {
+      "uuid": "e5b82cbf-409e-af39-a6f8-6dadf336dedb",
+      "name": "Concussive Title",
+      "text": "Concussive"
+    },
+    "e4bdb590-4888-86aa-a259-bebdb52fcbe7": {
+      "uuid": "e4bdb590-4888-86aa-a259-bebdb52fcbe7",
+      "name": "Deadeye Title",
+      "text": "Deadeye"
+    },
+    "d13e579c-435e-44d4-cec2-6eae5a3c5ed4": {
+      "uuid": "d13e579c-435e-44d4-cec2-6eae5a3c5ed4",
+      "name": " ",
+      "text": null
+    },
+    "86375046-4f22-9dc8-f8d8-b3b4d029cd4b": {
+      "uuid": "86375046-4f22-9dc8-f8d8-b3b4d029cd4b",
+      "name": "Empress Title",
+      "text": "Empress"
+    },
+    "37121e2f-43f6-0b7d-fdc4-29b85f3121c9": {
+      "uuid": "37121e2f-43f6-0b7d-fdc4-29b85f3121c9",
+      "name": "Enlightened Title",
+      "text": "Enlightened"
+    },
+    "86bd997d-4e37-18c9-ada0-bf92e54baf60": {
+      "uuid": "86bd997d-4e37-18c9-ada0-bf92e54baf60",
+      "name": "First Title",
+      "text": "First"
+    },
+    "633be923-4e83-204f-8da1-d5930f939369": {
+      "uuid": "633be923-4e83-204f-8da1-d5930f939369",
+      "name": "Flashy Title",
+      "text": "Flashy"
+    },
+    "8f53997a-481a-d982-1deb-8fa995dbd7d4": {
+      "uuid": "8f53997a-481a-d982-1deb-8fa995dbd7d4",
+      "name": "Gatecrasher Title",
+      "text": "Gatecrasher"
+    },
+    "c3b8609d-46cf-e290-868a-e4852a85704f": {
+      "uuid": "c3b8609d-46cf-e290-868a-e4852a85704f",
+      "name": "Genius Title",
+      "text": "Genius"
+    },
+    "574b3440-46bd-fee9-0735-12b4e8a55acd": {
+      "uuid": "574b3440-46bd-fee9-0735-12b4e8a55acd",
+      "name": "Harbinger Title",
+      "text": "Harbinger"
+    },
+    "24e2431e-45b4-ef91-e3f5-f19012522a70": {
+      "uuid": "24e2431e-45b4-ef91-e3f5-f19012522a70",
+      "name": "Hasty Title",
+      "text": "Hasty"
+    },
+    "7e3a1c4f-4aae-0569-cd74-a38f3cce2f51": {
+      "uuid": "7e3a1c4f-4aae-0569-cd74-a38f3cce2f51",
+      "name": "High Command Title",
+      "text": "High Command"
+    },
+    "566b6a77-4f72-af35-6d17-43be14e73cb7": {
+      "uuid": "566b6a77-4f72-af35-6d17-43be14e73cb7",
+      "name": "Hotshot Title",
+      "text": "Hotshot"
+    },
+    "e1cbd3aa-4156-5330-20c4-e4b95a236dc2": {
+      "uuid": "e1cbd3aa-4156-5330-20c4-e4b95a236dc2",
+      "name": "Hunter Title",
+      "text": "Hunter"
+    },
+    "475467ae-4a07-41e7-df1e-699cc239fbd1": {
+      "uuid": "475467ae-4a07-41e7-df1e-699cc239fbd1",
+      "name": "Hurricane Title",
+      "text": "Hurricane"
+    },
+    "eab22308-45da-2059-c14f-44b4c52237b1": {
+      "uuid": "eab22308-45da-2059-c14f-44b4c52237b1",
+      "name": "Infinite Title",
+      "text": "Infinite"
+    },
+    "32087e8b-4260-37af-f865-5aa64d79f916": {
+      "uuid": "32087e8b-4260-37af-f865-5aa64d79f916",
+      "name": "Mind Thief Title",
+      "text": "Mind Thief"
+    },
+    "42e5678c-4ffd-c1a1-71ab-568db7af918a": {
+      "uuid": "42e5678c-4ffd-c1a1-71ab-568db7af918a",
+      "name": "Nature's Wrath Title",
+      "text": "Nature's Wrath"
+    },
+    "224f0e96-475d-165d-3ca6-8481a4cb7629": {
+      "uuid": "224f0e96-475d-165d-3ca6-8481a4cb7629",
+      "name": "Old Dog Title",
+      "text": "Old Dog"
+    },
+    "f802662f-7a82-43d9-a626-335d65df08c5": {
+      "uuid": "f802662f-7a82-43d9-a626-335d65df08c5",
+      "name": "Pioneer Title",
+      "text": "Pioneer"
+    },
+    "d873aef3-49be-277d-7966-d0a2d9d9ad22": {
+      "uuid": "d873aef3-49be-277d-7966-d0a2d9d9ad22",
+      "name": "Recruit Title",
+      "text": "Recruit"
+    },
+    "e23eaf20-4fb2-5c01-03b0-4fa7f14fbfbd": {
+      "uuid": "e23eaf20-4fb2-5c01-03b0-4fa7f14fbfbd",
+      "name": "Revenant Title",
+      "text": "Revenant"
+    },
+    "82de085a-4c2b-da95-a139-048e4ce83dae": {
+      "uuid": "82de085a-4c2b-da95-a139-048e4ce83dae",
+      "name": "Savage Title",
+      "text": "Savage"
+    },
+    "b957c1f1-4784-f202-9bee-8598ebaa8bad": {
+      "uuid": "b957c1f1-4784-f202-9bee-8598ebaa8bad",
+      "name": "Sharpshooter Title",
+      "text": "Sharpshooter"
+    },
+    "540826d2-4aff-4da9-e1b7-4ebf79deb4b4": {
+      "uuid": "540826d2-4aff-4da9-e1b7-4ebf79deb4b4",
+      "name": "Stellar Title",
+      "text": "Stellar"
+    },
+    "533b2a28-4638-f8cc-5aae-28a9a9af5a69": {
+      "uuid": "533b2a28-4638-f8cc-5aae-28a9a9af5a69",
+      "name": "Swift Title",
+      "text": "Swift"
+    },
+    "af20bdd6-4829-2dee-1bd3-77a34b6e2e9e": {
+      "uuid": "af20bdd6-4829-2dee-1bd3-77a34b6e2e9e",
+      "name": "Techie Title",
+      "text": "Techie"
+    },
+    "58dbc4af-4baf-bd4b-7084-9f92485b4006": {
+      "uuid": "58dbc4af-4baf-bd4b-7084-9f92485b4006",
+      "name": "Toxic Title",
+      "text": "Toxic"
+    },
+    "189f8454-45f8-0a74-4b25-77aae468ac02": {
+      "uuid": "189f8454-45f8-0a74-4b25-77aae468ac02",
+      "name": "Trailblazer Title",
+      "text": "Trailblazer"
+    },
+    "336516ab-475b-7e0c-74d1-9caaa4d580ac": {
+      "uuid": "336516ab-475b-7e0c-74d1-9caaa4d580ac",
+      "name": "Unmasked Title",
+      "text": "Unmasked"
+    },
+    "e3ca05a4-4e44-9afe-3791-7d96ca8f71fa": {
+      "uuid": "e3ca05a4-4e44-9afe-3791-7d96ca8f71fa",
+      "name": "V1.0 Title",
+      "text": "V1.0"
+    },
+    "3aebca82-4877-bfa9-b215-8e8e3e5dedc7": {
+      "uuid": "3aebca82-4877-bfa9-b215-8e8e3e5dedc7",
+      "name": "Warden Title",
+      "text": "Warden"
+    },
+    "503810e1-44f2-7ce9-5226-9398e60557de": {
+      "uuid": "503810e1-44f2-7ce9-5226-9398e60557de",
+      "name": "Warhead Title",
+      "text": "Warhead"
+    },
+    "bec998ee-416d-ba4a-8afb-a4ba38c9e228": {
+      "uuid": "bec998ee-416d-ba4a-8afb-a4ba38c9e228",
+      "name": "Watchdog Title",
+      "text": "Watchdog"
+    },
+    "f3bf3c15-4e3b-6e58-64a3-8f9995f39370": {
+      "uuid": "f3bf3c15-4e3b-6e58-64a3-8f9995f39370",
+      "name": "Ally Title",
+      "text": "Ally"
+    },
+    "c70f542b-4880-c65f-485e-ec8ffd055243": {
+      "uuid": "c70f542b-4880-c65f-485e-ec8ffd055243",
+      "name": "Proud Title",
+      "text": "Proud"
+    },
+    "58e5f5db-4b18-cf8a-afa2-b49574b34456": {
+      "uuid": "58e5f5db-4b18-cf8a-afa2-b49574b34456",
+      "name": "Champion Title",
+      "text": "Champion"
+    },
+    "e398da6e-4719-eb48-0f79-72b51bf4c49f": {
+      "uuid": "e398da6e-4719-eb48-0f79-72b51bf4c49f",
+      "name": "Electrifying Title",
+      "text": "Electrifying"
+    },
+    "c4285636-4056-8c21-b0d1-55867e74c98f": {
+      "uuid": "c4285636-4056-8c21-b0d1-55867e74c98f",
+      "name": "Zoomer Title",
+      "text": "Zoomer"
+    },
+    "77b12d01-4209-6b61-16aa-23a7382ae17b": {
+      "uuid": "77b12d01-4209-6b61-16aa-23a7382ae17b",
+      "name": "Year One Title",
+      "text": "Year One"
+    },
+    "c402b173-403b-b3f6-f1a6-2a819a687397": {
+      "uuid": "c402b173-403b-b3f6-f1a6-2a819a687397",
+      "name": "YR1 Title",
+      "text": "YR1"
+    },
+    "1ba98f24-4989-8778-f8a6-b7af353a1625": {
+      "uuid": "1ba98f24-4989-8778-f8a6-b7af353a1625",
+      "name": "2021 VCT Champion Title",
+      "text": "2021 VCT Champion"
+    },
+    "00031857-43a9-9545-4e05-58ad0a62b79d": {
+      "uuid": "00031857-43a9-9545-4e05-58ad0a62b79d",
+      "name": "VCT Masters Berlin Winner Title",
+      "text": "VCT Masters Berlin Winner"
+    },
+    "cd19dad9-4975-7e7d-c511-c6a851589c15": {
+      "uuid": "cd19dad9-4975-7e7d-c511-c6a851589c15",
+      "name": "VCT Masters Reykjavik Winner Title",
+      "text": "VCT Masters Reykjavik Winner"
+    },
+    "f0751060-4d86-39e8-b881-469f52058b3f": {
+      "uuid": "f0751060-4d86-39e8-b881-469f52058b3f",
+      "name": "2021 VCT Masters Winner",
+      "text": "2021 VCT Masters Winner"
+    },
+    "d11e42f8-45e9-7d71-720b-8c9c54c3b808": {
+      "uuid": "d11e42f8-45e9-7d71-720b-8c9c54c3b808",
+      "name": "VCT Game Changer Title",
+      "text": "VCT Game Changer"
+    }
+  }
+}

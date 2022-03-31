@@ -1,0 +1,1694 @@
+{
+  "formats": 1,
+  "gameversion": "A4D8EC488407271C",
+  "missions": {
+    "version": "A4D8EC488407271C",
+    "fbe28d9f-4217-a8da-83ad-4c82ea06856b": {
+      "uuid": "fbe28d9f-4217-a8da-83ad-4c82ea06856b",
+      "title": null,
+      "type": null,
+      "progress": 1,
+      "xp": -1
+    },
+    "4865e43b-4e26-260c-b683-b89a80ded694": {
+      "uuid": "4865e43b-4e26-260c-b683-b89a80ded694",
+      "title": null,
+      "type": null,
+      "progress": 1,
+      "xp": -1
+    },
+    "e3f76258-4cfe-19e3-5d4b-ceac7f2e8c13": {
+      "uuid": "e3f76258-4cfe-19e3-5d4b-ceac7f2e8c13",
+      "title": "Deal Damage",
+      "type": null,
+      "progress": 1,
+      "xp": 50
+    },
+    "3854e18d-4814-77df-58b9-5591e5250107": {
+      "uuid": "3854e18d-4814-77df-58b9-5591e5250107",
+      "title": "Get First Blood in a round",
+      "type": null,
+      "progress": 1,
+      "xp": -1
+    },
+    "99d35d57-4469-f30c-3eb7-16a8b505fe1e": {
+      "uuid": "99d35d57-4469-f30c-3eb7-16a8b505fe1e",
+      "title": "Pick Up Ultimate Orbs",
+      "type": null,
+      "progress": 1,
+      "xp": 50
+    },
+    "da8e9ee2-45cb-9b15-9d45-b98e26cc89b2": {
+      "uuid": "da8e9ee2-45cb-9b15-9d45-b98e26cc89b2",
+      "title": "Get Headshots",
+      "type": null,
+      "progress": 1,
+      "xp": 50
+    },
+    "fe29806d-498c-4607-95e5-d3b81c850d51": {
+      "uuid": "fe29806d-498c-4607-95e5-d3b81c850d51",
+      "title": "Kill Enemies",
+      "type": null,
+      "progress": 1,
+      "xp": -1
+    },
+    "bff6f822-418a-c26c-b5b7-d8acf78d3611": {
+      "uuid": "bff6f822-418a-c26c-b5b7-d8acf78d3611",
+      "title": "Kill With Enemy Guns",
+      "type": null,
+      "progress": 1,
+      "xp": -1
+    },
+    "c2e593a2-9bab-4e7c-a71f-b7b5060833c0": {
+      "uuid": "c2e593a2-9bab-4e7c-a71f-b7b5060833c0",
+      "title": "Play A Game",
+      "type": null,
+      "progress": 1,
+      "xp": 100
+    },
+    "17fc1bfa-4f3f-188f-902a-dc96c0a616d1": {
+      "uuid": "17fc1bfa-4f3f-188f-902a-dc96c0a616d1",
+      "title": "Purchase Abilities",
+      "type": null,
+      "progress": 1,
+      "xp": 25
+    },
+    "ec7f4121-4c62-7b8e-6563-f395a37420eb": {
+      "uuid": "ec7f4121-4c62-7b8e-6563-f395a37420eb",
+      "title": "Purchase Items from the Armory",
+      "type": null,
+      "progress": 1,
+      "xp": 25
+    },
+    "9f275d75-4bf4-427f-8648-10b78d4dc7d0": {
+      "uuid": "9f275d75-4bf4-427f-8648-10b78d4dc7d0",
+      "title": "Purchase Shields",
+      "type": null,
+      "progress": 1,
+      "xp": 50
+    },
+    "e0d49d41-4f6f-65e4-da44-8a844f29773b": {
+      "uuid": "e0d49d41-4f6f-65e4-da44-8a844f29773b",
+      "title": "Purchase Weapons",
+      "type": null,
+      "progress": 1,
+      "xp": 25
+    },
+    "9e0ec787-4705-2bdf-93ea-d69beb39d4a2": {
+      "uuid": "9e0ec787-4705-2bdf-93ea-d69beb39d4a2",
+      "title": "Use Your Ultimate",
+      "type": null,
+      "progress": 1,
+      "xp": 100
+    },
+    "e125c8a8-4b5e-bb84-8d90-a1ba61030e02": {
+      "uuid": "e125c8a8-4b5e-bb84-8d90-a1ba61030e02",
+      "title": "Use Your Abilities",
+      "type": null,
+      "progress": 1,
+      "xp": -1
+    },
+    "908397e4-4a78-3272-d3b2-9988c2efa200": {
+      "uuid": "908397e4-4a78-3272-d3b2-9988c2efa200",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Daily",
+      "progress": 1,
+      "xp": 2000
+    },
+    "6697a060-4402-ca08-298b-9d8cc3ce3b3f": {
+      "uuid": "6697a060-4402-ca08-298b-9d8cc3ce3b3f",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Daily",
+      "progress": 1000,
+      "xp": 2000
+    },
+    "8f183032-4ba1-b6a2-0574-e0ab6098a08f": {
+      "uuid": "8f183032-4ba1-b6a2-0574-e0ab6098a08f",
+      "title": "Get First Blood in a round",
+      "type": "EAresMissionType::Daily",
+      "progress": 1,
+      "xp": 2000
+    },
+    "8944e8b4-4fc5-b05c-08df-58bf76b56b9f": {
+      "uuid": "8944e8b4-4fc5-b05c-08df-58bf76b56b9f",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Daily",
+      "progress": 5,
+      "xp": 2000
+    },
+    "c235e459-4917-8013-6737-deac9ae34386": {
+      "uuid": "c235e459-4917-8013-6737-deac9ae34386",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Daily",
+      "progress": 10,
+      "xp": 2000
+    },
+    "0f33dad7-4e68-398d-35cc-b5a5b1503050": {
+      "uuid": "0f33dad7-4e68-398d-35cc-b5a5b1503050",
+      "title": "Kill With Enemy Guns",
+      "type": "EAresMissionType::Daily",
+      "progress": 1,
+      "xp": 2000
+    },
+    "f81129ee-4bb9-27dc-8011-0e8c1e7f6d26": {
+      "uuid": "f81129ee-4bb9-27dc-8011-0e8c1e7f6d26",
+      "title": "Purchase Abilities",
+      "type": "EAresMissionType::Daily",
+      "progress": 25,
+      "xp": 2000
+    },
+    "bbff3898-4cd3-dd04-1509-179cf9003e9e": {
+      "uuid": "bbff3898-4cd3-dd04-1509-179cf9003e9e",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Daily",
+      "progress": 30,
+      "xp": 2000
+    },
+    "86f9a9af-452e-44ec-9f33-6c94f1c4fac6": {
+      "uuid": "86f9a9af-452e-44ec-9f33-6c94f1c4fac6",
+      "title": "Purchase Shields",
+      "type": "EAresMissionType::Daily",
+      "progress": 15,
+      "xp": 2000
+    },
+    "2ec38f99-46c2-b1ba-69aa-74b86c1289a9": {
+      "uuid": "2ec38f99-46c2-b1ba-69aa-74b86c1289a9",
+      "title": "Purchase Weapons",
+      "type": "EAresMissionType::Daily",
+      "progress": 20,
+      "xp": 2000
+    },
+    "12197b90-42de-0587-dfdb-e28664ebe04b": {
+      "uuid": "12197b90-42de-0587-dfdb-e28664ebe04b",
+      "title": "Pick Up Ultimate Orbs",
+      "type": "EAresMissionType::Daily",
+      "progress": 1,
+      "xp": 2000
+    },
+    "f30bd3b0-45d3-d72a-8d1d-bab6deac61d6": {
+      "uuid": "f30bd3b0-45d3-d72a-8d1d-bab6deac61d6",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Daily",
+      "progress": 20,
+      "xp": 2000
+    },
+    "c3603d86-4ac3-2999-d500-e19ec8bc0998": {
+      "uuid": "c3603d86-4ac3-2999-d500-e19ec8bc0998",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Daily",
+      "progress": 5,
+      "xp": 2000
+    },
+    "c88f4400-4d61-896d-810b-5aacd6812076": {
+      "uuid": "c88f4400-4d61-896d-810b-5aacd6812076",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 10080
+    },
+    "a1924aab-41f8-c010-11c7-c4bea8a922a7": {
+      "uuid": "a1924aab-41f8-c010-11c7-c4bea8a922a7",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 10080
+    },
+    "6e29014e-4bd3-0e2b-b4f4-fd96b72bb9c4": {
+      "uuid": "6e29014e-4bd3-0e2b-b4f4-fd96b72bb9c4",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 10080
+    },
+    "aae711a7-4d5d-0d29-fb78-529b7bdab09d": {
+      "uuid": "aae711a7-4d5d-0d29-fb78-529b7bdab09d",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 12320
+    },
+    "f0f48165-40d1-708c-78f8-6ba7b78371e4": {
+      "uuid": "f0f48165-40d1-708c-78f8-6ba7b78371e4",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 12320
+    },
+    "9273d605-425b-67c9-b761-ca932fa0db46": {
+      "uuid": "9273d605-425b-67c9-b761-ca932fa0db46",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 12320
+    },
+    "cba8a7cd-4501-4066-ca8d-fb9baea98116": {
+      "uuid": "cba8a7cd-4501-4066-ca8d-fb9baea98116",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 12320
+    },
+    "c5aaa4a5-477d-5619-189c-e698c9151bfd": {
+      "uuid": "c5aaa4a5-477d-5619-189c-e698c9151bfd",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 12320
+    },
+    "c0393f68-4ead-384b-0ca6-74adef98762a": {
+      "uuid": "c0393f68-4ead-384b-0ca6-74adef98762a",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 12320
+    },
+    "fd42458b-422d-d97f-406f-3197d2b6bc38": {
+      "uuid": "fd42458b-422d-d97f-406f-3197d2b6bc38",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 16800
+    },
+    "c35b92ff-4466-1bba-24a7-d29952b1f269": {
+      "uuid": "c35b92ff-4466-1bba-24a7-d29952b1f269",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 16800
+    },
+    "bfc252ef-4720-6877-cff6-9d81e0f5a1f7": {
+      "uuid": "bfc252ef-4720-6877-cff6-9d81e0f5a1f7",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 16800
+    },
+    "b0706e4d-408b-ce8c-8b7d-8ba3f63ceda3": {
+      "uuid": "b0706e4d-408b-ce8c-8b7d-8ba3f63ceda3",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 17920
+    },
+    "6b11f53b-44e8-7266-9033-33ada27a687e": {
+      "uuid": "6b11f53b-44e8-7266-9033-33ada27a687e",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 17920
+    },
+    "9f471661-42f6-2931-b14f-8982a43bc9ae": {
+      "uuid": "9f471661-42f6-2931-b14f-8982a43bc9ae",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 17920
+    },
+    "675f23f9-4dd6-5bc9-68f6-43aa7c96cc6a": {
+      "uuid": "675f23f9-4dd6-5bc9-68f6-43aa7c96cc6a",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 21280
+    },
+    "384be70a-4f40-81f5-f0e5-c4b9dc62dba0": {
+      "uuid": "384be70a-4f40-81f5-f0e5-c4b9dc62dba0",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 21280
+    },
+    "08acbae7-45db-4c44-3440-b78127739f55": {
+      "uuid": "08acbae7-45db-4c44-3440-b78127739f55",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 21280
+    },
+    "4bdc8f30-4cd0-65f2-77b3-429a0409e609": {
+      "uuid": "4bdc8f30-4cd0-65f2-77b3-429a0409e609",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 21280
+    },
+    "cb4ed715-4d5e-12a9-a46f-fdb8a7a38a4d": {
+      "uuid": "cb4ed715-4d5e-12a9-a46f-fdb8a7a38a4d",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 21280
+    },
+    "3f01d7ac-49d0-fab3-8741-038c4f57bb62": {
+      "uuid": "3f01d7ac-49d0-fab3-8741-038c4f57bb62",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 21280
+    },
+    "a1b38431-4a9a-e440-ddb7-c885718006ee": {
+      "uuid": "a1b38431-4a9a-e440-ddb7-c885718006ee",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 5200
+    },
+    "0c031302-4cfb-c419-f1c3-75a95d95aa4f": {
+      "uuid": "0c031302-4cfb-c419-f1c3-75a95d95aa4f",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 5200
+    },
+    "9ada214c-40d9-423a-1e0b-bca93cdbd563": {
+      "uuid": "9ada214c-40d9-423a-1e0b-bca93cdbd563",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 5200
+    },
+    "cb51fc6d-4fb3-181c-3ece-4fb386b9e12c": {
+      "uuid": "cb51fc6d-4fb3-181c-3ece-4fb386b9e12c",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 16360
+    },
+    "496c8e56-4ba0-51df-f555-cabfa244b461": {
+      "uuid": "496c8e56-4ba0-51df-f555-cabfa244b461",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 16360
+    },
+    "f8081410-44fb-9804-5197-549ccc794c64": {
+      "uuid": "f8081410-44fb-9804-5197-549ccc794c64",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 16360
+    },
+    "41abdcbd-4957-b376-b8af-da9cbe8c049a": {
+      "uuid": "41abdcbd-4957-b376-b8af-da9cbe8c049a",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 16360
+    },
+    "9787361f-4b3d-7ce9-1492-edbccf4e8f0c": {
+      "uuid": "9787361f-4b3d-7ce9-1492-edbccf4e8f0c",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 16360
+    },
+    "f07cc8c9-4f8e-5d0f-217d-3684242d3d61": {
+      "uuid": "f07cc8c9-4f8e-5d0f-217d-3684242d3d61",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 16360
+    },
+    "c80370ec-4f07-b21a-8a1e-209ee47a636e": {
+      "uuid": "c80370ec-4f07-b21a-8a1e-209ee47a636e",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 6500
+    },
+    "5dee29fd-4d46-3d96-fdc0-4291c5d5f7af": {
+      "uuid": "5dee29fd-4d46-3d96-fdc0-4291c5d5f7af",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 6500
+    },
+    "97540e15-436a-0082-8671-9bb04c25e6e0": {
+      "uuid": "97540e15-436a-0082-8671-9bb04c25e6e0",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 6500
+    },
+    "89b8ebd3-4d36-bd55-642a-fca84a1509ab": {
+      "uuid": "89b8ebd3-4d36-bd55-642a-fca84a1509ab",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 10800
+    },
+    "c3cc8923-43a8-9e5d-92ec-deb3bbf6227f": {
+      "uuid": "c3cc8923-43a8-9e5d-92ec-deb3bbf6227f",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 10800
+    },
+    "b9e27bea-43bb-0344-4aa0-7599b886a74b": {
+      "uuid": "b9e27bea-43bb-0344-4aa0-7599b886a74b",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 10800
+    },
+    "7ea7de4d-4ac3-6b07-acb7-2d81db0c9c82": {
+      "uuid": "7ea7de4d-4ac3-6b07-acb7-2d81db0c9c82",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 10800
+    },
+    "b262deef-4d05-cc8d-7a89-e5a76acf6384": {
+      "uuid": "b262deef-4d05-cc8d-7a89-e5a76acf6384",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 10800
+    },
+    "fab9f8c3-4506-c5ee-3d87-4b852a893d39": {
+      "uuid": "fab9f8c3-4506-c5ee-3d87-4b852a893d39",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 10800
+    },
+    "7590afa4-446f-162d-ba6f-3b806b2bac84": {
+      "uuid": "7590afa4-446f-162d-ba6f-3b806b2bac84",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 13460
+    },
+    "10b21a75-42f9-cdea-7d6b-4e9b38a4587e": {
+      "uuid": "10b21a75-42f9-cdea-7d6b-4e9b38a4587e",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 13460
+    },
+    "ba37fa29-4512-5e03-b8d3-9cbeeb6be9d3": {
+      "uuid": "ba37fa29-4512-5e03-b8d3-9cbeeb6be9d3",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 13460
+    },
+    "dd9106b4-4644-4391-0c9b-18a4479c6a1e": {
+      "uuid": "dd9106b4-4644-4391-0c9b-18a4479c6a1e",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 13460
+    },
+    "857cb50c-47c2-f789-91a9-9982722993e8": {
+      "uuid": "857cb50c-47c2-f789-91a9-9982722993e8",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 13460
+    },
+    "00a2a5eb-4eb5-8938-05e1-cbbd369f763a": {
+      "uuid": "00a2a5eb-4eb5-8938-05e1-cbbd369f763a",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 13460
+    },
+    "de237553-4deb-f7fd-7a54-0c9564798f9c": {
+      "uuid": "de237553-4deb-f7fd-7a54-0c9564798f9c",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 15460
+    },
+    "bcd2a9e3-4067-96be-df6e-5c8d4f301acf": {
+      "uuid": "bcd2a9e3-4067-96be-df6e-5c8d4f301acf",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 15460
+    },
+    "7d6476aa-424b-78ad-4ef7-a7969725fd9a": {
+      "uuid": "7d6476aa-424b-78ad-4ef7-a7969725fd9a",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 15460
+    },
+    "6a864a9a-42ac-d43f-881e-0d8776c883e3": {
+      "uuid": "6a864a9a-42ac-d43f-881e-0d8776c883e3",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 15960
+    },
+    "bdfc0b8f-4666-6aa7-476b-4896148d1ef7": {
+      "uuid": "bdfc0b8f-4666-6aa7-476b-4896148d1ef7",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 15960
+    },
+    "a48c63a7-4e41-3abc-f8a4-59bb99cfc4cf": {
+      "uuid": "a48c63a7-4e41-3abc-f8a4-59bb99cfc4cf",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 15960
+    },
+    "467888d9-4654-9883-d006-9088a0e8c644": {
+      "uuid": "467888d9-4654-9883-d006-9088a0e8c644",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 16360
+    },
+    "4fbeb321-4961-5918-9f90-e4b514e59f79": {
+      "uuid": "4fbeb321-4961-5918-9f90-e4b514e59f79",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 16360
+    },
+    "50dcde15-48a7-7fc1-5c37-f0988d4769b0": {
+      "uuid": "50dcde15-48a7-7fc1-5c37-f0988d4769b0",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 16360
+    },
+    "c45ca1dc-41a4-206d-c65d-908925a6cd7c": {
+      "uuid": "c45ca1dc-41a4-206d-c65d-908925a6cd7c",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 10800
+    },
+    "b2c02887-4936-f581-040f-56b28631b377": {
+      "uuid": "b2c02887-4936-f581-040f-56b28631b377",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 10800
+    },
+    "7be6ec21-4830-fa11-d235-11ae794fd203": {
+      "uuid": "7be6ec21-4830-fa11-d235-11ae794fd203",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 10800
+    },
+    "02f5e770-448f-9c63-9fbf-c4955633e385": {
+      "uuid": "02f5e770-448f-9c63-9fbf-c4955633e385",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 12000
+    },
+    "6ff26f03-4bee-7fc2-18f4-a19002688bf7": {
+      "uuid": "6ff26f03-4bee-7fc2-18f4-a19002688bf7",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 12000
+    },
+    "fcb38cee-4b63-e067-a379-71972a5b88b6": {
+      "uuid": "fcb38cee-4b63-e067-a379-71972a5b88b6",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 12000
+    },
+    "e8ae3f4a-4a04-453e-0abc-3595498e6368": {
+      "uuid": "e8ae3f4a-4a04-453e-0abc-3595498e6368",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 12000
+    },
+    "c8cbbc13-4e08-d5e7-4404-a38b7fc09846": {
+      "uuid": "c8cbbc13-4e08-d5e7-4404-a38b7fc09846",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 12000
+    },
+    "f68b25a4-4a72-a4ac-3997-f99fdac2d647": {
+      "uuid": "f68b25a4-4a72-a4ac-3997-f99fdac2d647",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 12000
+    },
+    "2e6a9cf1-4f99-b35b-7ffa-aaa0b2f833da": {
+      "uuid": "2e6a9cf1-4f99-b35b-7ffa-aaa0b2f833da",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 14400
+    },
+    "424fedce-4b2e-9a58-428c-97919d3d74f9": {
+      "uuid": "424fedce-4b2e-9a58-428c-97919d3d74f9",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 14400
+    },
+    "73df07b1-4044-a452-7d3e-8fa90c26166e": {
+      "uuid": "73df07b1-4044-a452-7d3e-8fa90c26166e",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 14400
+    },
+    "90635669-4959-63b9-9b71-fd8c54cb58bb": {
+      "uuid": "90635669-4959-63b9-9b71-fd8c54cb58bb",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 14400
+    },
+    "3b181afc-411b-b6f9-df99-22b3ecc0e0cb": {
+      "uuid": "3b181afc-411b-b6f9-df99-22b3ecc0e0cb",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 14400
+    },
+    "0ff46c42-4d6f-a684-5c96-7281a15166ea": {
+      "uuid": "0ff46c42-4d6f-a684-5c96-7281a15166ea",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 14400
+    },
+    "6b318eb5-4145-67ce-7148-a88c52a92944": {
+      "uuid": "6b318eb5-4145-67ce-7148-a88c52a92944",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 19200
+    },
+    "91ac2a05-4c1c-bb42-a56b-59a6b24a6de8": {
+      "uuid": "91ac2a05-4c1c-bb42-a56b-59a6b24a6de8",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 19200
+    },
+    "3500f274-432b-f3ef-2912-9f86a9bb01fb": {
+      "uuid": "3500f274-432b-f3ef-2912-9f86a9bb01fb",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 19200
+    },
+    "0db6d141-42dc-3883-1861-1281fafd2447": {
+      "uuid": "0db6d141-42dc-3883-1861-1281fafd2447",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 21600
+    },
+    "d1fe1678-4376-3f6e-2bc6-3482b3206412": {
+      "uuid": "d1fe1678-4376-3f6e-2bc6-3482b3206412",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 21600
+    },
+    "0c836191-408d-4ed5-1497-10bcd4b5e357": {
+      "uuid": "0c836191-408d-4ed5-1497-10bcd4b5e357",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 21600
+    },
+    "603b1eb0-4174-d4d1-1c61-2099a558a1d1": {
+      "uuid": "603b1eb0-4174-d4d1-1c61-2099a558a1d1",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 22800
+    },
+    "53a6e6be-481a-fc85-cab0-8a92c88c4277": {
+      "uuid": "53a6e6be-481a-fc85-cab0-8a92c88c4277",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 22800
+    },
+    "4a69803f-466b-7947-cb0c-a6aad4200f22": {
+      "uuid": "4a69803f-466b-7947-cb0c-a6aad4200f22",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 22800
+    },
+    "5c78a8ea-40f8-9d8c-32a7-2f8793252bb2": {
+      "uuid": "5c78a8ea-40f8-9d8c-32a7-2f8793252bb2",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 10500
+    },
+    "2f95f48d-4cb2-dded-82dc-eca8d6017e06": {
+      "uuid": "2f95f48d-4cb2-dded-82dc-eca8d6017e06",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 10500
+    },
+    "dcf8ea67-44fb-03eb-d634-d18b05772cf7": {
+      "uuid": "dcf8ea67-44fb-03eb-d634-d18b05772cf7",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 10500
+    },
+    "652ea4eb-4690-ec1f-b9c9-6f8aeab57a0b": {
+      "uuid": "652ea4eb-4690-ec1f-b9c9-6f8aeab57a0b",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 16500
+    },
+    "c5a1cd09-4e2e-cb51-b245-ba8facb1cf0f": {
+      "uuid": "c5a1cd09-4e2e-cb51-b245-ba8facb1cf0f",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 16500
+    },
+    "4f9028ae-4204-fb7c-9244-0ea578fcf196": {
+      "uuid": "4f9028ae-4204-fb7c-9244-0ea578fcf196",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 16500
+    },
+    "1fa119e1-4eb1-35f5-619f-2fb850134003": {
+      "uuid": "1fa119e1-4eb1-35f5-619f-2fb850134003",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 10500
+    },
+    "17fd2250-48bf-540a-4513-429c991e9f71": {
+      "uuid": "17fd2250-48bf-540a-4513-429c991e9f71",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 10500
+    },
+    "cdb91289-4368-ee43-82b4-ddbd6333ec1e": {
+      "uuid": "cdb91289-4368-ee43-82b4-ddbd6333ec1e",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 10500
+    },
+    "b1e63b89-41b3-60c0-1b73-e782652eb22a": {
+      "uuid": "b1e63b89-41b3-60c0-1b73-e782652eb22a",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 12000
+    },
+    "0a0ca884-44d8-305d-b41a-12ae513c670b": {
+      "uuid": "0a0ca884-44d8-305d-b41a-12ae513c670b",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 12000
+    },
+    "686456af-4af8-aa46-b7f4-c59221c1d7bc": {
+      "uuid": "686456af-4af8-aa46-b7f4-c59221c1d7bc",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 12000
+    },
+    "7d0ffa65-4872-7bbe-b3af-9989e643a986": {
+      "uuid": "7d0ffa65-4872-7bbe-b3af-9989e643a986",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 12000
+    },
+    "cb1654bc-4b4a-31f2-a610-d1a94229dfa5": {
+      "uuid": "cb1654bc-4b4a-31f2-a610-d1a94229dfa5",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 12000
+    },
+    "7d133c97-4635-f0f9-9203-e9980d0c75ba": {
+      "uuid": "7d133c97-4635-f0f9-9203-e9980d0c75ba",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 12000
+    },
+    "75258eac-4ce8-6067-655e-c89f532623aa": {
+      "uuid": "75258eac-4ce8-6067-655e-c89f532623aa",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 15000
+    },
+    "9e1e5b6d-4dd0-1365-926a-7ba43a5159fa": {
+      "uuid": "9e1e5b6d-4dd0-1365-926a-7ba43a5159fa",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 15000
+    },
+    "c765f5a7-4b54-fb73-4966-ca9dd5af5f83": {
+      "uuid": "c765f5a7-4b54-fb73-4966-ca9dd5af5f83",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 15000
+    },
+    "1b2fe6ec-4da8-ef6b-0b86-85a14ed474e5": {
+      "uuid": "1b2fe6ec-4da8-ef6b-0b86-85a14ed474e5",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 15000
+    },
+    "d05725cf-4463-9023-3d65-c194c6a3c8ed": {
+      "uuid": "d05725cf-4463-9023-3d65-c194c6a3c8ed",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 15000
+    },
+    "6571df73-4f1f-2c95-df47-1f812ab7ea3e": {
+      "uuid": "6571df73-4f1f-2c95-df47-1f812ab7ea3e",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 15000
+    },
+    "0f32b1e3-425b-00b3-5db0-2e9d5a021668": {
+      "uuid": "0f32b1e3-425b-00b3-5db0-2e9d5a021668",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 16500
+    },
+    "9f948cf1-4f69-6d49-b39f-c5ae4fad8594": {
+      "uuid": "9f948cf1-4f69-6d49-b39f-c5ae4fad8594",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 16500
+    },
+    "84f75760-421c-cef0-ee58-258c34099e92": {
+      "uuid": "84f75760-421c-cef0-ee58-258c34099e92",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 16500
+    },
+    "d013b660-4028-3375-0c44-2589c75a591d": {
+      "uuid": "d013b660-4028-3375-0c44-2589c75a591d",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 21,
+      "xp": 21000
+    },
+    "d8d4cc08-4af2-8050-1eda-b0bf94d12c64": {
+      "uuid": "d8d4cc08-4af2-8050-1eda-b0bf94d12c64",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 210,
+      "xp": 21000
+    },
+    "8df81766-413a-1706-ed76-feb60bf4d622": {
+      "uuid": "8df81766-413a-1706-ed76-feb60bf4d622",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 21,
+      "xp": 21000
+    },
+    "d0df7047-40b4-ae4a-1b36-fc9654fd58da": {
+      "uuid": "d0df7047-40b4-ae4a-1b36-fc9654fd58da",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 22,
+      "xp": 22000
+    },
+    "99f25d7a-42fb-e741-f027-20b42fb73283": {
+      "uuid": "99f25d7a-42fb-e741-f027-20b42fb73283",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 220,
+      "xp": 22000
+    },
+    "f1b7dd61-47c8-fd59-f41f-139020e37e79": {
+      "uuid": "f1b7dd61-47c8-fd59-f41f-139020e37e79",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 22,
+      "xp": 22000
+    },
+    "d44d08be-4b1c-cecd-4e2e-8fad9dd4290d": {
+      "uuid": "d44d08be-4b1c-cecd-4e2e-8fad9dd4290d",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 25480
+    },
+    "d781518b-40aa-cfa5-35a2-b9b1e3237b22": {
+      "uuid": "d781518b-40aa-cfa5-35a2-b9b1e3237b22",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 25480
+    },
+    "824349c7-4182-abfd-2e8b-94897dd3672d": {
+      "uuid": "824349c7-4182-abfd-2e8b-94897dd3672d",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 25480
+    },
+    "f987fa26-446c-9a83-39e1-71b474f4fd27": {
+      "uuid": "f987fa26-446c-9a83-39e1-71b474f4fd27",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 27440
+    },
+    "7394f70e-4534-92e0-1ed2-2f9e1cfd88eb": {
+      "uuid": "7394f70e-4534-92e0-1ed2-2f9e1cfd88eb",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 27440
+    },
+    "ec8eeecd-4a9c-2aac-71fc-5bb9c69cd061": {
+      "uuid": "ec8eeecd-4a9c-2aac-71fc-5bb9c69cd061",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 27440
+    },
+    "d8be2611-4a3d-2dbc-02f6-e8acb12bd7d0": {
+      "uuid": "d8be2611-4a3d-2dbc-02f6-e8acb12bd7d0",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 27440
+    },
+    "d21074e9-428c-1fec-0684-51be1f90755c": {
+      "uuid": "d21074e9-428c-1fec-0684-51be1f90755c",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 50,
+      "xp": 27440
+    },
+    "549f000e-418b-1c55-4798-90ac9140bc0a": {
+      "uuid": "549f000e-418b-1c55-4798-90ac9140bc0a",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 27440
+    },
+    "6a63f056-4739-1183-81d7-e586bc9cc065": {
+      "uuid": "6a63f056-4739-1183-81d7-e586bc9cc065",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 27440
+    },
+    "42c85300-4be6-cecf-adc3-7c91a29d4c08": {
+      "uuid": "42c85300-4be6-cecf-adc3-7c91a29d4c08",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 27440
+    },
+    "cef68194-487f-3a9a-f6de-41857d47b0f0": {
+      "uuid": "cef68194-487f-3a9a-f6de-41857d47b0f0",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 27440
+    },
+    "ca94c1f0-465c-66b7-db0a-d29dd566ca4a": {
+      "uuid": "ca94c1f0-465c-66b7-db0a-d29dd566ca4a",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 29400
+    },
+    "2888a489-40bc-c7af-dc53-3dbd63cbc910": {
+      "uuid": "2888a489-40bc-c7af-dc53-3dbd63cbc910",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 29400
+    },
+    "820d97c7-4a41-348c-f356-3aa3cb2aed9c": {
+      "uuid": "820d97c7-4a41-348c-f356-3aa3cb2aed9c",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 29400
+    },
+    "5c5b646c-45a4-15d1-6d15-80b7de4e868f": {
+      "uuid": "5c5b646c-45a4-15d1-6d15-80b7de4e868f",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 29400
+    },
+    "dc26b157-4925-6507-161b-5e81dc0c8fcf": {
+      "uuid": "dc26b157-4925-6507-161b-5e81dc0c8fcf",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 29400
+    },
+    "a4d9af3e-4765-4f68-a8fc-2dbda887b85e": {
+      "uuid": "a4d9af3e-4765-4f68-a8fc-2dbda887b85e",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 29400
+    },
+    "8d7f3930-47fb-f9a2-4b0c-689df754b4b1": {
+      "uuid": "8d7f3930-47fb-f9a2-4b0c-689df754b4b1",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 29400
+    },
+    "73cbb1e1-4567-a037-1060-be8213a3a8d5": {
+      "uuid": "73cbb1e1-4567-a037-1060-be8213a3a8d5",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 29400
+    },
+    "86d82345-4cda-dc2e-74c3-61b9970ad783": {
+      "uuid": "86d82345-4cda-dc2e-74c3-61b9970ad783",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 29400
+    },
+    "e08c2568-467f-a71b-388a-0b96c5843b07": {
+      "uuid": "e08c2568-467f-a71b-388a-0b96c5843b07",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 50,
+      "xp": 15840
+    },
+    "63d37570-4382-99c1-7e06-a3882300dfcc": {
+      "uuid": "63d37570-4382-99c1-7e06-a3882300dfcc",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 15840
+    },
+    "7c5226a3-4c79-03c0-24d5-a9bc25c685af": {
+      "uuid": "7c5226a3-4c79-03c0-24d5-a9bc25c685af",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 15840
+    },
+    "e71e0335-48a1-57d4-de4b-d4a453c376d4": {
+      "uuid": "e71e0335-48a1-57d4-de4b-d4a453c376d4",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 17600
+    },
+    "181c2cdd-4a7f-d37f-989c-a58d741484f3": {
+      "uuid": "181c2cdd-4a7f-d37f-989c-a58d741484f3",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 17600
+    },
+    "3de7536f-4a5d-31dc-9a3f-90ac2b7e0de2": {
+      "uuid": "3de7536f-4a5d-31dc-9a3f-90ac2b7e0de2",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 17600
+    },
+    "0c03d625-42bf-a040-5cca-e39bfa47cd1e": {
+      "uuid": "0c03d625-42bf-a040-5cca-e39bfa47cd1e",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 19360
+    },
+    "4b3e3355-403a-f14e-f1a2-2dbc17bfcaba": {
+      "uuid": "4b3e3355-403a-f14e-f1a2-2dbc17bfcaba",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 50,
+      "xp": 19360
+    },
+    "cd0c5177-410d-515e-c4cc-22a86b1865a9": {
+      "uuid": "cd0c5177-410d-515e-c4cc-22a86b1865a9",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 19360
+    },
+    "b3116669-4b93-0d43-748f-3e89341d3caa": {
+      "uuid": "b3116669-4b93-0d43-748f-3e89341d3caa",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 21120
+    },
+    "1e44b794-44d2-615a-702e-2ea1e6ee2b91": {
+      "uuid": "1e44b794-44d2-615a-702e-2ea1e6ee2b91",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 21120
+    },
+    "0661681f-497a-e649-a808-f8b0746e9587": {
+      "uuid": "0661681f-497a-e649-a808-f8b0746e9587",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 21120
+    },
+    "a4642129-41b9-86d4-c707-5a9b43ea66b0": {
+      "uuid": "a4642129-41b9-86d4-c707-5a9b43ea66b0",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 22880
+    },
+    "1a84bb05-4fd5-a3bd-0cc0-028d4398f1fc": {
+      "uuid": "1a84bb05-4fd5-a3bd-0cc0-028d4398f1fc",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 22880
+    },
+    "774f4e9d-4b87-60f9-47f8-a4a40c1191cb": {
+      "uuid": "774f4e9d-4b87-60f9-47f8-a4a40c1191cb",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 22880
+    },
+    "5a1263c9-4dbb-4692-a29a-fb92c13c0784": {
+      "uuid": "5a1263c9-4dbb-4692-a29a-fb92c13c0784",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 24640
+    },
+    "849c8162-46eb-1cc7-df05-72bd0f0cbb03": {
+      "uuid": "849c8162-46eb-1cc7-df05-72bd0f0cbb03",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 24640
+    },
+    "887ce52e-4f1e-94f6-c891-52bde275d6d3": {
+      "uuid": "887ce52e-4f1e-94f6-c891-52bde275d6d3",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 24640
+    },
+    "de631cbd-4b44-68d6-7d82-e3b6cd2c9767": {
+      "uuid": "de631cbd-4b44-68d6-7d82-e3b6cd2c9767",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 26400
+    },
+    "ec88a32c-45cb-ec77-f7e3-0abe7ef6cb8f": {
+      "uuid": "ec88a32c-45cb-ec77-f7e3-0abe7ef6cb8f",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 26400
+    },
+    "5879b6a2-47d1-5b55-f77a-a98aa79648fa": {
+      "uuid": "5879b6a2-47d1-5b55-f77a-a98aa79648fa",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 26400
+    },
+    "2efd0b82-4bc1-c0a9-1a6c-519d13b4c9b6": {
+      "uuid": "2efd0b82-4bc1-c0a9-1a6c-519d13b4c9b6",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 28160
+    },
+    "e592fca9-40bc-bbda-36fd-aeba55e7c82d": {
+      "uuid": "e592fca9-40bc-bbda-36fd-aeba55e7c82d",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 50,
+      "xp": 28160
+    },
+    "0f5a7830-4f8b-bf7b-bb56-bfb267375ef2": {
+      "uuid": "0f5a7830-4f8b-bf7b-bb56-bfb267375ef2",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 28160
+    },
+    "6d65bdab-420e-0a48-9f26-c290976e049b": {
+      "uuid": "6d65bdab-420e-0a48-9f26-c290976e049b",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 12000
+    },
+    "22b47484-4938-7416-1851-5eb41adb3e53": {
+      "uuid": "22b47484-4938-7416-1851-5eb41adb3e53",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 12000
+    },
+    "276b80b9-42b9-7bf4-c6f9-59b93b392732": {
+      "uuid": "276b80b9-42b9-7bf4-c6f9-59b93b392732",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 10080
+    },
+    "563bb75b-49e1-6126-44ca-4cbf8018cc99": {
+      "uuid": "563bb75b-49e1-6126-44ca-4cbf8018cc99",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 10080
+    },
+    "db00a741-4d22-b2f1-7dc1-53824f21b790": {
+      "uuid": "db00a741-4d22-b2f1-7dc1-53824f21b790",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 10080
+    },
+    "482104a5-406c-2790-7c4d-5b858f0d2ac6": {
+      "uuid": "482104a5-406c-2790-7c4d-5b858f0d2ac6",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 12320
+    },
+    "10d53efe-4bd6-8b3c-73b6-31ab4ee5946a": {
+      "uuid": "10d53efe-4bd6-8b3c-73b6-31ab4ee5946a",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 12320
+    },
+    "44bed718-4e24-be3b-bd04-e0949093ebf7": {
+      "uuid": "44bed718-4e24-be3b-bd04-e0949093ebf7",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 12320
+    },
+    "11a048cd-437c-5fe0-ac67-68ad460c392b": {
+      "uuid": "11a048cd-437c-5fe0-ac67-68ad460c392b",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 12320
+    },
+    "22084733-49d2-9c04-142b-b4bb54646247": {
+      "uuid": "22084733-49d2-9c04-142b-b4bb54646247",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 12320
+    },
+    "fc03f273-481b-373a-9885-fca28b7f3f8e": {
+      "uuid": "fc03f273-481b-373a-9885-fca28b7f3f8e",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 12320
+    },
+    "73533373-4a88-ae4b-042e-3d93c821f185": {
+      "uuid": "73533373-4a88-ae4b-042e-3d93c821f185",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 16800
+    },
+    "75819b52-40ac-2863-68e0-2eb6c8465b1c": {
+      "uuid": "75819b52-40ac-2863-68e0-2eb6c8465b1c",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 16800
+    },
+    "7cd076d7-4086-350a-b48c-d499fd62be32": {
+      "uuid": "7cd076d7-4086-350a-b48c-d499fd62be32",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 16800
+    },
+    "a485686e-4ee3-df50-c258-a19f4cac4e93": {
+      "uuid": "a485686e-4ee3-df50-c258-a19f4cac4e93",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 17920
+    },
+    "4cfbbe5b-479d-a2c4-f8fb-449924e8fdd4": {
+      "uuid": "4cfbbe5b-479d-a2c4-f8fb-449924e8fdd4",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 17920
+    },
+    "a5513b83-491c-e7da-7270-c986273b6749": {
+      "uuid": "a5513b83-491c-e7da-7270-c986273b6749",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 17920
+    },
+    "1b5115a8-4dbe-477c-9eb9-35ab93393173": {
+      "uuid": "1b5115a8-4dbe-477c-9eb9-35ab93393173",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 21280
+    },
+    "ace8ce3d-418c-1061-ca71-97a5be1575f3": {
+      "uuid": "ace8ce3d-418c-1061-ca71-97a5be1575f3",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 21280
+    },
+    "d29b28b1-4c27-92cf-f67d-9192144a6a25": {
+      "uuid": "d29b28b1-4c27-92cf-f67d-9192144a6a25",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 21280
+    },
+    "2cfd3f78-4f0c-c29e-ae92-69a00f4f6dd9": {
+      "uuid": "2cfd3f78-4f0c-c29e-ae92-69a00f4f6dd9",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 21280
+    },
+    "4f13d9b6-4f9b-cb16-fec7-c8901db92c1c": {
+      "uuid": "4f13d9b6-4f9b-cb16-fec7-c8901db92c1c",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 21280
+    },
+    "bdad95a4-485a-a3f0-29cd-dfa251080391": {
+      "uuid": "bdad95a4-485a-a3f0-29cd-dfa251080391",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 21280
+    },
+    "4ea83cbd-432b-0168-10b8-1ebf5b252c97": {
+      "uuid": "4ea83cbd-432b-0168-10b8-1ebf5b252c97",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 16000
+    },
+    "2982a572-4c8b-01f2-f36f-93b7be90e3de": {
+      "uuid": "2982a572-4c8b-01f2-f36f-93b7be90e3de",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 16000
+    },
+    "54e391ce-44c9-02ba-52bb-af8515101f8a": {
+      "uuid": "54e391ce-44c9-02ba-52bb-af8515101f8a",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 16000
+    },
+    "95016be3-4426-0fb9-2847-bb8d51965db9": {
+      "uuid": "95016be3-4426-0fb9-2847-bb8d51965db9",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 12800
+    },
+    "abe3773f-48f7-7474-38ba-61b400d649a5": {
+      "uuid": "abe3773f-48f7-7474-38ba-61b400d649a5",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 12800
+    },
+    "353f6548-404b-16e1-fb71-12a96c9356d2": {
+      "uuid": "353f6548-404b-16e1-fb71-12a96c9356d2",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 12800
+    },
+    "b72e4ef5-45ae-be4d-9904-919feb5385ce": {
+      "uuid": "b72e4ef5-45ae-be4d-9904-919feb5385ce",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 12800
+    },
+    "119e257a-43ca-62ce-e3df-c1b557b5a161": {
+      "uuid": "119e257a-43ca-62ce-e3df-c1b557b5a161",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 12800
+    },
+    "34dea042-4fac-37ca-0732-38852d5f05c4": {
+      "uuid": "34dea042-4fac-37ca-0732-38852d5f05c4",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 12800
+    },
+    "0a88855e-4493-07ee-0f0c-c9a17e9fddd0": {
+      "uuid": "0a88855e-4493-07ee-0f0c-c9a17e9fddd0",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 15360
+    },
+    "9ef2d13a-4e0f-0f13-075d-09a27dcdb952": {
+      "uuid": "9ef2d13a-4e0f-0f13-075d-09a27dcdb952",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 15360
+    },
+    "e326b562-4c50-c025-4e32-feb04ce7eeef": {
+      "uuid": "e326b562-4c50-c025-4e32-feb04ce7eeef",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 15360
+    },
+    "e02d1536-47ed-398b-6c97-51960b28f4f2": {
+      "uuid": "e02d1536-47ed-398b-6c97-51960b28f4f2",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 200,
+      "xp": 15360
+    },
+    "02d0c027-4bc3-2214-34ae-c3a32bd50cc1": {
+      "uuid": "02d0c027-4bc3-2214-34ae-c3a32bd50cc1",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 15360
+    },
+    "fc7ce719-4b5a-ebfe-ad49-12abeea8d534": {
+      "uuid": "fc7ce719-4b5a-ebfe-ad49-12abeea8d534",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 15360
+    },
+    "2c8c770a-4a03-ecd5-cd0f-579efb58f1ee": {
+      "uuid": "2c8c770a-4a03-ecd5-cd0f-579efb58f1ee",
+      "title": "You or your Ally Plant or Defuse Spikes",
+      "type": "EAresMissionType::Weekly",
+      "progress": 20,
+      "xp": 16640
+    },
+    "5367e459-48d0-bd75-e7ff-529987d8cbd6": {
+      "uuid": "5367e459-48d0-bd75-e7ff-529987d8cbd6",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 16640
+    },
+    "7599b482-471b-9c23-a63f-779a5a9e1bf2": {
+      "uuid": "7599b482-471b-9c23-a63f-779a5a9e1bf2",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 16640
+    },
+    "8062fa5a-4b9d-a900-dfd7-16b596de53f8": {
+      "uuid": "8062fa5a-4b9d-a900-dfd7-16b596de53f8",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 16640
+    },
+    "979395de-4b95-9347-bdd3-b088570291c9": {
+      "uuid": "979395de-4b95-9347-bdd3-b088570291c9",
+      "title": "Purchase Items from the Armory",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 16640
+    },
+    "25902c07-4c51-e57f-3beb-488cb4f3221d": {
+      "uuid": "25902c07-4c51-e57f-3beb-488cb4f3221d",
+      "title": "Use Your Ultimate",
+      "type": "EAresMissionType::Weekly",
+      "progress": 25,
+      "xp": 16640
+    },
+    "b9dfcdaf-4995-cce4-747c-b8b51fa23ca3": {
+      "uuid": "b9dfcdaf-4995-cce4-747c-b8b51fa23ca3",
+      "title": "Deal Damage",
+      "type": "EAresMissionType::Weekly",
+      "progress": 18000,
+      "xp": 19200
+    },
+    "1619dccb-466e-ea29-3a5f-6d9231c7bb07": {
+      "uuid": "1619dccb-466e-ea29-3a5f-6d9231c7bb07",
+      "title": "Play Rounds",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 19200
+    },
+    "f4d918e6-4e30-aa42-d662-b0ace8d3b2d6": {
+      "uuid": "f4d918e6-4e30-aa42-d662-b0ace8d3b2d6",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::Weekly",
+      "progress": 150,
+      "xp": 19200
+    },
+    "5cd21981-4f39-fb88-d663-329b5f9067c3": {
+      "uuid": "5cd21981-4f39-fb88-d663-329b5f9067c3",
+      "title": "Get Headshots",
+      "type": "EAresMissionType::Weekly",
+      "progress": 45,
+      "xp": 19200
+    },
+    "cc985a78-446d-3b75-82f7-ec8a7647317c": {
+      "uuid": "cc985a78-446d-3b75-82f7-ec8a7647317c",
+      "title": "Kill Enemies",
+      "type": "EAresMissionType::Weekly",
+      "progress": 100,
+      "xp": 19200
+    },
+    "44e10aba-47c9-84ed-7111-08ae0021e548": {
+      "uuid": "44e10aba-47c9-84ed-7111-08ae0021e548",
+      "title": "Play A Game",
+      "type": "EAresMissionType::Weekly",
+      "progress": 10,
+      "xp": 19200
+    },
+    "7d200649-4035-b911-085d-169934b987fe": {
+      "uuid": "7d200649-4035-b911-085d-169934b987fe",
+      "title": "Play A Game",
+      "type": null,
+      "progress": 1,
+      "xp": 5000
+    },
+    "60a885b6-4aaa-d17f-c497-6abda704d45a": {
+      "uuid": "60a885b6-4aaa-d17f-c497-6abda704d45a",
+      "title": "Purchase Shields",
+      "type": "EAresMissionType::NPE",
+      "progress": 35,
+      "xp": 5000
+    },
+    "6bc1923d-4738-c6aa-45d7-708ddac6c85b": {
+      "uuid": "6bc1923d-4738-c6aa-45d7-708ddac6c85b",
+      "title": "Purchase Shields",
+      "type": null,
+      "progress": 50,
+      "xp": 5000
+    },
+    "d4852e17-4e6b-e11f-a752-6ea97c9a6529": {
+      "uuid": "d4852e17-4e6b-e11f-a752-6ea97c9a6529",
+      "title": "Use Your Abilities",
+      "type": "EAresMissionType::NPE",
+      "progress": 30,
+      "xp": 5000
+    },
+    "428a1f42-449d-2d01-5aa6-d2adcee25ca6": {
+      "uuid": "428a1f42-449d-2d01-5aa6-d2adcee25ca6",
+      "title": "Gun Skills",
+      "type": "EAresMissionType::Tutorial",
+      "progress": 1,
+      "xp": -1
+    },
+    "0e8b2801-4291-ade1-a001-438e193521d5": {
+      "uuid": "0e8b2801-4291-ade1-a001-438e193521d5",
+      "title": "Mission",
+      "type": "EAresMissionType::Tutorial",
+      "progress": 1,
+      "xp": -1
+    },
+    "f4aa69f2-4af6-dd57-4751-c4b1a91b37e6": {
+      "uuid": "f4aa69f2-4af6-dd57-4751-c4b1a91b37e6",
+      "title": "Basic Movement",
+      "type": "EAresMissionType::Tutorial",
+      "progress": 1,
+      "xp": -1
+    },
+    "3926cd22-4abc-d238-e7a1-10a91c52face": {
+      "uuid": "3926cd22-4abc-d238-e7a1-10a91c52face",
+      "title": "Flanking Skills",
+      "type": "EAresMissionType::Tutorial",
+      "progress": 1,
+      "xp": -1
+    },
+    "ed572e15-4ece-ad46-3f09-bf9577286f49": {
+      "uuid": "ed572e15-4ece-ad46-3f09-bf9577286f49",
+      "title": "Skill Test",
+      "type": "EAresMissionType::Tutorial",
+      "progress": 1,
+      "xp": -1
+    },
+    "e4279f75-4a1d-d3d6-3607-729c87addca8": {
+      "uuid": "e4279f75-4a1d-d3d6-3607-729c87addca8",
+      "title": "Ability Usage",
+      "type": "EAresMissionType::Tutorial",
+      "progress": 1,
+      "xp": -1
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "formats": 1,
+  "gameversion": "A4D8EC488407271C",
+  "currencies": {
+    "version": "A4D8EC488407271C",
+    "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741": {
+      "uuid": "85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741",
+      "name": "VP",
+      "icon": "https://media.valorant-api.com/currencies/85ad13f7-3d1b-5128-9eb2-7cd8ee0b5741/displayicon.png"
+    },
+    "f08d4ae3-939c-4576-ab26-09ce1f23bb37": {
+      "uuid": "f08d4ae3-939c-4576-ab26-09ce1f23bb37",
+      "name": "Free Agents",
+      "icon": "https://media.valorant-api.com/currencies/f08d4ae3-939c-4576-ab26-09ce1f23bb37/displayicon.png"
+    },
+    "e59aa87c-4cbf-517a-5983-6e81511be9b7": {
+      "uuid": "e59aa87c-4cbf-517a-5983-6e81511be9b7",
+      "name": "Radianite Points",
+      "icon": "https://media.valorant-api.com/currencies/e59aa87c-4cbf-517a-5983-6e81511be9b7/displayicon.png"
+    }
+  }
+}
